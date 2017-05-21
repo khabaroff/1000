@@ -1,0 +1,42 @@
+baseURL = "https://1000.tocotronic.ru/"
+languageCode = "ru-ru"
+title = "1000 и 1 альбом" # 
+
+canonifyURLs = true
+theme = "hugo-theme-bleak"
+publishdir = "published"
+buildDrafts = true
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+
+[params]
+  description = "Я люблю свои пластинки больше, чем тебя"
+
+  Subtitle = "Я люблю свои пластинки больше, чем тебя"
+  cover = "/images/cover.jpg"
+
+  # Google analytics
+  googleAnalyticsUserID = "UA-xxxxxxxx-x"
+  domainVerification = "xxxxxxxxxxxxxxxxxxxxx"
+  disqus = "xxxxxxxxx"
+
+[author]
+  name = "Sergey Khabaroff"
+  homepage = "http://khabaroff.com"
+
+  [params.author]
+    firstName = "Sergey"
+    lastName = "Khabaroff"
+    gender = "Male"
+    userName = "username"
+    image = "//www.gravatar.com/avatar/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.png"
+    website = "http://www.foo.com"
+    twitter = "xxxxxxx"
+    github = "xxxxxxx"
+    facebook = "xxxxxxxxx"
+    linkedin = "xxxxxxxxx"
+    gplus = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+    gravatarHash = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
