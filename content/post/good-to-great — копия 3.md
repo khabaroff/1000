@@ -1,6 +1,5 @@
 +++
 date = "2017-04-13T19:58:20+03:00"
-draft = true
 title = "good to great"
 
 +++
