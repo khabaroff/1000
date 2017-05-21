@@ -4,6 +4,5 @@ draft = true
 title = "11111 good to great"
 
 +++
-
 I!!! read **Good to Great in January 2016**. An awesome read sharing detailed analysis on how good companies became great.
 
