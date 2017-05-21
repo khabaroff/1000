@@ -1,3 +1,11 @@
+.idea
+/depoyed
+/node_modules
+/published
+config.toml
+hugodeploy.yaml
+
+
 # Logs
 logs
 *.log
