@@ -1,42 +1,33 @@
 baseURL = "https://1000.tocotronic.ru/"
-languageCode = "ru-ru"
-title = "1000 и 1 альбом" # 
-
-canonifyURLs = true
-theme = "hugo-theme-bleak"
-publishdir = "published"
 buildDrafts = true
-
-[taxonomies]
-  category = "categories"
-  tag = "tags"
-
-
-[params]
-  description = "Я люблю свои пластинки больше, чем тебя"
-
-  Subtitle = "Я люблю свои пластинки больше, чем тебя"
-  cover = "/images/cover.jpg"
-
-  # Google analytics
-  googleAnalyticsUserID = "UA-xxxxxxxx-x"
-  domainVerification = "xxxxxxxxxxxxxxxxxxxxx"
-  disqus = "xxxxxxxxx"
-
+canonifyURLs = true
+languageCode = "ru-ru"
+publishdir = "published"
+theme = "hugo-theme-bleak"
+title = "1000 и 1 альбом"
 [author]
-  name = "Sergey Khabaroff"
-  homepage = "http://khabaroff.com"
-
-  [params.author]
-    firstName = "Sergey"
-    lastName = "Khabaroff"
-    gender = "Male"
-    userName = "username"
-    image = "//www.gravatar.com/avatar/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.png"
-    website = "http://www.foo.com"
-    twitter = "xxxxxxx"
-    github = "xxxxxxx"
-    facebook = "xxxxxxxxx"
-    linkedin = "xxxxxxxxx"
-    gplus = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
-    gravatarHash = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+homepage = "http://khabaroff.com"
+name = "Sergey Khabaroff"
+[params]
+cover = "/images/cover.jpg"
+description = "Я люблю свои пластинки больше, чем тебя"
+disqus = "xxxxxxxxx"
+domainverification = "xxxxxxxxxxxxxxxxxxxxx"
+googleanalyticsuserid = "UA-xxxxxxxx-x"
+subtitle = "Я люблю свои пластинки больше, чем тебя"
+[params.author]
+facebook = "https://www.facebook.com/khabaroff"
+firstname = "Sergey"
+gender = "Male"
+github = "https://github.com/khabaroff"
+gplus = "https://plus.google.com/+SergeyKhabaroff"
+gravatarhash = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+image = "//www.gravatar.com/avatar/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.png"
+lastname = "Khabaroff"
+linkedin = "https://www.linkedin.com/in/khabaroff/"
+twitter = "https://twitter.com/khabaroff"
+username = "khabaroff"
+website = "https://khabaroff.com/"
+[taxonomies]
+category = "categories"
+tag = "tags"
