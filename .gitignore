@@ -2,6 +2,7 @@
 /depoyed
 /node_modules
 /published
+/public
 config.toml
 hugodeploy.yaml
 
