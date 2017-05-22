@@ -12,11 +12,6 @@
   </url>
   
   <url>
-    <loc>https://1000.tocotronic.ru/post/post-title/</loc>
-    <lastmod>2017-05-21T13:00:28+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://1000.tocotronic.ru/post/good-to-great-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F-2/</loc>
     <lastmod>2017-04-13T19:58:20+03:00</lastmod>
   </url>
@@ -114,24 +109,6 @@
   <url>
     <loc>https://1000.tocotronic.ru/tags/reggae/</loc>
     <lastmod>2017-05-23T01:10:26+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://1000.tocotronic.ru/tags/tag1/</loc>
-    <lastmod>2017-05-21T13:00:28+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://1000.tocotronic.ru/tags/tag2/</loc>
-    <lastmod>2017-05-21T13:00:28+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://1000.tocotronic.ru/tags/taggsss/</loc>
-    <lastmod>2017-05-21T13:00:28+00:00</lastmod>
     <priority>0</priority>
   </url>
   

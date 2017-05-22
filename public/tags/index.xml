@@ -92,32 +92,5 @@
       <description></description>
     </item>
     
-    <item>
-      <title>Tag1</title>
-      <link>https://1000.tocotronic.ru/tags/tag1/</link>
-      <pubDate>Sun, 21 May 2017 13:00:28 +0000</pubDate>
-      
-      <guid>https://1000.tocotronic.ru/tags/tag1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tag2</title>
-      <link>https://1000.tocotronic.ru/tags/tag2/</link>
-      <pubDate>Sun, 21 May 2017 13:00:28 +0000</pubDate>
-      
-      <guid>https://1000.tocotronic.ru/tags/tag2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Taggsss</title>
-      <link>https://1000.tocotronic.ru/tags/taggsss/</link>
-      <pubDate>Sun, 21 May 2017 13:00:28 +0000</pubDate>
-      
-      <guid>https://1000.tocotronic.ru/tags/taggsss/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>
