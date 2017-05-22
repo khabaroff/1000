@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://1000.tocotronic.ru/post/bad-brains-banned-in-dc-bad-brains-greatest-riffs-2003/</loc>
+    <lastmod>2017-05-23T01:10:26+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://1000.tocotronic.ru/post/babyface-tender-lover-1989/</loc>
     <lastmod>2017-05-23T01:08:47+00:00</lastmod>
   </url>
@@ -49,7 +54,19 @@
   
   <url>
     <loc>https://1000.tocotronic.ru/</loc>
-    <lastmod>2017-05-23T01:08:47+00:00</lastmod>
+    <lastmod>2017-05-23T01:10:26+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://1000.tocotronic.ru/tags/4/</loc>
+    <lastmod>2017-05-23T01:10:26+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://1000.tocotronic.ru/tags/alternative/</loc>
+    <lastmod>2017-05-23T01:10:26+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -59,14 +76,44 @@
   </url>
   
   <url>
+    <loc>https://1000.tocotronic.ru/tags/dub/</loc>
+    <lastmod>2017-05-23T01:10:26+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://1000.tocotronic.ru/tags/hardcore-punk/</loc>
+    <lastmod>2017-05-23T01:10:26+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://1000.tocotronic.ru/tags/new-wave/</loc>
+    <lastmod>2017-05-23T01:10:26+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://1000.tocotronic.ru/post/</loc>
-    <lastmod>2017-05-23T01:08:47+00:00</lastmod>
+    <lastmod>2017-05-23T01:10:26+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://1000.tocotronic.ru/tags/punk/</loc>
+    <lastmod>2017-05-23T01:10:26+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://1000.tocotronic.ru/tags/rb/</loc>
     <lastmod>2017-05-23T01:08:47+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://1000.tocotronic.ru/tags/reggae/</loc>
+    <lastmod>2017-05-23T01:10:26+00:00</lastmod>
     <priority>0</priority>
   </url>
   
