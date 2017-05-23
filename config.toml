@@ -1,4 +1,4 @@
-baseURL = "httpы://1000.tocotronic.ru/"
+baseURL = "https://1000.tocotronic.ru/"
 buildDrafts = true
 canonifyURLs = true
 languageCode = "ru-ru"
@@ -31,3 +31,5 @@ website = "https://khabaroff.com/"
 [taxonomies]
 category = "categories"
 tag = "tags"
+
+#hugo --theme=hugo-theme-bleak --buildDrafts --baseURL="http://1000.dev/"
