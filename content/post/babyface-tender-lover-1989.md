@@ -2,9 +2,10 @@
 author = ""
 comments = true
 date = "2017-05-23T01:08:47Z"
-description = ""
+description = 1
 featured = false
 image = "/img/b/babyface-tender-lover-1989.jpg"
+menu = ""
 share = true
 slug = "babyface-tender-lover-1989"
 tags = ["R&B", "1"]
