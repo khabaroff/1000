@@ -1,20 +1,24 @@
-baseURL = "https://1000.tocotronic.ru/"
+baseURL = "https://khabaroff.com/1000/"
 buildDrafts = true
 canonifyURLs = true
 languageCode = "ru-ru"
 publishdir = "public"
 theme = "hugo-theme-bleak"
 title = "1000 и 1 альбом"
+
 [author]
 homepage = "http://khabaroff.com"
 name = "Sergey Khabaroff"
+
 [params]
 cover = "/images/cover.jpg"
 description = "Я люблю свои пластинки больше, чем тебя"
-disqus = "xxxxxxxxx"
-domainverification = "xxxxxxxxxxxxxxxxxxxxx"
-googleanalyticsuserid = "UA-xxxxxxxx-x"
+disqus = "khabaroff"
+#domainverification = "xxxxxxxxxxxxxxxxxxxxx"
+#googleanalyticsuserid = "UA-xxxxxxxx-x"
+googleTagManagerID = "GTM-M7P33X"
 subtitle = "Я люблю свои пластинки больше, чем тебя"
+
 [params.author]
 facebook = "https://www.facebook.com/khabaroff"
 firstname = "Sergey"
@@ -28,6 +32,7 @@ linkedin = "https://www.linkedin.com/in/khabaroff/"
 twitter = "https://twitter.com/khabaroff"
 username = "khabaroff"
 website = "https://khabaroff.com/"
+
 [taxonomies]
 category = "categories"
 tag = "tags"
