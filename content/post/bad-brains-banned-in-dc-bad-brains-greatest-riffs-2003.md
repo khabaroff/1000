@@ -2,12 +2,12 @@
 author = ""
 comments = true
 date = "2017-05-23T01:10:26Z"
-description = 4
+description = "⋆⋆⋆⋆"
 featured = false
 image = "/img/b/bad-brains-banned-in-dc-bad-brains-greatest-riffs-2003.jpg"
 share = true
 slug = "bad-brains-banned-in-dc-bad-brains-greatest-riffs-2003"
-tags = ["Alternative", "Punk", "New Wave", "Hardcore Punk", "Reggae", "Dub", "4"]
+tags = ["Alternative", "Punk", "New Wave", "Hardcore Punk", "Reggae", "Dub", "4⋆"]
 title = "Bad Brains — Banned in DC: Bad Brains' Greatest Riffs (2003)"
 
 +++

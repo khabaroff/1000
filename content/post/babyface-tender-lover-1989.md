@@ -2,12 +2,12 @@
 author = ""
 comments = true
 date = "2017-05-23T01:08:47Z"
-description = 1
+description = "⋆"
 featured = false
 image = "/img/b/babyface-tender-lover-1989.jpg"
 share = true
 slug = "babyface-tender-lover-1989"
-tags = ["R&B", "1"]
+tags = ["R&B", "1⋆"]
 title = "Babyface — Tender Lover (1989)"
 
 +++
