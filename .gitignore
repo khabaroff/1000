@@ -1,8 +1,5 @@
 .idea
-/depoyed
-/node_modules
-/published
-/public
+public/
 config.toml
 hugodeploy.yaml
 

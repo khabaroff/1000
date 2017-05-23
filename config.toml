@@ -1,8 +1,8 @@
-baseURL = "https://1000.tocotronic.ru/"
+baseURL = "http://1000.dev/"
 buildDrafts = true
 canonifyURLs = true
 languageCode = "ru-ru"
-publishdir = "published"
+publishdir = "public"
 theme = "hugo-theme-bleak"
 title = "1000 и 1 альбом"
 [author]
