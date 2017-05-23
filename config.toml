@@ -1,4 +1,4 @@
-baseURL = "http://1000.dev/"
+baseURL = "httpы://1000.tocotronic.ru/"
 buildDrafts = true
 canonifyURLs = true
 languageCode = "ru-ru"
