@@ -36,5 +36,3 @@ website = "https://khabaroff.com/"
 [taxonomies]
 category = "categories"
 tag = "tags"
-
-#hugo --theme=hugo-theme-bleak --buildDrafts --baseURL="http://1000.dev/"
