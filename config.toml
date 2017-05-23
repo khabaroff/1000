@@ -5,20 +5,15 @@ languageCode = "ru-ru"
 publishdir = "public"
 theme = "hugo-theme-bleak"
 title = "1000 и 1 альбом"
-
 [author]
 homepage = "http://khabaroff.com"
 name = "Sergey Khabaroff"
-
 [params]
 cover = "/images/cover.jpg"
 description = "Я люблю свои пластинки больше, чем тебя"
 disqus = "khabaroff"
-#domainverification = "xxxxxxxxxxxxxxxxxxxxx"
-#googleanalyticsuserid = "UA-xxxxxxxx-x"
-googleTagManagerID = "GTM-M7P33X"
+googletagmanagerid = "GTM-M7P33X"
 subtitle = "Я люблю свои пластинки больше, чем тебя"
-
 [params.author]
 facebook = "https://www.facebook.com/khabaroff"
 firstname = "Sergey"
@@ -32,7 +27,6 @@ linkedin = "https://www.linkedin.com/in/khabaroff/"
 twitter = "https://twitter.com/khabaroff"
 username = "khabaroff"
 website = "https://khabaroff.com/"
-
 [taxonomies]
 category = "categories"
 tag = "tags"
