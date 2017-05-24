@@ -18,4 +18,4 @@ title = "Beastie Boys — Licensed to Ill (1986)"
 
 На ошеломляющей громкости встретились металл, панк и рэп и создали тяжелую, ловкую, опьяненную своей мощью запись. Возникает чувство настоящего открытия и создания новой музыки, которое остается и много лет спустя, после многократного заслушивания, бесчисленных кривотолков, плагиата, и даже извинений от «Парней», которые, кажется, чувствуют себя виноватыми за этот токсичный и пропитанный пивом звук. Это одна из величайших записей своего времени.
 
-<iframe width="100%" height="auto" src="https://www.youtube.com/embed/EPWsaD9kqXg" frameborder="0" allowfullscreen="" async="" preload=""></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EPWsaD9kqXg" frameborder="0" allowfullscreen></iframe>
