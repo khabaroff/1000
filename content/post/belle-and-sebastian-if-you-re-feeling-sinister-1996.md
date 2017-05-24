@@ -1,7 +1,7 @@
 +++
  = ""
 author = ""
-category = "b"
+category = ""
 comments = true
 date = "2017-05-24T21:23:16Z"
 description = "⋆⋆⋆⋆"
