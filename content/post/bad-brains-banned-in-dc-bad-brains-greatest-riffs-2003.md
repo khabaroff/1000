@@ -1,10 +1,13 @@
 +++
+ = ""
 author = ""
+category = "b"
 comments = true
 date = "2017-05-23T01:10:26Z"
 description = "⋆⋆⋆⋆"
 featured = false
 image = "/img/b/bad-brains-banned-in-dc-bad-brains-greatest-riffs-2003.jpg"
+menu = ""
 share = true
 slug = "bad-brains-banned-in-dc-bad-brains-greatest-riffs-2003"
 tags = ["Alternative", "Punk", "New Wave", "Hardcore Punk", "Reggae", "Dub", "4⋆"]
