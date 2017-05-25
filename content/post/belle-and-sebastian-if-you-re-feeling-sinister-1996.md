@@ -1,7 +1,7 @@
 +++
 date = "2017-05-24T21:23:16Z"
 title = "Belle and Sebastian — If You're Feeling Sinister (1996)"
-slug = "belle-and-sebastian-if-you're-feeling-sinister-1996"
+slug = "belle-and-sebastian-if-youre-feeling-sinister-1996"
 tags = ["Pop Rock", "Alternative Pop Rock", "Alternative Indie Rock", "Chamber Pop", "Indie Pop", "Twee Pop"]
 rated = ["4⋆"]
 image = "/img/b/belle-and-sebastian-if-you're-feeling-sinister-1996.jpg"

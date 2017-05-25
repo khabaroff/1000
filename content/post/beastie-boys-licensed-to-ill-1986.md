@@ -1,7 +1,7 @@
 +++
 date = "2017-05-24T21:12:34Z"
 title = "Beastie Boys — Licensed to Ill (1986)"
-slug = "beastie-boys-licensed-to-Ill-1986"
+slug = "beastie-boys-licensed-to-ill-1986"
 tags = ["Rap", "Hip-Hop Golden Age", "East Coast Rap"]
 rated = ["4⋆"]
 image = "/img/b/beastie-boys-licensed-to-Ill-1986.jpg"
