@@ -36,5 +36,5 @@ twitter = "https://twitter.com/khabaroff"
 username = "khabaroff"
 website = "https://khabaroff.com/"
 [taxonomies]
-category = "categories"
+category = "rated"
 tag = "tags"

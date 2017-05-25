@@ -35,8 +35,8 @@
   				</div>
 <br/><br/>
 				<div class="post-tags">
-					{{if .Params.categories }}
-					{{ range $index, $cat := .Params.categories }}
+					{{if .Params.rated }}
+					{{ range $index, $cat := .Params.rated }}
 					<a href="{{ $baseurl }}rated/{{ $cat | urlize }}/">{{ $cat }}</a>
 					{{ end }}
 					{{ end }}
