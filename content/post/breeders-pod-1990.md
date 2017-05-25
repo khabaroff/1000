@@ -6,6 +6,7 @@ date = "2017-05-25T23:49:25+00:00"
 description = ""
 featured = false
 image = "/img/b/breeders-pod-1990.jpg"
+rated = "5⋆"
 share = true
 slug = "breeders-pod-1990"
 tags = "Pop Rock"
