@@ -64,3 +64,39 @@
 .icon-gplus:before { content: '\e80a'; } /* '' */
 .icon-facebook:before { content: '\e80b'; } /* '' */
 .icon-twitter:before { content: '\e80c'; } /* '' */
+
+
+.rotated {
+  -webkit-animation: rotate 10s linear infinite;
+  animation: rotate 10s linear infinite;
+
+}
+
+.rotated:hover {
+  -webkit-animation-play-state: paused;
+  -moz-animation-play-state: paused;
+  -o-animation-play-state: paused;
+  animation-play-state: paused;
+}
+
+
+@-webkit-keyframes rotate {
+  0% {
+    -webkit-transform: rotate(30deg);
+    transform: rotate(30deg);
+  }
+  100% {
+    -webkit-transform: rotate(390deg);
+    transform: rotate(390deg);
+  }
+}
+@keyframes rotate {
+  0% {
+    -webkit-transform: rotate(30deg);
+    transform: rotate(30deg);
+  }
+  100% {
+    -webkit-transform: rotate(390deg);
+    transform: rotate(390deg);
+  }
+}
