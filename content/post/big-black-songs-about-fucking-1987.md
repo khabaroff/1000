@@ -1,6 +1,5 @@
 +++
 date = "2017-05-26T00:40:58+00:00"
-draft = true
 image = "/img/b/big-black-songs-about-fucking-1987.jpg"
 rated = 4
 slug = "big-black-songs-about-fucking-1987"
