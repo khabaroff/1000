@@ -7,7 +7,8 @@ featured = false
 image = "/img/b/belle-and-sebastian-if-you're-feeling-sinister-1996.jpg"
 share = true
 slug = "belle-and-sebastian-if-you're-feeling-sinister-1996"
-tags = ["Pop Rock", "Alternative Pop Rock", "Alternative Indie Rock", "Chamber Pop", "Indie Pop", "Twee Pop", "4⋆"]
+tags = ["Pop Rock", "Alternative Pop Rock", "Alternative Indie Rock", "Chamber Pop", "Indie Pop", "Twee Pop"]
+categories = ["4⋆"]
 title = "Belle and Sebastian — If You're Feeling Sinister (1996)"
 
 +++

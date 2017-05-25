@@ -29,10 +29,20 @@
   				<div class="post-tags">
             {{if .Params.tags }}
             {{ range $index, $tag := .Params.tags }}
-                <a href="{{ $baseurl }}tags/{{ $tag | urlize }}/">{{ $tag }}</a>
+                <a href="{{ $baseurl }}tag/{{ $tag | urlize }}/">{{ $tag }}</a>
             {{ end }}
             {{ end }}
   				</div>
+<br/><br/>
+				<div class="post-tags">
+					{{if .Params.categories }}
+					{{ range $index, $cat := .Params.categories }}
+					<a href="{{ $baseurl }}rated/{{ $cat | urlize }}/">{{ $cat }}</a>
+					{{ end }}
+					{{ end }}
+				</div>
+
+
   				<div class="post-share">
   					<a class="icon-twitter" href="https://twitter.com/share?text={{ .Title }}&url={{ .Permalink }}" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
   						<span>Twitter</span>
@@ -46,7 +56,7 @@
   				</div>
   			</footer>
 
-  			{{ partial "comments.html" . }}
+  			{{ partial "comments.html" }}
 
 			</div>
 
@@ -73,6 +83,9 @@
 						</section>
 					</a>
 				{{ end }}
+
+
+				<!--{{ partial "related.html" . }}-->
 				<div class="clear"></div>
 			</nav>
 

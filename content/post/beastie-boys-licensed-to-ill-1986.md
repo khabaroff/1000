@@ -7,7 +7,8 @@ featured = false
 image = "/img/b/beastie-boys-licensed-to-Ill-1986.jpg"
 share = true
 slug = "beastie-boys-licensed-to-Ill-1986"
-tags = ["Rap", "Hip-Hop Golden Age", "East Coast Rap", "4⋆"]
+tags = ["Rap", "Hip-Hop Golden Age", "East Coast Rap"]
+categories = ["4⋆"]
 title = "Beastie Boys — Licensed to Ill (1986)"
 
 +++
