@@ -8,6 +8,7 @@ image = "/img/b/babyface-tender-lover-1989.jpg"
 share = true
 slug = "babyface-tender-lover-1989"
 tags = ["R&B", "1⋆"]
+category = "1"
 title = "Babyface — Tender Lover (1989)"
 
 +++
