@@ -10,11 +10,11 @@ homepage = "http://khabaroff.com"
 name = "Sergey Khabaroff"
 [[menu.main]]
 name = "⋆⋆⋆⋆"
-url = "/tags/4/"
+url = "/tag/4/"
 weight = -100
 [[menu.main]]
 name = "⋆"
-url = "/tags/1/"
+url = "/tag/1/"
 weight = -110
 [params]
 cover = "/images/cover.jpg"
