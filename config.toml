@@ -37,4 +37,4 @@ username = "khabaroff"
 website = "https://khabaroff.com/"
 [taxonomies]
 category = "categories"
-tag = "tags"
+tags = "tags"
