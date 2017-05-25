@@ -28,8 +28,8 @@
   			<footer class="post-footer">
   				<div class="post-tags">
             {{if .Params.tags }}
-            {{ range $index, $tag := .Params.tag }}
-                <a href="{{ $baseurl }}tag/{{ $tag | urlize }}/">{{ $tag }}</a>
+            {{ range $index, $tags := .Params.tags }}
+                <a href="{{ $baseurl }}tag/{{ $tags | urlize }}/">{{ $tags }}</a>
             {{ end }}
             {{ end }}
   				</div>
