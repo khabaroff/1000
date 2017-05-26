@@ -29,7 +29,7 @@
   				<div class="post-tags">
             {{if .Params.tags }}
             {{ range $index, $tags := .Params.tags }}
-                <a href="{{ $baseurl }}tag/{{ $tags | urlize }}/">{{ $tags }}</a>
+                <a href="{{ $baseurl }}tags/{{ $tags | urlize }}/">{{ $tags }}</a>
             {{ end }}
             {{ end }}
   				</div>

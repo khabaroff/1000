@@ -266,7 +266,6 @@ jQuery(function($) {
       // Fade out
       $('#loader-wrapper').fadeOut(300);
       $('#wrapper').fadeIn(800);
-
     });
 
     if (!History.enabled) {
@@ -307,10 +306,8 @@ jQuery(function($) {
     });
 
     $('body').on('click', '.js-ajax-link', function(e) {
-
-        ga('send', 'pageview', window.location.href);
-        
         e.preventDefault();
+
         var link = $(this);
 
         if (link.hasClass('post-nav-item') || link.hasClass('pagination-item')) {
