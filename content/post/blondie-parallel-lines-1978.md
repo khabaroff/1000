@@ -1,5 +1,5 @@
 +++
-date = "2017-05-26T11:00:50+00:00"
+date = "2017-05-26T11:00:50Z"
 image = "/img/b/blondie-parallel-lines-1978.jpg"
 rated = ["4⋆"]
 slug = "blondie-parallel-lines-1978"

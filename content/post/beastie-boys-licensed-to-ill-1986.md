@@ -1,10 +1,10 @@
 +++
 date = "2017-05-24T21:12:34Z"
-title = "Beastie Boys — Licensed to Ill (1986)"
+image = "/img/b/beastie-boys-licensed-to-Ill-1986.jpg"
+rated = ["4⋆"]
 slug = "beastie-boys-licensed-to-ill-1986"
 tags = ["Rap", "Hip-Hop Golden Age", "East Coast Rap"]
-rated = ["4⋆"]
-image = "/img/b/beastie-boys-licensed-to-Ill-1986.jpg"
+title = "Beastie Boys — Licensed to Ill (1986)"
 
 +++
 Очаровательно желчный дебют «Чудовищных парней» по-прежнему приятно слушать. Несмотря на глупости и неловкости, Эд Рок, Майк Ди и ЭмСиЭй невероятно талантливы как вокалисты; содержание песен может казаться глупым, но их читка смертельно серьезна.

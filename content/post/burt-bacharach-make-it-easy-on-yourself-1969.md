@@ -1,5 +1,5 @@
 +++
-date = "2017-05-26T11:17:02+00:00"
+date = "2017-05-26T11:17:02Z"
 image = "/img/b/burt-bacharach-make-it-easy-on-yourself-1969.jpg"
 rated = ["5"]
 slug = "burt-bacharach-make-it-easy-on-yourself-1969"
