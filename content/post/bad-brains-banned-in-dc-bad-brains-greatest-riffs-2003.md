@@ -1,10 +1,10 @@
 +++
 date = "2017-05-23T01:10:26Z"
-title = "Bad Brains — Banned in DC: Bad Brains' Greatest Riffs (2003)"
+image = "/img/b/bad-brains-banned-in-dc-bad-brains-greatest-riffs-2003.jpg"
+rated = ["4⋆"]
 slug = "bad-brains-banned-in-dc-bad-brains-greatest-riffs-2003"
 tags = ["Alternative", "Punk", "New Wave", "Hardcore Punk", "Reggae", "Dub"]
-rated = ["4⋆"]
-image = "/img/b/bad-brains-banned-in-dc-bad-brains-greatest-riffs-2003.jpg"
+title = "Bad Brains — Banned in DC: Bad Brains' Greatest Riffs (2003)"
 
 +++
 В 1979-м четверо черных, одержимых джазом подростков из Вашингтона, округ Колумбия, открыли  для себя «Сексуальных Пистолетов», «Столкновение» и растафарианизм, и вместе с группой «Черный Флаг» с другого конца страны ненароком создали целое молодежное движение. Они изобрели хардкор и сами же раздвигали его рамки.
