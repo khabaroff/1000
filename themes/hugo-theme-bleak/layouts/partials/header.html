@@ -127,7 +127,7 @@
     </script>
 {{ end }}
 
-    {{ if ne .Params.comments false}}
+
     <script type="text/javascript">
     {{ $doc := . }}
     {{ with .Site.Params.disqus }}
@@ -137,7 +137,6 @@
       var disqus_url = '{{if isset $doc.Params "disqus_url" }}{{ index $doc.Params "disqus_url" | html  }}{{ else }}{{ $doc.Permalink }}{{end}}';
     {{ end }}
     </script>
-    {{ end }}
 
     <script type="text/javascript">
       var config = {
