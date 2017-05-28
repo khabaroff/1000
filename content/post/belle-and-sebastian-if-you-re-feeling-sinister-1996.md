@@ -7,6 +7,6 @@ tags = ["Pop Rock", "Alternative Pop Rock", "Alternative Indie Rock", "Chamber P
 title = "Belle and Sebastian — If You're Feeling Sinister (1996)"
 
 +++
-Причудливый и манерный, остроумный и нежный, сложно устроенный альбом. Сделанный в традициях колледж-рока и звучащий как ретро, альбом имеет вневременной характер. «Если ты чувствуешь себя злым» звучит как великий позабытый альбом, выдержанный в стиле инди 80-х, с мироощущением 90-х и духом фолк-попа 60-х. Красивый, благодатный и вне времени.
+Причудливый и&nbsp;манерный, остроумный и&nbsp;нежный, сложно устроенный альбом. Сделанный в&nbsp;традициях колледж-рока и&nbsp;звучащий как ретро, альбом имеет вневременной характер. &laquo;Если ты&nbsp;чувствуешь себя злым&raquo; звучит как великий позабытый альбом, выдержанный в&nbsp;стиле инди 80-х, с&nbsp;мироощущением 90-х и&nbsp;духом фолк-попа 60-х. Красивый, благодатный и&nbsp;вне времени.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wbpbgeIBH5E" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a-UMJ6MP_DM" frameborder="0" allowfullscreen></iframe>
