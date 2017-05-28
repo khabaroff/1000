@@ -1,5 +1,5 @@
 +++
-date = "2017-05-28T17:25:16+00:00"
+date = "2017-05-28T17:25:16Z"
 image = "/img/b/boards-of-canada-music-has-the-right-to-children-1998.jpg"
 rated = ["3"]
 slug = "boards-of-canada-music-has-the-right-to-children-1998"
