@@ -1,5 +1,5 @@
 +++
-date = "2017-05-28T20:42:14+00:00"
+date = "2017-05-28T20:42:14Z"
 image = "/img/b/black-flag-the-first-four-years-1983.jpg"
 rated = ["4"]
 slug = "black-flag-the-first-four-years-1983"

@@ -9,17 +9,17 @@ title = "1000 и 1 альбом"
 homepage = "http://khabaroff.com"
 name = "Sergey Khabaroff"
 [[menu.main]]
-name = "⋆⋆⋆⋆"
-url = "/rated/4/"
-weight = 3
+name = "⋆⋆"
+url = "/rated/2/"
+weight = 1
 [[menu.main]]
 name = "⋆⋆⋆"
 url = "/rated/3/"
 weight = 2
 [[menu.main]]
-name = "⋆⋆"
-url = "/rated/2/"
-weight = 1
+name = "⋆⋆⋆⋆"
+url = "/rated/4/"
+weight = 3
 [[menu.main]]
 name = "⋆⋆⋆⋆⋆"
 url = "/rated/5/"
