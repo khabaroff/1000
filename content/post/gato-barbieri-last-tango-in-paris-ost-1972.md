@@ -1,5 +1,5 @@
 +++
-date = "2017-05-30T23:43:33+00:00"
+date = "2017-05-30T23:43:33Z"
 image = "/img/b/gato-barbieri-last-tango-in-paris-ost-1972.jpg"
 rated = ["2"]
 slug = "gato-barbieri-last-tango-in-paris-ost-1972"
