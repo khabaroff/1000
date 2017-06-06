@@ -9,7 +9,7 @@
 
   			<header class="post-header">
   				<span class="post-meta">
-						<span class="post-date">{{ .Date.Format "2.01.2006" }}</span>
+						<span class="post-date">{{ .Date.Format "02.01.2006" }}</span>
   				</span>
   				<div class="clear"></div>
   				<h1 class="post-title">{{ .Title }}</h1>
@@ -26,28 +26,9 @@
   			</section>
 
   			<footer class="post-footer">
-  				<div class="post-tags">
-            {{if .Params.tags }}
-            {{ range $index, $tags := .Params.tags }}
-                <a href="{{ $baseurl }}tags/{{ $tags | urlize }}/">{{ $tags }}</a>
-            {{ end }}
-            {{ end }}
-  				</div>
-<br/><br/>
-				<div class="post-tags">
-					{{if .Params.rated }}
-					{{ range $index, $cat := .Params.rated }}
-					<a href="{{ $baseurl }}rated/{{ $cat | urlize }}/">{{ $cat }}</a>
-					{{ end }}
-					{{ end }}
-				</div>
 
 <br/><br/>
 				<p>Нашли ошибку? Отправляйте правки <a href="https://github.com/khabaroff/1000/blob/master/content/post/{{ .URLPath.Slug }}.md">на github</a></p>
-
-
-
-				<!--https://github.com/khabaroff/1000/blob/master/content/post/belle-and-sebastian-if-you-re-feeling-sinister-1996.md-->
 
 
   				<div class="post-share">
@@ -66,37 +47,6 @@
   			{{ partial "comments.html" . }}
 
 			</div>
-
-			<nav class="post-nav">
-				{{ if .NextInSection }}
-					<a class="post-nav-item post-nav-next" href="{{ .NextInSection.Permalink }}">
-						<section class="post-nav-teaser">
-							<span class="post-nav-icon"><i class="icon-arrow-left"></i></span>
-							<span class="post-nav-info">
-								<h4 class="post-nav-title">{{ .NextInSection.Title }}</h4>
-								<!--<p class="post-nav-excerpt">{{ .NextInSection.Description }}&hellip;</p>-->
-							</span>
-						</section>
-					</a>
-				{{ end }}
-				{{ if .PrevInSection }}
-					<a class="post-nav-item post-nav-prev" href="{{ .PrevInSection.Permalink }}">
-						<section class="post-nav-teaser">
-							<span class="post-nav-icon"><i class="icon-arrow-right"></i></span>
-							<span class="post-nav-info">
-								<h4 class="post-nav-title">{{ .PrevInSection.Title }}</h4>
-								<!--<p class="post-nav-excerpt">{{ .PrevInSection.Description }}&hellip;</p>-->
-							</span>
-						</section>
-					</a>
-				{{ end }}
-
-
-
-
-				<!--{{ partial "related.html" . }}-->
-				<div class="clear"></div>
-			</nav>
 
 		</div>
 	</article>
