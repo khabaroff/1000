@@ -10,7 +10,7 @@ homepage = "http://khabaroff.com"
 name = "Sergey Khabaroff"
 [[menu.main]]
 name = "О проекте"
-url = "https://khabaroff.com/1000/about/"
+url = "https://khabaroff.com/1000/page/about/"
 weight = 1
 [[menu.main]]
 name = "⋆⋆"
