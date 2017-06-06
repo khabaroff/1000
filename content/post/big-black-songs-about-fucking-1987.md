@@ -1,7 +1,7 @@
 +++
 date = "2017-05-26T00:40:58Z"
 image = "/img/b/big-black-songs-about-fucking-1987.jpg"
-rated = ["4⋆"]
+rated = ["4"]
 slug = "big-black-songs-about-fucking-1987"
 tags = ["Pop Rock", "Alternative", "Indie Rock", "American Underground", "Noise Rock", "Post Hardcore", "Alternative Pop Rock"]
 title = "Big Black — Songs About Fucking (1987)"

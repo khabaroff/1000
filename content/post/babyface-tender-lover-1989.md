@@ -1,7 +1,7 @@
 +++
 date = "2017-05-23T01:08:47Z"
 image = "/img/b/babyface-tender-lover-1989.jpg"
-rated = ["1⋆"]
+rated = ["1"]
 slug = "babyface-tender-lover-1989"
 tags = ["R&B"]
 title = "Babyface — Tender Lover (1989)"

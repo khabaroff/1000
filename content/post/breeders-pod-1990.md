@@ -1,7 +1,7 @@
 +++
 date = "2017-05-25T23:49:25Z"
 image = "/img/b/breeders-pod-1990.jpg"
-rated = ["5⋆"]
+rated = ["5"]
 slug = "breeders-pod-1990"
 tags = ["Pop Rock", "Alternative Pop", "Rock", "Alternative", "Indie Rock"]
 title = "Breeders — Pod (1990)"

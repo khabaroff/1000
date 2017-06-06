@@ -1,7 +1,7 @@
 +++
 date = "2017-05-26T10:54:18Z"
 image = "/img/b/blackstreet-blackstreet-1994.jpg"
-rated = ["1⋆"]
+rated = ["1"]
 slug = "blackstreet-blackstreet-1994"
 tags = ["R&B", "Contemporary R&B", "Adult Contemporary R&B"]
 title = "Blackstreet — Blackstreet (1994)"

@@ -1,7 +1,7 @@
 +++
 date = "2017-05-26T11:00:50Z"
 image = "/img/b/blondie-parallel-lines-1978.jpg"
-rated = ["4⋆"]
+rated = ["4"]
 slug = "blondie-parallel-lines-1978"
 tags = ["American Punk", "Contemporary Pop", "Dance Rock", "New Wave", "New York Punk", "Punk"]
 title = "Blondie — Parallel Lines (1978)"
