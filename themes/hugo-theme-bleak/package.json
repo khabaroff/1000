@@ -19,5 +19,8 @@
     "grunt-postcss": "^0.8.0",
     "grunt-sass": "^2.0.0",
     "load-grunt-tasks": "^3.5.2"
+  },
+  "dependencies": {
+    "grunt-cli": "^1.2.0"
   }
 }

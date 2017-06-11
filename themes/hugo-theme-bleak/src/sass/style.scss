@@ -905,8 +905,10 @@ body {
 		display: block;
 		margin: 1em auto 0;
 		color: $color-gray-65;
-		position: relative;
+		//position: relative;
 		font-weight: 300;
+		text-align: center;
+
 
 		&:after {
 			content: '';
@@ -924,6 +926,7 @@ body {
 
 		.header-description {
 			color: #fff;
+			text-align: center;
 
 			&:after {
 				background: #fff;
