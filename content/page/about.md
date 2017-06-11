@@ -7,8 +7,6 @@ tags = ""
 title = "О проекте"
 
 +++
-
-
 Десять лет назад The Guardian опубликовали подборку «[1000 albums to hear before you die](https://www.theguardian.com/music/series/1000-albums-to-hear-before-you-die)». Я собираюсь:
 
 — прослушать их все, чтобы расширить кругозор
