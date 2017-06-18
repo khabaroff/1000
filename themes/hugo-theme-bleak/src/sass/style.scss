@@ -40,8 +40,9 @@ $color-primary-active:		$color-green-72; /* Dark */
 html {}
 
 body {
-	font: 300 1em / 1.5em 'Merriweather Sans', sans-serif;
+	font: 300 1em / 1.5em 'PT Sans', sans-serif;
 	color: $color-gray-40;
+    background: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%);
 }
 
 ::-moz-selection, ::selection {
@@ -401,9 +402,7 @@ iframe {
 	}
 }
 
-body {
-	background: #fff;
-}
+
 
 .menu-initial {
 
@@ -436,7 +435,7 @@ body {
 	width: 100%;
 	min-height: 100vh;
 	padding-bottom: 6em;
-	background: $color-gray-97;
+	//background: $color-gray-97;
 }
 
 
@@ -547,7 +546,7 @@ body {
 
 #nav {
 	position: relative;
-	background: #fff;
+	//background: #fff;
 	z-index: 70;
 	transition: all ease-out 0.4s;
 	transform: translate3d(0,0,0);
@@ -1007,7 +1006,7 @@ body {
 		left: 0;
 		margin-top: -4em;
 		padding: 4em 0;
-		background: no-repeat fixed center 100% / cover;
+		//background: no-repeat fixed center 100% / cover;
 		z-index: 1;
 
 		 &:before {
@@ -1017,7 +1016,7 @@ body {
 			  height: 100%;
 			  left: 0;
 			  top: 0;
-			background: rgba(0,0,0,0.2);
+			  //background:
 		 }
 
 		 &:after {
@@ -1026,7 +1025,7 @@ body {
 			  width: 100%;
 			  left: 0;
 			  bottom: 0;
-			border-bottom: 4px solid $color-primary-default;
+			border-bottom: 4px solid #000;
 		 }
 	}
 }
@@ -1043,8 +1042,8 @@ body {
 	bottom: 0;
 	font-size: 0.75em;
 	line-height: 1.334em;
-	background: $color-gray-15;
-	color: $color-gray-50;
+	//background: $color-gray-15;
+	color: $color-gray-15;
 	z-index: 20;
 	transition: all ease-out 0.4s;
 	transform: translate3d(0,0,0);
@@ -1437,8 +1436,8 @@ body {
 	}
 
 	.post-tags {
-		float: left;
-		max-width: 60%;
+		width: 100%;
+        margin-bottom: 50px;
 
 		a {
 			font-size: 0.875em;
@@ -1449,7 +1448,7 @@ body {
 			padding: 0.286em 0.714em;
 			border-radius: 2px;
 			color: #fff;
-			text-shadow: 0 0 2px $color-primary-active;
+			//text-shadow: 0 0 2px $color-primary-active;
 			background: $color-primary-default;
 			font-weight: 300;
 
@@ -1461,45 +1460,14 @@ body {
 	}
 
 	.post-share {
-		float: right;
+      width: 100%;
+      margin-bottom: 50px;
 
 		a {
-			font-size: 0.75em;
-			display: block;
-			width: 2em;
-			height: 2em;
-			line-height: 2em;
-			text-align: center;
-			text-decoration: none;
-			padding: 0.334em;
-			margin: 0 0 0.334em 0.334em;
-			float: left;
-			border-radius: 2px;
+
 			color: #fff;
-			background: $color-gray-50;
+			text-decoration: underline;
 
-			&:hover,
-			&:focus {
-
-			}
-
-			&:before {
-				margin: auto;
-			}
-
-			span {
-				display: none;
-			}
-
-			&.icon-twitter {
-				background-color: #3ea9dd;
-			}
-			&.icon-facebook {
-				background-color: #3c5a98;
-			}
-			&.icon-gplus {
-				background-color: #d14836;
-			}
 		}
 	}
 }
