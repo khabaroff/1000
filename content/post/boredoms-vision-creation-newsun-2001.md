@@ -1,5 +1,5 @@
 +++
-date = "2017-06-23T01:29:17+00:00"
+date = "2017-06-23T01:29:17Z"
 image = "/img/b/boredoms-vision-creation-newsun-2001.jpg"
 rated = ["4"]
 slug = "boredoms-vision-creation-newsun-2001"
