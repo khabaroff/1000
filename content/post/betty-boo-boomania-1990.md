@@ -1,7 +1,7 @@
 +++
 date = "2017-06-20T14:10:46Z"
 image = "/img/b/betty-boo-boomania-1990.jpg"
-rated = []
+rated = ["1"]
 slug = "betty-boo-boomania-1990"
 tags = ["Pop Rock", "Electronic", "Rap", "Club Dance", "Dance Pop", "Pop Rap"]
 title = "Betty Boo — Boomania (1990)"
