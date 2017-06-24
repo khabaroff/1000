@@ -36,7 +36,7 @@
             {{ end }}
   				</div>
 
-				<div class="post-tags">
+				<div class="post-tags rated">
 					{{if .Params.rated }}
 					{{ range $index, $cat := .Params.rated }}
 					<a href="{{ $baseurl }}rated/{{ $cat | urlize }}/">{{ $cat }}</a>

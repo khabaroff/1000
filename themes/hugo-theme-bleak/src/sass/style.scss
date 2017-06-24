@@ -1135,16 +1135,6 @@ iframe {
 		text-indent: -1px;
 		margin: 0.25em 0 0.75em;
 
-		&:before {
-			content: '';
-			position: absolute;
-			left: 0;
-			bottom: -0.334em;
-			width: 1em;
-			margin-bottom: -2px;
-			border-bottom: 4px solid $color-primary-default;
-		}
-
 		a {
 			text-decoration: none;
 			color: inherit;
@@ -1309,8 +1299,8 @@ iframe {
 		}
 
 		.inner {
-			padding: 2em;
-			margin: 0.5em;
+			padding: 2em 2em 1em 2em;
+            margin: .5em .5em .5em .5em;
 			max-width: none;
 			background: #fff;
 			box-sizing: border-box;
@@ -1357,7 +1347,7 @@ iframe {
 				width: 110%;
 				height: 4em;
 				background: #fff;
-				border-top: 4px solid $color-primary-default;
+				//border-top: 4px solid $color-primary-default;
 				box-shadow: 0 0 2em rgba(0,0,0,0.2);
 				transform: rotate(5deg);
 				transition: all ease-out 0.2s;
@@ -1395,7 +1385,17 @@ iframe {
 		}
 
 		.post-excerpt {
-			margin: 0;
+            margin: 0;
+            background: url('../img/star.svg');
+            background-repeat: no-repeat;
+            background-position: center left;
+            color: #fff;
+            text-align: left;
+            padding-left: 10px;
+            padding-top: 5px;
+            margin-bottom: -5px;
+          position: relative;
+          top: -15px;
 		}
 
 		.post-more {
@@ -1457,7 +1457,15 @@ iframe {
 				background: $color-primary-active;
 			}
 		}
+
+        &.rated a {
+          background: url('../img/star.svg');
+          background-repeat: no-repeat;
+        }
+
+
 	}
+
 
 	.post-share {
       width: 100%;
@@ -1476,6 +1484,8 @@ iframe {
 	margin: 4em 0;
 	border-radius: 2px;
 }
+
+
 
 /* ==========================================================================
    Post Nav
