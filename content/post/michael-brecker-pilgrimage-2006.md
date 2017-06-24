@@ -1,5 +1,5 @@
 +++
-date = "2017-06-21T14:19:05+00:00"
+date = "2017-06-21T14:19:05Z"
 image = "/img/b/michael-brecker-pilgrimage-2006.jpg"
 rated = ["2"]
 slug = "michael-brecker-pilgrimage-2006"
