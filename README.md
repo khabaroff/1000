@@ -1,3 +1,5 @@
+<p align="center"><img src="https://raw.githubusercontent.com/khabaroff/1000/master/static/img/readme.png"></p>
+
 Десять лет назад The Guardian опубликовали подборку «[1000 albums to hear before you die](https://www.theguardian.com/music/series/1000-albums-to-hear-before-you-die)». Я собираюсь:
 
 — прослушать их все, чтобы расширить кругозор<br/>— поставить оценки от 1 до 5, чтобы выразить отношение<br/>— перевести рецензии на альбомы с [AllMusic](http://www.allmusic.com/), чтобы запомнить
