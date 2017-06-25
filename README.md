@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/khabaroff/1000/master/static/img/readme.png"></p>
+<p align="center"><img src="https://khabaroff.com/1000/img/readme.jpg"></p>
 
 Десять лет назад The Guardian опубликовали подборку «[1000 albums to hear before you die](https://www.theguardian.com/music/series/1000-albums-to-hear-before-you-die)». Я собираюсь:
 
