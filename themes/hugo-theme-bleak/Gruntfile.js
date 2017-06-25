@@ -19,7 +19,8 @@ module.exports = function(grunt) {
                 'bower_components/fitvids/jquery.fitvids.js',
                 //'bower_components/highlightjs/highlight.pack.min.js',
                 'bower_components/nprogress/nprogress.js',
-                'src/js/vendor/gist-embed.min.js'
+                // 'src/js/vendor/gist-embed.min.js',
+                'src/js/vendor/lastfm-recent-tracks.js'
             ],
             'cssDependencies': [
                 'bower_components/normalize.css/normalize.css',
