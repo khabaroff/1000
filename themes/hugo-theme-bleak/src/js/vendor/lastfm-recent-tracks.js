@@ -8,7 +8,7 @@ function recentLFM(user,apikey,limit,container) {
 	var counter = 0;
 	var list = '<p></p>';
 
-    $.getJSON("http://ws.audioscrobbler.com/2.0/?method=user.getRecentTracks&user="+user+"&api_key="+apikey+"&limit="+limit+"&format=json&callback=?", function(data) {
+    $.getJSON("//ws.audioscrobbler.com/2.0/?method=user.getRecentTracks&user="+user+"&api_key="+apikey+"&limit="+limit+"&format=json&callback=?", function(data) {
      	console.log(data);
         $.each(data.recenttracks.track, function(i, item) {
 	         
