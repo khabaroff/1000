@@ -14,7 +14,7 @@
 <meta property="og:image" content="{{ .Site.BaseURL }}{{.Params.image}}"/>
 {{else}}
 {{if .Site.Params.cover}}
-<meta property="og:image" content="https://khabaroff.com/1000{{.Site.Params.cover}}"/>
+<meta property="og:image" content="{{ .Site.BaseURL }}{{.Site.Params.cover}}"/>
 {{end}}
 {{end}}
 
