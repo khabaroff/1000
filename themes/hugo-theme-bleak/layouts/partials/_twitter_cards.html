@@ -5,4 +5,10 @@
 <meta name="twitter:title" content="{{ .Title }}" />
 <meta name="twitter:description" content="{{ .Description }}" />
 <meta name="twitter:url" content="{{ .Permalink }}" />
- 
+{{if .Params.image }}
+<meta name="twitter:image" content="https://khabaroff.com/1000{{.Params.image}}"/>
+{{else}}
+{{if .Site.Params.cover}}
+<meta name="twitter:image" content="{{ .Site.BaseURL }}{{.Site.Params.cover}}"/>
+{{end}}
+{{end}}
