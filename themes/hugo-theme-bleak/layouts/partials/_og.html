@@ -1,0 +1,43 @@
+<meta property="og:title" content="{{ if ne .URL "/" }} {{ .Title }} &middot; {{ end }} {{ .Site.Title }}" />
+
+<meta property="og:site_name" content="{{ .Site.Title }}"/>
+
+<meta property="og:description"
+      content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}"/>
+
+<meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}"/>
+
+<meta property="og:url" content="{{ .Permalink }}"/>
+
+
+{{if .Params.image }}
+<meta property="og:image" content="{{ .Site.BaseURL }}{{.Params.image}}"/>
+{{else}}
+{{if .Site.Params.cover}}
+<meta property="og:image" content="{{ .Site.BaseURL }}{{.Site.Params.cover}}"/>
+{{end}}
+{{end}}
+
+
+
+{{ if not .Date.IsZero }}
+<meta property="og:updated_time" content="{{ .Date.Format " 2006-01-02T15:04:05-07:00" | safeHTML }}"/>
+{{ end }}
+{{ with .Params.audio }}
+<meta property="og:audio" content="{{ . }}"/>
+{{ end }}
+{{ with .Params.locale }}
+<meta property="og:locale" content="{{ . }}"/>
+{{ end }}
+{{ with .Site.Params.title }}
+<meta property="og:site_name" content="{{ . }}"/>
+{{ end }}
+{{ with .Params.videos }}
+{{ range .Params.videos }}
+<meta property="og:video" content="{{ . | absURL }}"/>
+{{ end }}
+{{ end }}
+
+{{ with .Params.facebook_app_id }}
+<meta property="fb:app_id" content="{{ . }}"/>
+{{ end }}
