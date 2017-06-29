@@ -34,7 +34,7 @@ url = "/rated/1/"
 weight = 2
 
 [params]
-cover = "img/cover.jpg"
+cover = "img/share.jpg"
 description = "Я люблю свои пластинки больше, чем тебя"
 site_description = "Я люблю свои пластинки больше, чем тебя"
 disqus = "khabaroff"
