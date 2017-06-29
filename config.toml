@@ -32,13 +32,12 @@ weight = 6
 name = "⋆"
 url = "/rated/1/"
 weight = 2
-
 [params]
 cover = "img/share.jpg"
 description = "Я люблю свои пластинки больше, чем тебя"
-site_description = "Я люблю свои пластинки больше, чем тебя"
 disqus = "khabaroff"
 googletagmanagerid = "GTM-M7P33X"
+site_description = "Я люблю свои пластинки больше, чем тебя"
 subtitle = "Я люблю свои пластинки больше, чем тебя"
 [params.author]
 facebook = "https://www.facebook.com/khabaroff"
@@ -52,7 +51,6 @@ linkedin = "https://www.linkedin.com/in/khabaroff/"
 twitter = "https://twitter.com/khabaroff"
 username = "khabaroff"
 website = "https://khabaroff.com/"
-
 [taxonomies]
 category = "rated"
 tag = "tags"

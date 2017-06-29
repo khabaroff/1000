@@ -1,5 +1,5 @@
 +++
-date = "2017-06-27T17:43:43+00:00"
+date = "2017-06-27T17:43:43Z"
 image = "/img/b/james-brown-live-at-the-apollo-1963.jpg"
 rated = ["5"]
 slug = "james-brown-live-at-the-apollo-1963"
