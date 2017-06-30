@@ -25,7 +25,23 @@
   				{{ .Content }}
   			</section>
 
-  			<footer class="post-footer">
+
+				<section>
+
+					<h2 class="post-title">Теги проекта</h2>
+
+					<p>
+						{{ range $name, $taxonomy := .Site.Taxonomies.tags }}
+						<a href="{{ "/tags/" | relLangURL }}{{ $name | urlize }}/">{{ $name }}</a><br/>
+						{{ end }}
+					</p>
+
+
+				</section>
+
+
+
+				<footer class="post-footer">
 
 				<div class="post-share">
 
