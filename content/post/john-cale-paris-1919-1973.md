@@ -1,6 +1,5 @@
 +++
 date = "2017-07-02T16:19:36Z"
-draft = true
 image = "/img/c/john-cale-paris-1919-1973.jpg"
 rated = ["4"]
 slug = "john-cale-paris-1919-1973"
