@@ -1,5 +1,5 @@
 +++
-date = "2017-07-03T20:01:25+00:00"
+date = "2017-07-03T20:01:25Z"
 image = "/img/c/ray-charles-modern-sounds-in-country-and-western-music-1962.jpg"
 rated = ["5"]
 slug = "ray-charles-modern-sounds-in-country-and-western-music-1962"
