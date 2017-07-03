@@ -1,6 +1,6 @@
 +++
 date = "2017-07-03T20:01:25+00:00"
-image = "/img/b/ray-charles-modern-sounds-in-country-and-western-music-1962.jpg"
+image = "/img/c/ray-charles-modern-sounds-in-country-and-western-music-1962.jpg"
 rated = ["5"]
 slug = "ray-charles-modern-sounds-in-country-and-western-music-1962"
 tags = ["RnB", "Pop Rock", "Country Soul", "Early RnB", "Soul", "Pop Soul"]
