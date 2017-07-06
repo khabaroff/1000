@@ -1,5 +1,5 @@
 +++
-date = "2017-07-06T17:19:00+03:00"
+date = "2017-07-06T16:00:00+03:00"
 image = "/img/b/anne-briggs-a-collection-1971.jpg"
 rated = ["1"]
 slug = "anne-briggs-a-collection-1971"
