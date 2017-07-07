@@ -5,6 +5,7 @@ rated = ["2"]
 slug = "michael-brecker-pilgrimage-2006"
 tags = ["Jazz", "Electronic", "Contemporary Jazz", "Guitar Jazz", "Post-Bop", "Saxophone Jazz"]
 title = "Michael Brecker — Pilgrimage (2006)"
+googleplay = "Bplbcedxwrds4qqtp7x6xutrztm"
 
 +++
 Последняя запись одного из&nbsp;самых влиятельных современных саксофонистов&nbsp;&mdash; вместе пианистами Херби Хэнкоком и&nbsp;Брэдом Мелдау, гитаристом Пэтом Метэни, басистом Джоном Патитуччи и&nbsp;барабанщиком Джеком Деджонетт. Играют в&nbsp;первый раз программу, состоящую полностью из&nbsp;оригинальных композиций. 

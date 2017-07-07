@@ -31,6 +31,12 @@
   				{{ .Content }}
   			</section>
 
+				{{ if .Params.googleplay }}
+				<section class="post-googleplay">
+					<a href='https://play.google.com/music/listen#/album/{{ .Params.googleplay }}'><img alt='Слушайте в приложении Play Музыка' src='https://play.google.com/intl/en_us/badges-music/images/badges/ru_badge_web_music.png' width='200'/></a>
+				</section>
+				{{ end }}
+
   			<footer class="post-footer">
 
 

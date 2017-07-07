@@ -5,6 +5,7 @@ rated = ["4"]
 slug = "bjork-debut-1993"
 tags = ["Electronic", "Alternative Dance", "Alternative", "Indie Rock", "Club", "Dance", "Alternative Pop Rock", "Trip Hop"]
 title = "Björk — Debut (1993)"
+googleplay = "B4eiam7xgnbgjxclddkzgzzzqgm"
 
 +++
 Первая сольная работа после ухода из&nbsp;&laquo;Кубиковсахара&raquo;. Бьорк создает по-элегантному игривые, вдохновленные танцами, глубоко личные и&nbsp;эмоциональные электронные поп-песни, хрупкие, идеалистичные, горьковато-сладкие&nbsp;&mdash; стилистически разнообразные, но&nbsp;определенно бьорковские. 

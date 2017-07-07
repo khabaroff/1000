@@ -5,6 +5,7 @@ rated = ["3"]
 slug = "the-bad-plus-give-2003"
 tags = ["Jazz", "Pop Rock", "Alternative", "Indie Rock", "Post Rock"]
 title = "The Bad Plus — Give (2003)"
+googleplay = "Bes3ad7owzacu3qyal7qynmx45m"
 
 +++
 Пауэр-джаз трио &laquo;Плохой Плюс&raquo; исполняют оригинальные композиции и&nbsp;добавляют импровизационного золота в&nbsp;популярные рок-мелодии. &laquo;Велурия&raquo; группы &laquo;Эльфы&raquo; становится похожей на&nbsp;Рахманинова, исполняющего фанк джаз; &laquo;Железный Человек&raquo; группы &laquo;Черный Шабаш&raquo; звучит, будто Клод Дебюсси аранжировал &laquo;Ин-А-Гадда-Да-Вида&raquo;. 

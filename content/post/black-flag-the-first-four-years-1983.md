@@ -5,6 +5,7 @@ rated = ["4"]
 slug = "black-flag-the-first-four-years-1983"
 tags = ["Alternative", "Indie Rock", "American Punk", "Hardcore Punk", "Punk", "New Wave"]
 title = "Black Flag — The First Four Years (1983)"
+googleplay = "Bm56gpzeplzxllqcl2n5r7lg3jm"
 
 +++
 Прекрасный сборник группы &laquo;Черный флаг&raquo; доГенриРоллинзовской эпохи.
