@@ -1,11 +1,11 @@
 +++
 date = "2017-06-27T17:43:43Z"
+googleplay = "Bf2kujmtgjr5pi2bmejajhgllwe"
 image = "/img/b/james-brown-live-at-the-apollo-1963.jpg"
 rated = ["5"]
 slug = "james-brown-live-at-the-apollo-1963"
 tags = ["Soul", "RnB", "Early RnB"]
 title = "James Brown — Live at the Apollo (1963)"
-googleplay = "Bf2kujmtgjr5pi2bmejajhgllwe"
 
 +++
 Когда владелец &laquo;Кинг Рекордз&raquo; Сид Натан отказался финансировать запись, думая, что это коммерчески безрассудно, Браун решил все&nbsp;же записаться и&nbsp;заплатил за&nbsp;нее сам. Браун знал, что такую магию, которая рождается на&nbsp;шоу, еще никто не&nbsp;записывал.

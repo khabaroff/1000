@@ -1,11 +1,11 @@
 +++
 date = "2017-06-22T19:48:22Z"
+googleplay = "Bol4vc73oaxjdgabzd34zxlk2ya"
 image = "/img/b/david-bowie-low-1977.jpg"
 rated = ["4"]
 slug = "david-bowie-low-1977"
 tags = ["Pop Rock", "Alternative", "Indie Rock", "Art Rock", "Experimental", "Experimental Rock", "Proto Punk", "Dance Rock", "Contemporary Pop Rock"]
 title = "David Bowie — Low (1977)"
-googleplay = "Bol4vc73oaxjdgabzd34zxlk2ya"
 
 +++
 Альбом &laquo;Низкий уровень&raquo;, первый из&nbsp;берлинской серии&nbsp;&mdash; это звук легенды в&nbsp;самом эпицентре. 

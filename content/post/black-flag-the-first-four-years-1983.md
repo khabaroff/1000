@@ -1,11 +1,11 @@
 +++
 date = "2017-05-28T20:42:14Z"
+googleplay = "Bm56gpzeplzxllqcl2n5r7lg3jm"
 image = "/img/b/black-flag-the-first-four-years-1983.jpg"
 rated = ["4"]
 slug = "black-flag-the-first-four-years-1983"
 tags = ["Alternative", "Indie Rock", "American Punk", "Hardcore Punk", "Punk", "New Wave"]
 title = "Black Flag — The First Four Years (1983)"
-googleplay = "Bm56gpzeplzxllqcl2n5r7lg3jm"
 
 +++
 Прекрасный сборник группы &laquo;Черный флаг&raquo; доГенриРоллинзовской эпохи.

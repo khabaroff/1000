@@ -1,11 +1,11 @@
 +++
 date = "2017-07-02T16:19:36Z"
+googleplay = "Bmrj2rtnlxm3mzgrvr7exwd463a"
 image = "/img/c/john-cale-paris-1919-1973.jpg"
 rated = ["4"]
 slug = "john-cale-paris-1919-1973"
 tags = ["Pop Rock", "Contemporary Pop Rock", "Singer Songwriter", "Alternative", "Indie Rock", "Experimental Rock"]
 title = "John Cale — Paris 1919 (1973)"
-googleplay = "Bmrj2rtnlxm3mzgrvr7exwd463a"
 
 +++
 Одна из самых прекрасных и самых понятных сольных записей Кейла, которая открывает свою глубину с каждым прослушиванием. Альбом похож на сборник рассказов и объединил любовь Кейла к попу, сюрреалистическую лирику, вдохновленную Грэмом Грином, Шекспиром и Диланом Томасом, пасторальные акустические гитары и потрясающие оркестровые аранжировки.

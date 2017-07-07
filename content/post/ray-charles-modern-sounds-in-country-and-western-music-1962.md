@@ -1,11 +1,11 @@
 +++
 date = "2017-07-03T20:01:25Z"
+googleplay = "Bjo7xmaqgls2jyncll6kv6sqn34"
 image = "/img/c/ray-charles-modern-sounds-in-country-and-western-music-1962.jpg"
 rated = ["5"]
 slug = "ray-charles-modern-sounds-in-country-and-western-music-1962"
 tags = ["RnB", "Pop Rock", "Country Soul", "Early RnB", "Soul", "Pop Soul"]
 title = "Ray Charles — Modern Sounds in Country and Western Music (1962)"
-googleplay = "Bjo7xmaqgls2jyncll6kv6sqn34"
 
 +++
 Рея Чарльза называют крестным отцом современного соула. Но&nbsp;Чарльз также умело адаптировал в&nbsp;своей музыке элементы кантри. На&nbsp;этом альбоме-бестселлере он&nbsp;интерпретировал 12&nbsp;кантри-стандартов, разбавив их&nbsp;слащавую приторность фирменной твердостью.

@@ -1,11 +1,11 @@
 +++
 date = "2017-07-04T13:39:59Z"
+googleplay = "Bswt7p5gku2dodf5b4mbgryof64"
 image = "/img/b/big-youth-screaming-target-1973.jpg"
 rated = ["5"]
 slug = "big-youth-screaming-target-1973"
 tags = ["Reggae", "DJ", "Toasting"]
 title = "Big Youth — Screaming Target (1973)"
-googleplay = "Bswt7p5gku2dodf5b4mbgryof64"
 
 +++
 Эталон регги в&nbsp;целом и&nbsp;его диджейской формы в&nbsp;частности, вершина ямайского диджейского канона, путеводная звезда для будущего хип-хопа, который вот-вот появится&nbsp;&mdash; полноценный дебют Манли Бьюкенена aka диджея &laquo;Большая молодость&raquo;. 
