@@ -5,6 +5,7 @@ rated = ["3"]
 slug = "the-beat-i-just-cant-stop-it-1980"
 tags = ["Pop Rock", "Ska", "2 Tone", "New Wave"]
 title = "The Beat — I Just Can't Stop It (1980)"
+googleplay = "Batsspdt5agh5yrecht6zuxw6wq"
 
 +++
 

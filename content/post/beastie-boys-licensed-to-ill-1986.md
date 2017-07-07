@@ -5,6 +5,7 @@ rated = ["4"]
 slug = "beastie-boys-licensed-to-ill-1986"
 tags = ["Rap", "Hip-Hop Golden Age", "East Coast Rap"]
 title = "Beastie Boys — Licensed to Ill (1986)"
+googleplay = "Bhauowmq7o5lffoioy5fvvflsa4"
 
 +++
 Очаровательно желчный дебют &laquo;Чудовищных парней&raquo; по-прежнему приятно слушать. Несмотря на&nbsp;глупости и&nbsp;неловкости, Эд&nbsp;Рок, Майк Ди&nbsp;и&nbsp;ЭмСиЭй невероятно талантливы как вокалисты; содержание песен может казаться глупым, но&nbsp;их&nbsp;читка смертельно серьезна.

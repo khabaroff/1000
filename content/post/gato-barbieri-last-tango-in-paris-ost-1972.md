@@ -5,6 +5,7 @@ rated = ["2"]
 slug = "gato-barbieri-last-tango-in-paris-ost-1972"
 tags = ["Jazz", "Classical", "Soundtracks"]
 title = "Gato Barbieri — Last Tango in Paris OST (1972)"
+googleplay = "B3il53kvxkjyep5nblgcrtzojbi"
 
 +++
 Этот саундтрек&nbsp;&mdash; главный концерт в&nbsp;жизни для аргентинского саксофониста Барбиери и&nbsp;абсолютный триумф саксофонных соло. 

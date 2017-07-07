@@ -5,6 +5,7 @@ rated = ["4"]
 slug = "boredoms-vision-creation-newsun-2001"
 tags = ["Pop Rock", "Alternative", "Indie Rock", "Experimental Rock", "Noise Rock"]
 title = "Boredoms — Vision Creation Newsun (2001)"
+googleplay = "B3yh3mpvel6xdmknkf4d7hgcsgy"
 
 +++
 Титаны японского шумового рока в&nbsp;самой пульсирующей и&nbsp;радостной форме. Густой шквал скачущих галопом психоделических ритуалов, гипердрайвовые синтезаторы и&nbsp;барабанный транс. Маниакальный и&nbsp;безмятежный альбом, внезапно доступный как космический туризм.
