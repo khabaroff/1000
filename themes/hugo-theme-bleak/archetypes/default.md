@@ -5,4 +5,5 @@ slug = ""
 tags = ""
 rated = ""
 image = ""
+googleplay = ""
 +++
