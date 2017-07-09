@@ -1,5 +1,5 @@
 +++
-date = "2017-07-09T14:23:44+00:00"
+date = "2017-07-09T14:23:44Z"
 image = "/img/c/charlie-christian-solo-flight-1993.jpg"
 rated = ["5"]
 slug = "charlie-christian-solo-flight-1993"
