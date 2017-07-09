@@ -7,7 +7,10 @@
 		<a class="post-link" href="{{ .Permalink }}"></a>
 		{{ if .Params.image }}
 		<figure class="post-image">
-			<a href="{{ .Permalink }}"><img src="{{ .Params.image }}" alt="" /></a>
+			<a href="{{ .Permalink }}"><img src="{{ replace .Params.image ".jpg" "-400.jpg" }}" alt="" /></a>
+
+
+
 		</figure>
 		{{ end }}
 		<p class="post-excerpt">{{ range $index, $rated := .Params.rated }}
