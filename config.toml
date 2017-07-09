@@ -36,7 +36,6 @@ weight = 2
 cover = "img/share.jpg"
 description = "Я люблю свои пластинки больше, чем тебя"
 disqus = "khabaroff"
-googletagmanagerid = "GTM-M7P33X"
 site_description = "Я люблю свои пластинки больше, чем тебя"
 subtitle = "Я люблю свои пластинки больше, чем тебя"
 [params.author]

@@ -9,7 +9,7 @@
 
   			<header class="post-header">
 
-						<div class="post-tags rated">
+						<div class="rated">
 					{{if .Params.rated }}
 					{{ range $index, $cat := .Params.rated }}
 					<a href="{{ $baseurl }}rated/{{ $cat | urlize }}/">{{ $cat }}</a>
@@ -19,6 +19,18 @@
 
 
   				<h1 class="post-title">{{ .Title }}</h1>
+
+
+				<div class="post-tags">
+					{{if .Params.tags }}
+
+					{{ range $index, $tags := .Params.tags }}
+					<a href="{{ $baseurl }}tags/{{ $tags | urlize }}/">{{ $tags }}</a>
+					{{ end }}
+					{{ end }}
+				</div>
+
+
   			</header>
 
 				{{ if .Params.image }}
@@ -32,25 +44,20 @@
   			</section>
 
 				{{ if .Params.googleplay }}
-				<section class="post-googleplay">
-					<a href='https://play.google.com/music/listen#/album/{{ .Params.googleplay }}'><img alt='Слушайте в приложении Play Музыка' src='https://play.google.com/intl/en_us/badges-music/images/badges/ru_badge_web_music.png' width='200'/></a>
+
+				<section class="post-content">
+					<h3>Послушать:</h3>
+					<p>— <a href='https://play.google.com/music/listen#/album/{{ .Params.googleplay }}'>Google Play</a></p>
 				</section>
 				{{ end }}
 
   			<footer class="post-footer">
 
 
-  				<div class="post-tags">
-            {{if .Params.tags }}
-            {{ range $index, $tags := .Params.tags }}
-                <a href="{{ $baseurl }}tags/{{ $tags | urlize }}/">{{ $tags }}</a>
-            {{ end }}
-            {{ end }}
-  				</div>
 
 
 				<div class="post-share">
-					<p>Нашли ошибку? Отправляйте правки <a href="https://github.com/khabaroff/1000/blob/master/content/post/{{ .Slug }}.md">на github</a></p>
+					<p><a href="https://github.com/khabaroff/1000/blob/master/content/post/{{ .Slug }}.md">Править на github</a></p>
 
 				</div>
 

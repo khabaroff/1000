@@ -1,4 +1,6 @@
-<title>{{ if ne .URL "/" }} {{ .Title }} &middot; {{ end }} {{ .Site.Title }}</title>
+<title>{{ if ne .URL "/" }} {{if .Params.rated }} {{ range $index, $cat := .Params.rated }} {{ if eq $cat  "1" }}★ {{ end }} {{ if eq $cat "2" }}★ ★ {{ end }} {{ if eq $cat "3" }}★ ★ ★ {{ end }} {{ if eq $cat "4" }}★ ★ ★ ★ {{ end }} {{ if eq $cat "5" }}★ ★ ★ ★ ★ {{ end }} {{ end }} {{ end }} {{ .Title }} &middot; {{ end }} {{ .Site.Title }}</title>
+
+
 
 <link rel="preload" href="{{ .Site.BaseURL }}js/main.js" as="script" />
 <link rel="preload" href="{{ .Site.BaseURL }}css/main.css" as="style" />

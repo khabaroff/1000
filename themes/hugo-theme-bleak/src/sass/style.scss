@@ -1151,7 +1151,7 @@ iframe {
 		line-height: 1.375em;
 		font-weight: 800;
 		text-indent: -1px;
-		margin: 0.25em 0 -0.75em;
+		margin: 0.25em 0;
 
 		a {
 			text-decoration: none;
@@ -1162,7 +1162,7 @@ iframe {
 
 	.post-header {
 		padding: 4em 0 0;
-		margin-bottom: 3em;
+		margin-bottom: 1em;
 	}
 }
 
@@ -1453,33 +1453,7 @@ iframe {
 		display: table;
 	}
 
-	.post-tags {
-		width: 100%;
-        margin-bottom: 50px;
 
-		a {
-			font-size: 0.875em;
-			line-height: 1.714em;
-			display: inline-block;
-			border: 0;
-			margin-bottom: 0.286em;
-			padding: 0.286em 0.714em;
-			border-radius: 2px;
-			color: #fff;
-			//text-shadow: 0 0 2px $color-primary-active;
-			background: $color-primary-default;
-			font-weight: 300;
-
-			&:hover,
-			&:focus {
-				background: $color-primary-active;
-			}
-		}
-
-
-
-
-	}
 
 
 	.post-share {
@@ -1493,6 +1467,35 @@ iframe {
 
 		}
 	}
+}
+
+
+.post-tags {
+	width: 100%;
+	//margin-bottom: 20px;
+
+	a {
+		font-size: 0.875em;
+		line-height: 1.714em;
+		display: inline-block;
+		border: 0;
+		margin-bottom: 0.286em;
+		padding: 0.286em 0.714em;
+		border-radius: 2px;
+		color: #fff;
+		//text-shadow: 0 0 2px $color-primary-active;
+		background: $color-primary-default;
+		font-weight: 300;
+
+		&:hover,
+		&:focus {
+			background: $color-primary-active;
+		}
+	}
+
+
+
+
 }
 
 .post-comments {
