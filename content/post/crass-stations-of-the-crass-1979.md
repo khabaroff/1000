@@ -13,7 +13,7 @@ title = "Crass — Stations Of The Crass (1979)"
 
 &laquo;Говорят, что мы&nbsp;трэш, но&nbsp;мы&nbsp;&bdquo;Красс&ldquo;, а&nbsp;не&nbsp;&bdquo;Клэш&ldquo;&raquo;&nbsp;&mdash; так начинается песня &laquo;Надежда белых панков&raquo;, и&nbsp;заканчивается словами &laquo;Анархия и&nbsp;свобода&nbsp;&mdash; вот что, что я&nbsp;хочу&raquo;. &laquo;Красс&raquo; стали чем-то большим, чем просто разрушительным панком: альбом балансирует между агрессивными выпадами и&nbsp;рычащей агитацией, делает политические заявления и&nbsp;рассказывает о&nbsp;постоянном самоанализе. Тексты группы лучше читать, а&nbsp;не&nbsp;слушать, потому что за&nbsp;кипучей ненавистью разобрать можно немного, а&nbsp;разобрать там есть что.
 
-<iframe src="//coub.com/embed/vrwer?muted=false&autostart=false&originalSize=false&startWithHD=false" allowfullscreen="true" frameborder="0" width="640" height="330"></iframe>
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 51.5623%;"><iframe src="//coub.com/embed/vrwer?maxheight=330&amp;maxwidth=640" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no"></iframe></div>
 
 Документальный фильм про группу на ютьюбе: <a href="https://www.youtube.com/watch?v=5LQ1CvwF7BQ">There Is No Authority But Yourself</a>
 
