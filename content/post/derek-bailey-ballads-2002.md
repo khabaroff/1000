@@ -1,5 +1,5 @@
 +++
-date = "2017-07-12T16:58:12+00:00"
+date = "2017-07-12T16:58:12Z"
 googleplay = "B7c3pmefu4xikc5q54bbjbrc4m4"
 image = "/img/b/derek-bailey-ballads-2002.jpg"
 rated = ["1"]
