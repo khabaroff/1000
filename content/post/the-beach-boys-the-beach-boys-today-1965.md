@@ -1,5 +1,5 @@
 +++
-date = "2017-07-13T14:13:01+00:00"
+date = "2017-07-13T14:13:01Z"
 googleplay = "Bsz72djdjllqbbh3zig62lmrkxe"
 image = "/img/b/the-beach-boys-the-beach-boys-today-1965.jpg"
 rated = ["5"]
