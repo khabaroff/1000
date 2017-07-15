@@ -1,11 +1,10 @@
 +++
 date = "2017-07-16T05:03:00+03:00"
-draft = true
 googleplay = ""
 image = "/img/b/burial-burial-2006.jpg"
-rated = []
+rated = ["5"]
 slug = "burial-burial-2006"
-tags = []
+tags = ["Electronic", "Dubstep", "Garage"]
 title = "Burial — Burial (2006)"
 youtube = "WxsSb-YjMYM"
 
