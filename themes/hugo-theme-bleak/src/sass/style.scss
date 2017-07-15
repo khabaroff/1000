@@ -1445,7 +1445,7 @@ iframe {
    ========================================================================== */
 
 .post-footer {
-	margin: 4em 0;
+	margin: 0;
 
 	&:after {
 		clear: both;
@@ -1456,16 +1456,19 @@ iframe {
 
 
 
-	.post-share {
-      width: 100%;
-      margin-bottom: 50px;
 
-		a {
+}
 
-			color: #fff;
-			text-decoration: underline;
 
-		}
+.post-share {
+	width: 100%;
+	margin: 20px 0;
+
+	a {
+
+		color: #fff;
+		text-decoration: underline;
+
 	}
 }
 
@@ -1851,3 +1854,4 @@ iframe {
 }
 
 
+@import "likely";

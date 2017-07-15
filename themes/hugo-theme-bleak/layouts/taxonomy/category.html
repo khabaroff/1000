@@ -1,0 +1,38 @@
+{{ partial "header.html" . }}
+
+<header id="header" class="header{{ if .Site.Params.cover }} has-cover{{ end }}">
+    <div class="inner">
+        <a class="header-title" href="{{ .Site.BaseURL }}">
+            <h1 class="header-name">{{ if eq .Title  "1" }}★ {{ end }} {{ if eq .Title "2" }}★ ★ {{ end }} {{ if eq .Title "3" }}★ ★ ★ {{ end }} {{ if eq .Title "4" }}★ ★ ★ ★ {{ end }} {{ if eq .Title "5" }}★ ★ ★ ★ ★ {{ end }}</h1>
+
+
+
+
+        </a>
+    </div>
+
+</header>
+
+<div id="post-index" class="container">
+
+    <main class="content" role="main">
+
+        <div class="post-list">
+            <div id="push">
+
+                {{ $paginator := .Paginator }}
+
+                {{ range $index, $page := .Paginator.Pages }}
+                {{ .Render "li" }}
+                {{ end }}
+
+            </div>
+        </div>
+
+        {{ partial "pagination.html" (dict "paginator" $paginator "site" .Site ) }}
+
+    </main>
+
+</div>
+
+{{ partial "footer.html" . }}

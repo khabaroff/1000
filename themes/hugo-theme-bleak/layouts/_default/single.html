@@ -62,14 +62,26 @@
 
 
 				<div class="post-share">
-					<p><a href="https://github.com/khabaroff/1000/blob/master/content/post/{{ .Slug }}.md">Править на github</a></p>
+
+					<div class="likely">
+
+						<div class="facebook">Поделиться</div>
+						<div class="twitter" data-via="khabaroff" >Твитнуть</div>
+						<div class="vkontakte">Поделиться</div>
+						<div class="telegram" data-text="@thousandalbums">Отправить</div>
+					</div>
+
+
+
+
+
 
 				</div>
 
 
   			</footer>
 
-  			{{ partial "comments.html" . }}
+  			<!--{{ partial "comments.html" . }}-->
 
 			</div>
 
@@ -98,9 +110,8 @@
 				{{ end }}
 
 
-
-
 				<!--{{ partial "related.html" . }}-->
+
 				<div class="clear"></div>
 			</nav>
 
