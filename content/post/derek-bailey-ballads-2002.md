@@ -6,10 +6,9 @@ rated = ["1"]
 slug = "derek-bailey-ballads-2002"
 tags = ["Avant-Garde Jazz", "Standards", "Guitar Jazz", "Jazz Instrument"]
 title = "Derek Bailey — Ballads (2002)"
+youtube = "NRpsmA1I6NY"
 
 +++
 Десятилетиями избегая мелодий или узнаваемых идиом, британский импровизационный гитарист Дерек Бейли, наконец, записал альбом стандартов для лейбла Джона Зорна. 
 
 &laquo;Моя Меланхоличная Крошка&raquo;, &laquo;Тело и&nbsp;душа&raquo;, &laquo;Стелла Звездного Света&raquo; и&nbsp;многие другие получили от&nbsp;Бэйли звон гармоник, цокание суровых щипков и&nbsp;острых угловатых ходов. В&nbsp;каком-то своем собственном смысле &laquo;Баллады&raquo; великолепны и&nbsp;даже имеют мелодии, которые встречаются с&nbsp;угловатостями. Чистый звук акустической гитары&nbsp;&mdash; аппетитный, реверберирующий, живой. Необыкновенно прекрасная запись, которая выделяется в&nbsp;творчестве Бейли.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NRpsmA1I6NY" frameborder="0" allowfullscreen></iframe>

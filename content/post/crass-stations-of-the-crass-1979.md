@@ -5,6 +5,7 @@ rated = ["4"]
 slug = "crass-stations-of-the-crass-1979"
 tags = ["Anarchist Punk", "Hardcore Punk", "Punk", "New Wave"]
 title = "Crass — Stations Of The Crass (1979)"
+youtube = "THl_znprBUM"
 
 +++
 Сочетание зачаточных музыкальных навыков и&nbsp;напряженности анархического кредо придают записям &laquo;Красс&raquo; устрашающий внешний вид. Страсть тут явно превосходит умение играть.
@@ -16,5 +17,3 @@ title = "Crass — Stations Of The Crass (1979)"
 <div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 51.5623%;"><iframe src="//coub.com/embed/vrwer?maxheight=330&amp;maxwidth=640" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no"></iframe></div>
 
 Документальный фильм про группу на ютьюбе: <a href="https://www.youtube.com/watch?v=5LQ1CvwF7BQ">There Is No Authority But Yourself</a>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/THl_znprBUM" frameborder="0" allowfullscreen></iframe>

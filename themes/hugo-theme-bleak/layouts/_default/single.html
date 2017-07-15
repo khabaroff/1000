@@ -41,6 +41,11 @@
 
   			<section class="post-content">
   				{{ .Content }}
+
+				{{ if .Params.youtube }}
+				<iframe width="560" height="315" src="https://www.youtube.com/embed/{{ .Params.youtube }}?rel=0&showinfo=0" frameborder="0" allowfullscreen></iframe>
+				{{ end }}
+
   			</section>
 
 				{{ if .Params.googleplay }}

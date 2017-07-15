@@ -6,6 +6,7 @@ rated = ["4"]
 slug = "john-cale-paris-1919-1973"
 tags = ["Pop Rock", "Contemporary Pop Rock", "Singer Songwriter", "Alternative", "Indie Rock", "Experimental Rock"]
 title = "John Cale — Paris 1919 (1973)"
+youtube = "ges4THjP6iI"
 
 +++
 Одна из самых прекрасных и самых понятных сольных записей Кейла, которая открывает свою глубину с каждым прослушиванием. Альбом похож на сборник рассказов и объединил любовь Кейла к попу, сюрреалистическую лирику, вдохновленную Грэмом Грином, Шекспиром и Диланом Томасом, пасторальные акустические гитары и потрясающие оркестровые аранжировки.
@@ -20,5 +21,3 @@ title = "John Cale — Paris 1919 (1973)"
 <i>We’re so far away<br/>Floating in this bay<br/>We’re so far away from home<br/>Where we belong</i>
 
 Это песня про Вторую мировую войну. Она о ностальгии, об одиночестве того, кто совершает забег на длинную дистанцию, кто находится вдали от дома. Почему-то в ней идет речь о русском солдате во Франции. Заканчивается альбом шедевральной, спетой нашёптыванием, Antarctica Starts Here. Гениально.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ges4THjP6iI" frameborder="0" allowfullscreen></iframe>
