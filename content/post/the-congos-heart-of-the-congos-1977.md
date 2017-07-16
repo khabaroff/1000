@@ -1,6 +1,5 @@
 +++
 date = "2017-07-16T16:28:25+00:00"
-draft = true
 googleplay = ""
 image = "/img/c/the-congos-heart-of-the-congos-1977.jpg"
 rated = ["5"]
