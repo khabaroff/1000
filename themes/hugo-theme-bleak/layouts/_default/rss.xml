@@ -20,7 +20,7 @@
             {{ with .Site.Author.email }}<author>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</author>{{end}}
             <guid>{{ .Permalink }}</guid>
             <description>{{ .Summary | html }}</description>
-            <content:encoded>https://www.youtube.com/watch?v={{ .Params.youtube | html }}</content:encoded>
+            <content>https://www.youtube.com/watch?v={{ .Params.youtube }}</content>
         </item>
         {{ end }}
     </channel>
