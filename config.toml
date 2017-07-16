@@ -39,6 +39,7 @@ disqus = "khabaroff"
 site_description = "Я люблю свои пластинки больше, чем тебя"
 subtitle = "Я люблю свои пластинки больше, чем тебя"
 [params.author]
+email = "khabaroff@gmail.com"
 facebook = "https://www.facebook.com/khabaroff"
 facebook_app_id = "211990835519735"
 firstname = "Sergey"
