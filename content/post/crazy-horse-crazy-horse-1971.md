@@ -1,5 +1,6 @@
 +++
 date = "2017-07-13T21:06:04Z"
+googleplay = "Bs7fwjdvv6gcpjbdyuhioq6rdqa"
 image = "/img/c/crazy-horse-crazy-horse-1971.jpg"
 rated = ["4"]
 slug = "crazy-horse-crazy-horse-1971"
