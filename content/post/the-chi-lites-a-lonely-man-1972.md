@@ -1,5 +1,5 @@
 +++
-date = "2017-07-18T17:53:44+00:00"
+date = "2017-07-18T17:53:44Z"
 googleplay = ""
 image = "/img/c/the-chi-lites-a-lonely-man-1972.jpg"
 rated = ["5"]
