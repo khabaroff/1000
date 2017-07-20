@@ -4,7 +4,7 @@ googleplay = ""
 image = "/img/c/the-chemical-brothers-dig-your-own-hole-1997.jpg"
 rated = ["4"]
 slug = "the-chemical-brothers-dig-your-own-hole-1997"
-tags = ["Electronic", "Big Beat", "Club", "Dance", "Electronica", "Funky Breaks", "Techno", "Trip Hop", "Acid House"]
+tags = ["Electronic", "Big Beat", "Club", "Dance", "Electronica", "Funky Breaks", "Techno", "Trip Hop", "Acid House", "House"]
 title = "The Chemical Brothers — Dig Your Own Hole (1997)"
 youtube = "iTxOKsyZ0Lw"
 
