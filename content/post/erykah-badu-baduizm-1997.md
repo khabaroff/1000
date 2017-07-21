@@ -1,6 +1,5 @@
 +++
 date = "2017-07-21T02:49:59+00:00"
-draft = true
 googleplay = ""
 image = "/img/b/erykah-badu-baduizm-1997.jpg"
 rated = ["4"]
