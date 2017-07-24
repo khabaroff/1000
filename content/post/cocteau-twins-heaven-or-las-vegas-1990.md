@@ -1,10 +1,15 @@
 +++
 date = "2017-07-25T02:19:38+00:00"
 draft = true
-image = ""
-rated = ""
-slug = ""
-tags = ""
+googleplay = ""
+image = "/1000/img/c/cocteau-twins-heaven-or-las-vegas-1990.jpg"
+rated = ["5"]
+slug = "cocteau-twins-heaven-or-las-vegas-1990"
+tags = ["Pop Rock", "Alternative Pop Rock", "Alternative", "Indie Rock", "Ambient Pop", "Dream Pop"]
 title = "Cocteau Twins — Heaven or Las Vegas (1990)"
+youtube = "566w9f5wrWs"
 
 +++
+&laquo;Кокту Твинз&raquo; потребовались семь альбомов, чтобы подняться на&nbsp;пик творческой формы и&nbsp;представить поп-музыку из&nbsp;иного мира. Мерцающие, многослойные гитары Робина Гатри и&nbsp;угрожающий, пульсирующий бас Саймона Рэймонда&nbsp;&mdash; идеальное плотно для воздушного, завораживающего, гипнотизирующего, мурлыкающего, полного энергии и&nbsp;жизни вокала Лиз Фрейзер. Песни неторопливо начинаются и&nbsp;заканчиваются, бережно складываются и&nbsp;угасают. 
+
+На&nbsp;альбоме есть много моментов абсолютной красоты и&nbsp;силы, начиная прямо с&nbsp;первого трека, с&nbsp;его великолепным рефреном. Это практически идеальный альбом.
