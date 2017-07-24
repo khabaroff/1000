@@ -1,5 +1,5 @@
 +++
-date = "2017-07-24T18:33:52+00:00"
+date = "2017-07-24T18:33:52Z"
 googleplay = ""
 image = "/img/c/the-carpenters-the-singles-1969-1973-1973.jpg"
 rated = ["3"]

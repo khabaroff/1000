@@ -1,5 +1,5 @@
 +++
-date = "2017-07-22T00:44:14+00:00"
+date = "2017-07-22T00:44:14Z"
 googleplay = ""
 image = "/img/b/basement-jaxx-remedy-1999.jpg"
 rated = ["3"]
