@@ -6,7 +6,7 @@ rated = ["3"]
 slug = "the-carpenters-the-singles-1969-1973-1973"
 tags = ["Pop Rock", "Soft Rock", "AM Pop"]
 title = "The Carpenters — The Singles 1969-1973 (1973)"
-youtube = "SJmmaIGiGBg"
+youtube = "9fDYbvQgaIU"
 
 +++
 Один из&nbsp;самых продаваемых альбомов 70-х, который в&nbsp;свое время звучал из&nbsp;каждого утюга. В&nbsp;наше время альбом звучит не&nbsp;так слащаво, а&nbsp;драматично, с&nbsp;пышными аранжировками Ричарда Карпентера и&nbsp;потрясающим меланхоличным вокалом Карен Карпентер.
