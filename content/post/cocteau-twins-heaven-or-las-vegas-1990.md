@@ -1,7 +1,7 @@
 +++
 date = "2017-07-25T02:19:38+00:00"
 googleplay = ""
-image = "/1000/img/c/cocteau-twins-heaven-or-las-vegas-1990.jpg"
+image = "/img/c/cocteau-twins-heaven-or-las-vegas-1990.jpg"
 rated = ["5"]
 slug = "cocteau-twins-heaven-or-las-vegas-1990"
 tags = ["Pop Rock", "Alternative Pop Rock", "Alternative", "Indie Rock", "Ambient Pop", "Dream Pop"]
