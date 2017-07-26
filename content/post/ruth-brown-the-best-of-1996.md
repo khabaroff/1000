@@ -1,6 +1,5 @@
 +++
 date = "2017-07-26T20:31:42+00:00"
-draft = true
 googleplay = ""
 image = "/img/b/ruth-brown-the-best-of-1996.jpg"
 rated = ["4"]
