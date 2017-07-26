@@ -191,6 +191,7 @@ jQuery(function($) {
         gist();
         currentMenuFix();
         blurUpImages();
+        likely.initiate();
     }
 
     /* ==========================================================================

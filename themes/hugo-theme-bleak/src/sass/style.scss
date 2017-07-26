@@ -79,6 +79,8 @@ a {
 	color: #000;
 	font-size: 20px;
 	line-height: 28px;
+
+	&.twenty {margin: 20px 0;}
 	
 	@media only screen and (max-width: $breakpoint-phone) {
 		width: 100%;
@@ -1852,6 +1854,7 @@ iframe {
         transform: rotate(360deg);  /* Firefox 16+, IE 10+, Opera */
     }
 }
+
 
 
 @import "likely";
