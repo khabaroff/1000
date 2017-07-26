@@ -1,5 +1,5 @@
 +++
-date = "2017-07-25T02:19:38+00:00"
+date = "2017-07-25T02:19:38Z"
 googleplay = ""
 image = "/img/c/cocteau-twins-heaven-or-las-vegas-1990.jpg"
 rated = ["5"]

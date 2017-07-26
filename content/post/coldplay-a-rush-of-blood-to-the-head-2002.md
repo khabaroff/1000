@@ -1,5 +1,5 @@
 +++
-date = "2017-07-26T02:30:21+00:00"
+date = "2017-07-26T02:30:21Z"
 draft = true
 googleplay = ""
 image = "/img/c/coldplay-a-rush-of-blood-to-the-head-2002.jpg"
