@@ -1,5 +1,5 @@
 +++
-date = "2017-07-26T20:31:42+00:00"
+date = "2017-07-26T20:31:42Z"
 googleplay = "Bgc36zo2k34r4k6zxbhchrvhthq"
 image = "/img/b/ruth-brown-the-best-of-1996.jpg"
 rated = ["4"]
