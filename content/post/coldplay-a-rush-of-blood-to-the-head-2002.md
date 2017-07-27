@@ -1,6 +1,6 @@
 +++
 date = "2017-07-26T02:30:21Z"
-googleplay = ""
+googleplay = "Bzrnh4npfxpo5mim6wvdavglo4e"
 image = "/img/c/coldplay-a-rush-of-blood-to-the-head-2002.jpg"
 rated = ["3"]
 slug = "coldplay-a-rush-of-blood-to-the-head-2002"

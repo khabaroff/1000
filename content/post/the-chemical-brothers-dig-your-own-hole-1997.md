@@ -1,6 +1,6 @@
 +++
 date = "2017-07-20T17:31:02Z"
-googleplay = ""
+googleplay = "B4nqr5yopajig6ftrye7hhqczim"
 image = "/img/c/the-chemical-brothers-dig-your-own-hole-1997.jpg"
 rated = ["4"]
 slug = "the-chemical-brothers-dig-your-own-hole-1997"

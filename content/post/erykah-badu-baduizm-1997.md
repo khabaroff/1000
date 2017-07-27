@@ -1,6 +1,6 @@
 +++
 date = "2017-07-21T02:49:59Z"
-googleplay = ""
+googleplay = "Bu42a7fvootwrndhgoqcswlukii"
 image = "/img/b/erykah-badu-baduizm-1997.jpg"
 rated = ["4"]
 slug = "erykah-badu-baduizm-1997"
