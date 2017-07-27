@@ -1,6 +1,5 @@
 +++
 date = "2017-07-27T01:32:14Z"
-draft = true
 googleplay = ""
 image = "/img/b/the-bhundu-boys-the-shed-sessions-2001.jpg"
 rated = ["5"]
