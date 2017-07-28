@@ -1,6 +1,5 @@
 +++
 date = "2017-07-28T00:31:35+00:00"
-draft = true
 googleplay = ""
 image = "/img/b/black-uhuru-red-1981.jpg"
 rated = ["4"]
