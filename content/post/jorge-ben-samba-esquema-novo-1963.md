@@ -4,7 +4,7 @@ googleplay = "Bww4eo35gocz4ecmoh6oirvjmsi"
 image = "/img/b/jorge-ben-samba-esquema-novo-1963.jpg"
 rated = ["2"]
 slug = "jorge-ben-samba-esquema-novo-1963"
-tags = ["International", "Brazilian Pop", "Samba", "MPB", "Brazilian Traditions"]
+tags = ["International", "Brazilian Pop", "Samba", "Música popular brasileira", "Brazilian Traditions"]
 title = "Jorge Ben — Samba Esquema Novo (1963)"
 youtube = "rd3LEsKIjNI"
 

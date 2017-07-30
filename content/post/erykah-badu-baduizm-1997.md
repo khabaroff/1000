@@ -4,7 +4,7 @@ googleplay = "Bu42a7fvootwrndhgoqcswlukii"
 image = "/img/b/erykah-badu-baduizm-1997.jpg"
 rated = ["4"]
 slug = "erykah-badu-baduizm-1997"
-tags = ["RnB", "Contemporary RnB", "Neo Soul", "Adult Contemporary RnB"]
+tags = ["RnB", "Contemporary RnB", "Neo Soul"]
 title = "Erykah Badu — Baduizm (1997)"
 youtube = "YJtkuX4GeaM"
 
