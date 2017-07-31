@@ -1,5 +1,5 @@
 baseURL = "https://khabaroff.com/1000/"
-buildDrafts = true
+buildDrafts = false
 canonifyURLs = true
 languageCode = "ru-ru"
 publishdir = "public"
