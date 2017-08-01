@@ -2,7 +2,7 @@
 date = "2017-08-01T14:24:01+00:00"
 googleplay = ""
 image = "/img/b/the-gary-burton-quartet-country-roads-and-other-places-1968.jpg"
-rated = []
+rated = ["5"]
 slug = "the-gary-burton-quartet-country-roads-and-other-places-1968"
 tags = ["Jazz", "Post Bop", "Jazz Instrument", "Vibraphone", "Marimba Jazz"]
 title = "The Gary Burton Quartet — Country Roads and Other Places (1968)"
