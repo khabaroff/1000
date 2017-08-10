@@ -1,6 +1,5 @@
 +++
 date = "2017-08-10T01:33:44+00:00"
-draft = true
 googleplay = ""
 image = "/img/c/ry-cooder-chicken-skin-music-1976.jpg"
 rated = ["3"]
