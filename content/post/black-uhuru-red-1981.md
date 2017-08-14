@@ -1,6 +1,6 @@
 +++
 date = "2017-07-28T00:31:35+00:00"
-googleplay = ""
+googleplay = "Bsbjxlchl3jwqandy4nzny7njve"
 image = "/img/b/black-uhuru-red-1981.jpg"
 rated = ["4"]
 slug = "black-uhuru-red-1981"

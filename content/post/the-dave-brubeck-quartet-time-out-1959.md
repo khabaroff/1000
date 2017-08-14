@@ -1,6 +1,6 @@
 +++
 date = "2017-07-31T20:43:59+00:00"
-googleplay = ""
+googleplay = "Brev7fuzktlx2tvpowzxg4n3u6e"
 image = "/img/b/the-dave-brubeck-quartet-time-out-1959.jpg"
 rated = ["5"]
 slug = "the-dave-brubeck-quartet-time-out-1959"

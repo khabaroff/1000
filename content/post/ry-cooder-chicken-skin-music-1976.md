@@ -1,6 +1,6 @@
 +++
 date = "2017-08-10T01:33:44+00:00"
-googleplay = ""
+googleplay = "Bgwmlkl646ht5kt7idcslsnpula"
 image = "/img/c/ry-cooder-chicken-skin-music-1976.jpg"
 rated = ["3"]
 slug = "ry-cooder-chicken-skin-music-1976"

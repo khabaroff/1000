@@ -1,6 +1,6 @@
 +++
 date = "2017-08-09T19:52:35+00:00"
-googleplay = ""
+googleplay = "Bjihkcjqitlh7e7wimjq5nbtgnq"
 image = "/img/b/blur-parklife-1994.jpg"
 rated = ["5"]
 slug = "blur-parklife-1994"

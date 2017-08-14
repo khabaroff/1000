@@ -1,6 +1,6 @@
 +++
 date = "2017-08-09T23:58:29+00:00"
-googleplay = ""
+googleplay = "Bmgfseslxpss3sffhxk6bosyo5m"
 image = "/img/b/bon-jovi-slippery-when-wet-1986.jpg"
 rated = ["2"]
 slug = "bon-jovi-slippery-when-wet-1986"

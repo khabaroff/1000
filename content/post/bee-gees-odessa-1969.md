@@ -1,6 +1,6 @@
 +++
 date = "2017-08-10T20:55:25+00:00"
-googleplay = ""
+googleplay = "Bhmxwzuxrocbzlki42hkxble6se"
 image = "/img/b/bee-gees-odessa-1969.jpg"
 rated = ["2"]
 slug = "bee-gees-odessa-1969"
