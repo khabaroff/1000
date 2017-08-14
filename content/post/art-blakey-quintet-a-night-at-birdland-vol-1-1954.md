@@ -6,7 +6,7 @@ rated = ["3"]
 slug = "art-blakey-a-night-at-birdland-vol-1-1954"
 tags = ["Jazz", "Hard Bop"]
 title = "Art Blakey Quintet — A Night at Birdland, Vol 1 (1954)"
-youtube = "2IQNPlnc9c0"
+youtube = "hknIvCxvrA0"
 
 +++
 
