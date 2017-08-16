@@ -1,6 +1,6 @@
 +++
 date = "2017-08-14T18:02:17+00:00"
-googleplay = ""
+googleplay = "Bkrd67bv4yym2sbmdaaidkcmbgi"
 image = "/img/b/art-blakey-a-night-at-birdland-vol-1-1954.jpg"
 rated = ["3"]
 slug = "art-blakey-a-night-at-birdland-vol-1-1954"

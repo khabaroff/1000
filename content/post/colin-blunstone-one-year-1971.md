@@ -1,6 +1,6 @@
 +++
 date = "2017-08-15T20:34:00+00:00"
-googleplay = ""
+googleplay = "Bgnqrciyspqgxhdt7x4vrgjnmpm"
 image = "/img/b/colin-blunstone-one-year-1971.jpg"
 rated = ["2"]
 slug = "colin-blunstone-one-year-1971"
