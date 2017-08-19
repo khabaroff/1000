@@ -10,28 +10,20 @@ homepage = "http://khabaroff.com"
 name = "Sergey Khabaroff"
 [[menu.main]]
 name = "О проекте"
-url = "https://khabaroff.com/1000/page/about/"
+url = "/page/about/"
+weight = 2
+[[menu.main]]
+name = "Главная"
+url = "/"
 weight = 1
 [[menu.main]]
-name = "⋆⋆"
-url = "/rated/2/"
-weight = 3
+name = "Оценки проекта"
+url = "/page/rated/"
+weight = 8
 [[menu.main]]
-name = "⋆⋆⋆"
-url = "/rated/3/"
-weight = 4
-[[menu.main]]
-name = "⋆⋆⋆⋆"
-url = "/rated/4/"
-weight = 5
-[[menu.main]]
-name = "⋆⋆⋆⋆⋆"
-url = "/rated/5/"
-weight = 6
-[[menu.main]]
-name = "⋆"
-url = "/rated/1/"
-weight = 2
+name = "Теги проекта"
+url = "/page/tags/"
+weight = 7
 [params]
 cover = "img/share.jpg"
 description = "Я люблю свои пластинки больше, чем тебя"

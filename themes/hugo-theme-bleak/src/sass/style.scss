@@ -798,6 +798,7 @@ iframe {
 				&:hover,
 				&:focus {
 					background: $color-gray-90;
+					outline: 1px solid #E1E2E6;
 				}
 
 				&.current {

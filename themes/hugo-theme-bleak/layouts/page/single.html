@@ -26,33 +26,73 @@
   			</section>
 
 
+				{{ if eq (relURL .URL) ("/page/tags/" | safeHTML) }}
 				<section>
+				<ul class="tags">
 
-					<h2 class="post-title">Теги проекта</h2>
 
-					<p>
-						{{ range $name, $taxonomy := .Site.Taxonomies.tags }}
-						<a href="{{ "/tags/" | relLangURL }}{{ $name | urlize }}/">{{ $name }}</a><br/>
-						{{ end }}
-					</p>
+					{{ range $name, $taxonomy := .Site.Taxonomies.tags }}
+
+					{{ if ne $name "" }}
+					<li><a href="/tags/{{ $name | urlize }}/">{{ $name | humanize }} ({{ $taxonomy.Count }})</a></li>
+					{{ end }}
+
+					{{ end }}
+
+
+
+				</ul>
+
+
+
+
 
 
 				</section>
 
 
 
-				<footer class="post-footer">
-
-				<div class="post-share">
+				{{ end }}
 
 
+				{{ if eq (relURL .URL) ("/page/rated/" | safeHTML) }}
+				<section>
+
+
+
+							{{ range $key, $taxonomy := .Site.Taxonomies.rated }}
+
+
+					{{ if ne $key "" }}
+							<h2><a href="/rated/{{ $key }}/">{{ $key }}</a></h2>
+							<ul>
+								{{ range $taxonomy.Pages }}
+								<li hugo-nav="{{ .RelPermalink}}"><a href="{{ .Permalink}}"> {{ .LinkTitle }} </a> </li>
+								{{ end }}
+							</ul>
+							{{ end }}
+					{{ end }}
+
+
+
+				</section>
+				{{ end }}
+
+
+
+
+
+
+
+				{{ if eq (relURL .URL) ("/" | safeHTML) }}
+				<section>
 					<h2 class="post-title">Недавно послушал по данным Last.fm</h2>
 					<div class="listening-to post-content" data-lfm-user="_HAba" data-lfm-api="d1e33c66a6d36ea44112850139bd41ed" data-lfm-limit="10"></div>
 
-
-				</div>
-
-  			</footer>
+				</section>
+				{{ end }}
+				<!--<footer class="post-footer">-->
+  			<!--</footer>-->
 
   			{{ partial "comments.html" . }}
 
