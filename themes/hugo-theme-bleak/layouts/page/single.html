@@ -28,24 +28,56 @@
 
 				{{ if eq (relURL .URL) ("/page/tags/" | safeHTML) }}
 				<section>
-				<ul class="tags">
-
-
-					{{ range $name, $taxonomy := .Site.Taxonomies.tags }}
-
-					{{ if ne $name "" }}
-					<li><a href="/tags/{{ $name | urlize }}/">{{ $name | humanize }} ({{ $taxonomy.Count }})</a></li>
-					{{ end }}
-
-					{{ end }}
 
 
 
-				</ul>
+					{{ $sitetags := .Site.Taxonomies.tags }}
+					{{ $tagshalf := int (div (len $sitetags) 3) }}
+					{{ $tagshalf1 := add $tagshalf 1 }}
+					{{ $tagshalf2 := add (mul $tagshalf 2) 1 }}
+					{{ $.Scratch.Set "firsthalf" 0 }}
+					{{ $.Scratch.Set "secondhalf" 0 }}
+					{{ $.Scratch.Set "thirdhalf" 0 }}
+					<div class="container">
+						<div class="left">
+					<ul>
+						{{ range $name, $taxonomy := $sitetags }}
+						{{ $.Scratch.Add "firsthalf" 1}}
+						{{ if le ($.Scratch.Get "firsthalf") $tagshalf1 }}
+						{{ if ne $name "" }}
+						<li><a href="/tags/{{$name | urlize}}/">{{ $name | humanize }} ({{ $taxonomy.Count }})</a></li>
+						{{ end }}
+						{{ end }}
+						{{ end }}
+					</ul></div>
+						<div class="middle">
+					<ul>
+						{{ range $name, $taxonomy := $sitetags }}
+						{{ $.Scratch.Add "secondhalf" 1}}
+						{{ if gt ($.Scratch.Get "secondhalf") $tagshalf1 }}
+
+						{{ if le ($.Scratch.Get "secondhalf") $tagshalf2 }}
 
 
-
-
+						{{ if ne $name "" }}
+						<li><a href="/tags/{{$name | urlize}}/">{{ $name | humanize }} ({{ $taxonomy.Count }})</a></li>
+						{{ end }}
+						{{ end }}
+						{{ end }}
+						{{ end }}
+					</ul></div>
+						<div class="right">
+					<ul>
+						{{ range $name, $taxonomy := $sitetags }}
+						{{ $.Scratch.Add "thirdhalf" 1}}
+						{{ if gt ($.Scratch.Get "thirdhalf") $tagshalf2 }}
+						{{ if ne $name "" }}
+						<li><a href="/tags/{{$name | urlize}}/">{{ $name | humanize }} ({{ $taxonomy.Count }})</a></li>
+						{{ end }}
+						{{ end }}
+						{{ end }}
+					</ul>
+					</div></div>
 
 
 				</section>

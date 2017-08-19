@@ -4,7 +4,7 @@ googleplay = "Bjeqd33b4hbfi4gq56vaz6irdom"
 image = "/img/b/the-bhundu-boys-the-shed-sessions-2001.jpg"
 rated = ["5"]
 slug = "the-bhundu-boys-the-shed-sessions-2001"
-tags = ["International", "Afro Pop", "African Traditions", "Southern African", "World"]
+tags = ["International", "Afro Pop", "World"]
 title = "The Bhundu Boys — The Shed Sessions (2001)"
 youtube = "OMqa_zPVWkM"
 
