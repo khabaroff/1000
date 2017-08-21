@@ -6,7 +6,7 @@ rated = ["4"]
 slug = "burning-spear-marcus-garvey-1975"
 tags = ["Reggae", "Dub", "Political Reggae", "Roots Reggae"]
 title = "Burning Spear — Marcus Garvey (1975)"
-youtube = "EDEnHFFchno"
+youtube = "oV8QWVph4f0"
 
 +++
 &laquo;Маркус Гарви&raquo; вдарил по&nbsp;Ямайке с&nbsp;силой десяти штормов, альбом считается краеугольным камнем феномена рутс-регги. Шедевр состоит из&nbsp;политизированных причитаний преданного Расте Уинстона Родни и&nbsp;пестрящей партиями дудочки, врезающейся в&nbsp;памяти музыки продюсера Джека Руби.
