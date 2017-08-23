@@ -1,6 +1,6 @@
 +++
 date = "2017-08-21T16:40:49+00:00"
-googleplay = ""
+googleplay = "Bktwvegapgd7ovrhsng4neynwsy"
 image = "/img/b/burning-spear-marcus-garvey-1975.jpg"
 rated = ["4"]
 slug = "burning-spear-marcus-garvey-1975"
