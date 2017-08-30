@@ -1,6 +1,6 @@
 +++
 date = "2017-08-29T23:35:34+00:00"
-googleplay = ""
+googleplay = "Berqfqt7fhicuryain2zu2doomi"
 image = "/img/b/cilla-black-1963-1973-the-abbey-road-decade-1997.jpg"
 rated = ["3"]
 slug = "cilla-black-1963-1973-the-abbey-road-decade-1997"

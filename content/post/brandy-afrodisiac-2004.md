@@ -1,6 +1,6 @@
 +++
 date = "2017-08-29T18:38:17+00:00"
-googleplay = ""
+googleplay = "Bqaldiaqo7azjqt27aqxa2vjtum"
 image = "/img/b/brandy-afrodisiac-2004.jpg"
 rated = ["1"]
 slug = "brandy-afrodisiac-2004"

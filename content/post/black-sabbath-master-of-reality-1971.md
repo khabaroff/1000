@@ -1,6 +1,6 @@
 +++
 date = "2017-08-29T23:56:54+00:00"
-googleplay = ""
+googleplay = "Bequ7uvfww6hfloewaziwnzym5i"
 image = "/img/b/black-sabbath-master-of-reality-1971.jpg"
 rated = ["4"]
 slug = "black-sabbath-master-of-reality-1971"
