@@ -1,6 +1,6 @@
 +++
 date = "2017-08-30T19:23:27+00:00"
-googleplay = ""
+googleplay = "Btgzat6dzcla64qowiywvvdqsmy"
 image = "/img/b/big-star-radio-city-1974.jpg"
 rated = ["1"]
 slug = "big-star-radio-city-1974"
