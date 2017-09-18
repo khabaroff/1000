@@ -1,0 +1,115 @@
+---
+pages:
+- post/syd-barrett-the-madcap-laughs-1970.md
+- post/big-star-radio-city-1974.md
+- post/the-birthday-party-prayers-on-fire-1981.md
+- post/cilla-black-1963-1973-the-abbey-road-decade-1997.md
+- post/brandy-afrodisiac-2004.md
+- post/black-sabbath-master-of-reality-1971.md
+- post/biz-markie-goin-off-1988.md
+- post/sidney-bechet-shake-em-up-2000.md
+- post/boogie-down-productions-criminal-minded-1987.md
+- post/burning-spear-marcus-garvey-1975.md
+- post/colin-blunstone-one-year-1971.md
+- post/art-blakey-quintet-a-night-at-birdland-vol-1-1954.md
+- post/tim-buckley-dream-letter-live-in-london-1968-1990.md
+- post/the-gary-burton-quartet-country-roads-and-other-places-1968.md
+- post/the-creation-our-music-is-red-with-purple-flashes-1998.md
+- post/the-bhundu-boys-the-shed-sessions-2001.md
+- post/the-b-52-s-the-b-52-s-1979.md
+- post/ry-cooder-chicken-skin-music-1976.md
+- post/jeff-buckley-grace-1994.md
+- post/blur-parklife-1994.md
+- post/bloc-party-a-weekend-in-the-city-2006.md
+- post/black-uhuru-red-1981.md
+- post/bikini-kill-the-singles-1998.md
+- post/bee-gees-odessa-1969.md
+- post/bon-jovi-slippery-when-wet-1986.md
+- post/blue-ash-no-more-no-less-1973.md
+- post/kate-bush-hounds-of-love-1985.md
+- post/the-dave-brubeck-quartet-time-out-1959.md
+- post/jorge-ben-samba-esquema-novo-1963.md
+- post/blondie-parallel-lines-1978.md
+- post/the-congos-heart-of-the-congos-1977.md
+- post/ruth-brown-the-best-of-1996.md
+- post/coldplay-a-rush-of-blood-to-the-head-2002.md
+- post/cocteau-twins-heaven-or-las-vegas-1990.md
+- post/the-chemical-brothers-dig-your-own-hole-1997.md
+- post/the-carpenters-the-singles-1969-1973-1973.md
+- post/the-broken-family-band-welcome-home-loser-2005.md
+- post/erykah-badu-baduizm-1997.md
+- post/basement-jaxx-remedy-1999.md
+- post/big-brother-and-the-holding-company-cheap-thrills-1968.md
+- post/the-chi-lites-a-lonely-man-1972.md
+- post/crazy-horse-crazy-horse-1971.md
+- post/burial-burial-2006.md
+- post/the-cramps-off-the-bone-1983.md
+- post/the-beta-band-the-three-eps-1998.md
+- post/the-beatles-rubber-soul-1965.md
+- post/the-beat-i-just-cant-stop-it-1980.md
+- post/the-bad-plus-give-2003.md
+- post/ray-charles-modern-sounds-in-country-and-western-music-1962.md
+- post/michael-brecker-pilgrimage-2006.md
+- post/james-brown-live-at-the-apollo-1963.md
+- post/gato-barbieri-last-tango-in-paris-ost-1972.md
+- post/david-bowie-low-1977.md
+- post/curt-boettcher-misty-mirage-2000.md
+- post/charlie-christian-solo-flight-1993.md
+- post/buzzcocks-singles-going-steady-1979.md
+- post/burt-bacharach-make-it-easy-on-yourself-1969.md
+- post/broadcast-ha-ha-sound-2003.md
+- post/boredoms-vision-creation-newsun-2001.md
+- post/boards-of-canada-music-has-the-right-to-children-1998.md
+- post/black-flag-the-first-four-years-1983.md
+- post/big-youth-screaming-target-1973.md
+- post/big-black-songs-about-fucking-1987.md
+- post/betty-boo-boomania-1990.md
+- post/beck-mellow-gold-1993.md
+- post/the-beach-boys-the-beach-boys-today-1965.md
+- post/derek-bailey-ballads-2002.md
+- post/crass-stations-of-the-crass-1979.md
+- post/john-cale-paris-1919-1973.md
+- post/anne-briggs-a-collection-1971.md
+- post/blackstreet-blackstreet-1994.md
+- post/bjork-debut-1993.md
+hide_body: false
+fields:
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: 2014-07-11 10:54:24 +0200
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: slug
+  label: Slug
+  type: text
+  hidden: false
+  default: ''
+- name: tags
+  label: Tags
+  type: tag_list
+  fields:
+  - name: ''
+    type: text
+  hidden: false
+  default: ''
+- name: rated
+  label: Rated
+  type: tag_list
+  hidden: false
+  default: ''
+- name: image
+  label: Image
+  type: text
+  hidden: false
+  default: ''
+- type: text
+  name: googleplay
+  label: Googleplay
+- type: text
+  label: youtube
+  name: youtube
