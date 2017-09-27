@@ -1,5 +1,6 @@
 ---
 pages:
+- post/blue-oyster-cult-secret-treaties-1974.md
 - post/cypress-hill-cypress-hill-1991.md
 - post/blurt-the-best-of-blurt-vol-1-2003.md
 - post/syd-barrett-the-madcap-laughs-1970.md
@@ -80,7 +81,7 @@ fields:
   label: Date
   type: datetime
   hidden: false
-  default: 2014-07-11 10:54:24 +0200
+  default: 2014-07-11 08:54:24 +0000
 - name: title
   label: Title
   type: text
