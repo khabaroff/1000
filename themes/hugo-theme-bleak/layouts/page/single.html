@@ -131,7 +131,6 @@
 					{{ $firstChar := substr .Title -2 4 }}
 
 
-
 					<!-- in case $firstChar is a letter -->
 					{{ if $firstChar | in $letters }}
 					<!-- get the current letter -->
@@ -140,7 +139,7 @@
 					{{ if ne $firstChar $curLetter }}
 					<!-- update the current letter and print it -->
 					{{ $.Scratch.Set "curLetter" $firstChar }}
-					<h2>{{ $firstChar }}</h2>
+					<h3>{{ $firstChar }}</h3>
 					{{ end }}
 
 					-- {{ .Title }}<br>
