@@ -122,7 +122,7 @@
 
                     {{ range .Site.RegularPages }}
                         {{ $year := substr .Title -2 4 }}
-                        {{ if (int $year)  }}
+						{{ if gt $year 1  }}
 							{{ $.Scratch.SetInMap "byYear" (print $year .Title) . }}
 						{{ end }}
                     {{ end }}
@@ -132,9 +132,10 @@
 						{{ $curYear := $.Scratch.Get "curYear" }}
 						{{ if ne $year $curYear }}
 							{{ $.Scratch.Set "curYear" $year }}
-							<h3>{{ $year }}</h3>
-						{{ end }}
-						-- {{ .Title }}<br>
+					</ul><h3>{{ $year }}</h3><ul>
+					{{ end }}
+
+					<li hugo-nav="{{ .RelPermalink}}"><a href="{{ .Permalink}}"> {{ .LinkTitle }} </a> </li>
 					{{ end }}
 
 				</section>
