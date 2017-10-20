@@ -135,7 +135,7 @@
 					</ul><h3>{{ $year }}</h3><ul>
 					{{ end }}
 
-					<li hugo-nav="{{ .RelPermalink}}"><a href="{{ .Permalink}}"> {{ .LinkTitle }} </a> </li>
+					<li hugo-nav="{{ .RelPermalink}}"><a href="{{ .Permalink}}"> {{substr .LinkTitle 0 -7}} </a> </li>
 					{{ end }}
 
 				</section>
