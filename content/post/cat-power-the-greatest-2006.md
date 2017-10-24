@@ -6,7 +6,7 @@ rated = ["4"]
 slug = "cat-power-the-greatest-2006"
 tags = ["Pop Rock", "Singer Songwriter", "Alternative"]
 title = "Cat Power — The Greatest (2006)"
-youtube = "lnSjtKFcW1Y"
+youtube = "aFxSKK-Mw-Y"
 
 +++
 Альбом &laquo;Лучший&raquo; (нет, это не&nbsp;сборник хитов) дает понять, насколько Чан Маршалл растет с&nbsp;каждым выпущенным альбомом. Чан встает на&nbsp;территорию &laquo;сингер-сонграйтер&raquo; и&nbsp;уходит от&nbsp;сердитого рока, звучит сексуально, сильно и&nbsp;игриво, создавая теплую, душевную, непринужденную атмосферу.
