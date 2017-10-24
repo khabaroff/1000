@@ -11,7 +11,7 @@ name = "Sergey Khabaroff"
 [[menu.main]]
 name = "Время"
 url = "/page/years/"
-weight = 1
+weight = 5
 [[menu.main]]
 name = "Теги"
 url = "/page/tags/"
