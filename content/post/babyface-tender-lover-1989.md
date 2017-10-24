@@ -4,7 +4,7 @@ googleplay = "Bb5krnp2sk4kqw2qd6obd5cosue"
 image = "/img/b/babyface-tender-lover-1989.jpg"
 rated = ["1"]
 slug = "babyface-tender-lover-1989"
-tags = ["R&B"]
+tags = ["RnB"]
 title = "Babyface — Tender Lover (1989)"
 youtube = "W3egbD56y-0"
 
