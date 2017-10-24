@@ -1,5 +1,5 @@
 +++
-date = "2017-08-30T00:44:04+00:00"
+date = "2017-08-30T00:44:04Z"
 googleplay = "Bvxdiefbtlgfig3ocury4zc462q"
 image = "/img/b/the-birthday-party-prayers-on-fire-1981.jpg"
 rated = ["3"]

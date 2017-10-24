@@ -9,21 +9,25 @@ title = "1000 и 1 альбом"
 homepage = "http://khabaroff.com"
 name = "Sergey Khabaroff"
 [[menu.main]]
-name = "О проекте"
-url = "/page/about/"
-weight = 2
+name = "Время"
+url = "/page/years/"
+weight = 1
+[[menu.main]]
+name = "Теги"
+url = "/page/tags/"
+weight = 3
+[[menu.main]]
+name = "Оценки"
+url = "/page/rated/"
+weight = 4
 [[menu.main]]
 name = "Главная"
 url = "/"
 weight = 1
 [[menu.main]]
-name = "Оценки проекта"
-url = "/page/rated/"
-weight = 8
-[[menu.main]]
-name = "Теги проекта"
-url = "/page/tags/"
-weight = 7
+name = "О проекте"
+url = "/page/about/"
+weight = 2
 [params]
 cover = "img/share.jpg"
 description = "Я люблю свои пластинки больше, чем тебя"

@@ -1,5 +1,5 @@
 +++
-date = "2017-08-03T01:10:23+00:00"
+date = "2017-08-03T01:10:23Z"
 googleplay = "Bvb4hpf3n2vmfy7lw6heo6cdvzm"
 image = "/img/b/bloc-party-a-weekend-in-the-city-2006.jpg"
 rated = ["4"]

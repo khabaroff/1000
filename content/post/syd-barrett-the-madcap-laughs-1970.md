@@ -1,5 +1,5 @@
 +++
-date = "2017-09-18T17:55:04+00:00"
+date = "2017-09-18T17:55:04Z"
 googleplay = ""
 image = "/img/b/syd-barrett-the-madcap-laughs-1970.jpg"
 rated = ["5"]

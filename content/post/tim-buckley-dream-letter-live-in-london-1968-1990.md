@@ -1,5 +1,5 @@
 +++
-date = "2017-08-08T01:35:54+00:00"
+date = "2017-08-08T01:35:54Z"
 googleplay = ""
 image = "/img/b/tim-buckley-dream-letter-live-in-london-1968-1990.jpg"
 rated = ["4"]

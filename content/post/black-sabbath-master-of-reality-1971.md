@@ -1,5 +1,5 @@
 +++
-date = "2017-08-29T23:56:54+00:00"
+date = "2017-08-29T23:56:54Z"
 googleplay = "Bequ7uvfww6hfloewaziwnzym5i"
 image = "/img/b/black-sabbath-master-of-reality-1971.jpg"
 rated = ["4"]

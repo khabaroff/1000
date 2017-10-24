@@ -1,5 +1,5 @@
 +++
-date = "2017-08-18T20:15:30+00:00"
+date = "2017-08-18T20:15:30Z"
 googleplay = "Bjftsvfduuy6g5ooimvfarnzrsa"
 image = "/img/b/boogie-down-productions-criminal-minded-1987.jpg"
 rated = ["3"]

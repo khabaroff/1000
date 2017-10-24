@@ -1,5 +1,5 @@
 +++
-date = "2017-08-04T08:58:16+00:00"
+date = "2017-08-04T08:58:16Z"
 googleplay = "Bnwljs7lcldh5zcqyana6r66mc4"
 image = "/img/b/kate-bush-hounds-of-love-1985.jpg"
 rated = ["4"]

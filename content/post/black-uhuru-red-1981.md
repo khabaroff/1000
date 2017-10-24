@@ -1,5 +1,5 @@
 +++
-date = "2017-07-28T00:31:35+00:00"
+date = "2017-07-28T00:31:35Z"
 googleplay = "Bsbjxlchl3jwqandy4nzny7njve"
 image = "/img/b/black-uhuru-red-1981.jpg"
 rated = ["4"]

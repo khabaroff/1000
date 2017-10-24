@@ -1,5 +1,5 @@
 +++
-date = "2017-08-28T15:14:08+00:00"
+date = "2017-08-28T15:14:08Z"
 googleplay = ""
 image = "/img/b/biz-markie-goin-off-1988.jpg"
 rated = ["3"]
