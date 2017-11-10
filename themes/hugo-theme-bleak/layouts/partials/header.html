@@ -3,6 +3,9 @@
 
     <head>
 
+        {{ partial "criticalpath.html" . }}
+
+
         <script>
             if(navigator.userAgent.indexOf("Speed Insights") == -1) {
                 (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -40,7 +43,7 @@
       };
     </script>
 
-    {{ partial "criticalpath.html" . }}
+
 
     </head>
     <body class="home-template">

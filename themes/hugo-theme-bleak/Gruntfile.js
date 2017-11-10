@@ -48,7 +48,8 @@ module.exports = function(grunt) {
             }
         },
         clean: {
-            dist: ['static']
+            options: { force: true},
+            dist: ['static', '../../public']
         },
         sass: {
             dev: {
@@ -158,7 +159,7 @@ module.exports = function(grunt) {
     });
 
     grunt.registerTask('build', [
-        'clean:dist',
+        'clean',
         'sass:dist',
         'cssmin:dist',
         'postcss',
