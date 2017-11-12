@@ -1,6 +1,6 @@
 +++
 date = "2017-09-27T12:32:27Z"
-googleplay = ""
+googleplay = "B5zwapf6lm2gnt6hgv6s5ohnvzi"
 image = "/img/b/blue-oyster-cult-secret-treaties-1974.jpg"
 rated = ["2"]
 slug = "blue-oyster-cult-secret-treaties-1974"

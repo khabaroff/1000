@@ -1,6 +1,6 @@
 +++
 date = "2017-10-24T19:52:46+00:00"
-googleplay = ""
+googleplay = "Bo42czwbi66y6lno2oaxye7n6ke"
 image = "/img/c/cat-power-the-greatest-2006.jpg"
 rated = ["4"]
 slug = "cat-power-the-greatest-2006"

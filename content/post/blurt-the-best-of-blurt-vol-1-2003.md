@@ -1,6 +1,6 @@
 +++
 date = "2017-09-25T17:39:57Z"
-googleplay = ""
+googleplay = "Bnq4wgwpyx4exam5vs2suw43y64"
 image = "/img/b/blurt-the-best-of-blurt-vol-1-2003.jpg"
 rated = ["4"]
 slug = "blurt-the-best-of-blurt-vol-1-2003"

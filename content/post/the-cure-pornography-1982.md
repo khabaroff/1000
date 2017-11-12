@@ -1,6 +1,6 @@
 +++
 date = "2017-10-13T00:43:26Z"
-googleplay = ""
+googleplay = "Bldeegtudbxuktu3a5lt2p6kygi"
 image = "/img/c/the-cure-pornography-1982.jpg"
 rated = ["5"]
 slug = "the-cure-pornography-1982"

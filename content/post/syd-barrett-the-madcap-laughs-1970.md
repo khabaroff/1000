@@ -1,6 +1,6 @@
 +++
 date = "2017-09-18T17:55:04Z"
-googleplay = ""
+googleplay = "B34ekunpduu5hfflyrzyjrfyjbi"
 image = "/img/b/syd-barrett-the-madcap-laughs-1970.jpg"
 rated = ["5"]
 slug = "syd-barrett-the-madcap-laughs-1970"
