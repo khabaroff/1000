@@ -85,16 +85,16 @@ jQuery(function($) {
             var img = $(this);
             img.load(function() {
                 img.parents('.post-image').css({
-                    'height': '0',
+                    'height': '300',
                     'padding-bottom': 100 / img.width() * img.height() + '%'
                 });
             });
         });
         var postlist = $('.post-list').masonry({
             itemSelector: '.post',
-            isAnimated: false,
+            isAnimated: true,
             gutter: 0,
-            columnWidth: 1,
+            columnWidth: 3,
             transitionDuration: 0
         }).imagesLoaded().always(function() {
             postlist.masonry('layout');
