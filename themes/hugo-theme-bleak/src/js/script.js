@@ -86,7 +86,7 @@ jQuery(function($) {
             img.load(function() {
                 img.parents('.post-image').css({
                     'height': '300',
-                    'padding-bottom': 100 / img.width() * img.height() + '%'
+                    'padding-bottom': 100  + '%'
                 });
             });
         });
