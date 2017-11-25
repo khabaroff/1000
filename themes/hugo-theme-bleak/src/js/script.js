@@ -85,8 +85,8 @@ jQuery(function($) {
             var img = $(this);
             img.load(function() {
                 img.parents('.post-image').css({
-                    'height': '300',
-                    'padding-bottom': 100  + '%'
+                    // 'height': '300',
+                    // 'padding-bottom': 100  + '%'
                 });
             });
         });
