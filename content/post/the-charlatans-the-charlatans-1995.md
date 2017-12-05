@@ -1,7 +1,7 @@
 +++
 date = "2017-12-05T19:13:05+00:00"
 googleplay = ""
-image = "/img/c/the-charlatans-the-charlatans-1995.kpg"
+image = "/img/c/the-charlatans-the-charlatans-1995.jpg"
 rated = ["2"]
 slug = "the-charlatans-the-charlatans-1995"
 tags = ["Alternative Pop Rock", "Indie Rock", "British Trad Rock", "Britpop", "Madchester"]
