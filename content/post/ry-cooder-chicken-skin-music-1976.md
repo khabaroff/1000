@@ -4,7 +4,7 @@ googleplay = "Bgwmlkl646ht5kt7idcslsnpula"
 image = "/img/c/ry-cooder-chicken-skin-music-1976.jpg"
 rated = ["3"]
 slug = "ry-cooder-chicken-skin-music-1976"
-tags = ["Pop Rock", "Blues", "Album Rock", "Blues Rock", "Roots Rock", "Country Rock"]
+tags = ["Blues", "Album Rock", "Blues Rock", "Roots Rock", "Country Rock"]
 title = "Ry Cooder — Chicken Skin Music (1976)"
 youtube = "4uLrbodN-9A"
 

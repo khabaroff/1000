@@ -4,7 +4,7 @@ googleplay = "Bvxdiefbtlgfig3ocury4zc462q"
 image = "/img/b/the-birthday-party-prayers-on-fire-1981.jpg"
 rated = ["3"]
 slug = "the-birthday-party-prayers-on-fire-1981"
-tags = ["Pop Rock", "Alternative", "Indie Rock", "Post Punk", "Punk", "New Wave", "Alternative Pop Rock"]
+tags = ["Alternative", "Indie Rock", "Post Punk", "Punk", "New Wave", "Alternative Pop Rock"]
 title = "The Birthday Party — Prayers on Fire (1981)"
 youtube = "6E5revxN56I"
 

@@ -4,7 +4,7 @@ googleplay = "Bfra3crmywsm3grqai3fngls4iq"
 image = "/img/b/curt-boettcher-misty-mirage-2000.jpg"
 rated = ["3"]
 slug = "curt-boettcher-misty-mirage-2000"
-tags = ["Pop Rock", "AM Pop", "Baroque Pop", "Contemporary Pop Rock", "Psychedelic Pop", "Psychedelic", "Garage", "Soft Rock", "Sunshine Pop"]
+tags = ["AM Pop", "Baroque Pop", "Contemporary Pop Rock", "Psychedelic Pop", "Psychedelic", "Garage", "Soft Rock", "Sunshine Pop"]
 title = "Curt Boettcher — Misty Mirage (2000)"
 youtube = "vXeWwgeP-sE"
 

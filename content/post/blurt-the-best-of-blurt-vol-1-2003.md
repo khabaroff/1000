@@ -4,7 +4,7 @@ googleplay = "Bnq4wgwpyx4exam5vs2suw43y64"
 image = "/img/b/blurt-the-best-of-blurt-vol-1-2003.jpg"
 rated = ["4"]
 slug = "blurt-the-best-of-blurt-vol-1-2003"
-tags = ["Pop Rock", "Alternative", "Indie Rock", "Post Punk"]
+tags = ["Alternative", "Indie Rock", "Post Punk"]
 title = "Blurt — The Best of Blurt, Vol. 1: The Fish Needs a Bike (2003)"
 youtube = "ZsMrl2Hveog"
 

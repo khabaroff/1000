@@ -4,7 +4,7 @@ googleplay = "B5cdvujdobnl2m4ogdeapjremsm"
 image = "/img/b/the-beatles-rubber-soul-1965.jpg"
 rated = ["5"]
 slug = "the-beatles-rubber-soul-1965"
-tags = ["Pop Rock", "British Invasion", "Contemporary Pop Rock", "Folk Rock", "Psychedelic", "Garage", "Rock & Roll", "AM Pop"]
+tags = ["British Invasion", "Contemporary Pop Rock", "Folk Rock", "Psychedelic", "Garage", "Rock & Roll", "AM Pop"]
 title = "The Beatles — Rubber Soul (1965)"
 youtube = "Mi5ODY-vIzI"
 

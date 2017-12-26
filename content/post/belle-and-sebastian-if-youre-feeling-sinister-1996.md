@@ -4,7 +4,7 @@ googleplay = "Bblo6a5bucxopm3d3ropzpm7uby"
 image = "/img/b/belle-and-sebastian-if-you're-feeling-sinister-1996.jpg"
 rated = ["4"]
 slug = "belle-and-sebastian-if-youre-feeling-sinister-1996"
-tags = ["Pop Rock", "Alternative Pop Rock", "Alternative Indie Rock", "Chamber Pop", "Indie Pop", "Twee Pop"]
+tags = ["Alternative Pop Rock", "Alternative Indie Rock", "Chamber Pop", "Indie Pop", "Twee Pop"]
 title = "Belle and Sebastian — If You're Feeling Sinister (1996)"
 youtube = "a-UMJ6MP_DM"
 

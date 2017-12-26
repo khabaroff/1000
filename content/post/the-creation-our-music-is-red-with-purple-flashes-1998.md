@@ -4,7 +4,7 @@ googleplay = ""
 image = "/img/c/the-creation-our-music-is-red-with-purple-flashes-1998.jpg"
 rated = ["3"]
 slug = "the-creation-our-music-is-red-with-purple-flashes-1998"
-tags = ["Pop Rock", "British Invasion", "British Psychedelia", "Freakbeat", "Mod", "Psychedelic", "Garage", "Rock-n-Roll"]
+tags = ["British Invasion", "British Psychedelia", "Freakbeat", "Mod", "Psychedelic", "Garage", "Rock-n-Roll"]
 title = "The Creation — Our Music Is Red With Purple Flashes (1998)"
 youtube = "zC6NZUzo70k"
 

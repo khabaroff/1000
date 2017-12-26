@@ -4,7 +4,7 @@ googleplay = "Bjihkcjqitlh7e7wimjq5nbtgnq"
 image = "/img/b/blur-parklife-1994.jpg"
 rated = ["5"]
 slug = "blur-parklife-1994"
-tags = ["Pop Rock", "Alternative Pop Rock", "Britpop", "Contemporary Pop Rock", "Indie Pop", "Dance Rock", "Alternative Dance"]
+tags = ["Alternative Pop Rock", "Britpop", "Contemporary Pop Rock", "Indie Pop", "Dance Rock", "Alternative Dance"]
 title = "Blur — Parklife (1994)"
 youtube = "0DjHKqb365A"
 

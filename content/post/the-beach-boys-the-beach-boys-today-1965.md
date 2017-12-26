@@ -4,7 +4,7 @@ googleplay = "Bsz72djdjllqbbh3zig62lmrkxe"
 image = "/img/b/the-beach-boys-the-beach-boys-today-1965.jpg"
 rated = ["5"]
 slug = "the-beach-boys-the-beach-boys-today-1965"
-tags = ["Pop Rock", "AM Pop", "Baroque Pop", "Sunshine Pop", "Contemporary Pop Rock"]
+tags = ["AM Pop", "Baroque Pop", "Sunshine Pop", "Contemporary Pop Rock"]
 title = "The Beach Boys — The Beach Boys Today! (1965)"
 youtube = "WjB9u85WSmo"
 

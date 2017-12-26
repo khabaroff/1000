@@ -4,7 +4,7 @@ googleplay = "Bs7lrcsdonfblhp73ooef4dsxru"
 image = "/img/c/the-cramps-off-the-bone-1983.jpg"
 rated = ["4"]
 slug = "the-cramps-off-the-bone-1983"
-tags = ["Pop Rock", "Alternative", "Indie Rock", "American Underground", "Post Punk", "Psychobilly", "Rockabilly Revival", "Garage Punk"]
+tags = ["Alternative", "Indie Rock", "American Underground", "Post Punk", "Psychobilly", "Rockabilly Revival", "Garage Punk"]
 title = "The Cramps — ...Off the Bone (1983)"
 youtube = "rb1bTiu4fW4"
 

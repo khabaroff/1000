@@ -4,7 +4,7 @@ googleplay = "Bequ7uvfww6hfloewaziwnzym5i"
 image = "/img/b/black-sabbath-master-of-reality-1971.jpg"
 rated = ["4"]
 slug = "black-sabbath-master-of-reality-1971"
-tags = ["Pop Rock", "Album Rock", "British Metal", "Hard Rock", "Heavy Metal"]
+tags = ["Album Rock", "British Metal", "Hard Rock", "Heavy Metal"]
 title = "Black Sabbath — Master of Reality (1971)"
 youtube = "LH7c9wbiros"
 

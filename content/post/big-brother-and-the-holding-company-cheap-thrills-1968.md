@@ -4,7 +4,7 @@ googleplay = "B3ukpg2owtodi2d4befzilz5qwu"
 image = "/img/b/big-brother-and-the-holding-company-cheap-thrills-1968.jpg"
 rated = ["3"]
 slug = "big-brother-and-the-holding-company-cheap-thrills-1968"
-tags = ["Pop Rock", "Album Rock", "Blues Rock", "Hard Rock", "Psychedelic", "Garage Rock", "Rock and Roll", "Acid Rock"]
+tags = ["Album Rock", "Blues Rock", "Hard Rock", "Psychedelic", "Garage Rock", "Rock and Roll", "Acid Rock"]
 title = "Big Brother and the Holding Company — Cheap Thrills (1968)"
 youtube = "7uG2gYE5KOs"
 

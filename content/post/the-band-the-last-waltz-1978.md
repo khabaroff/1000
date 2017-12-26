@@ -4,7 +4,7 @@ googleplay = "Bsygmpbd5id4wbchn3fme7sh6pe"
 image = "/img/b/the-band-the-last-waltz-1978.jpg"
 rated = ["3"]
 slug = "the-band-the-last-waltz-1978"
-tags = ["Pop Rock", "Country Rock", "RockNRoll", "Singer Songwriter", "Album Rock"]
+tags = ["Country Rock", "RockNRoll", "Singer Songwriter", "Album Rock"]
 title = "The Band — The Last Waltz (1978)"
 youtube = "q2yW372qWH8"
 

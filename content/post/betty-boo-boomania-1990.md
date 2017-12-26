@@ -4,7 +4,7 @@ googleplay = "B4d55pdjsh7vi42swarhpjy5q74"
 image = "/img/b/betty-boo-boomania-1990.jpg"
 rated = ["1"]
 slug = "betty-boo-boomania-1990"
-tags = ["Pop Rock", "Electronic", "Rap", "Club Dance", "Dance Pop", "Pop Rap"]
+tags = ["Electronic", "Rap", "Club Dance", "Dance Pop", "Pop Rap"]
 title = "Betty Boo — Boomania (1990)"
 youtube = "H8iDrGW39EA"
 

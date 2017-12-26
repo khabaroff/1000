@@ -4,7 +4,7 @@ googleplay = ""
 image = "/img/c/the-carpenters-the-singles-1969-1973-1973.jpg"
 rated = ["3"]
 slug = "the-carpenters-the-singles-1969-1973-1973"
-tags = ["Pop Rock", "Soft Rock", "AM Pop"]
+tags = ["Soft Rock", "AM Pop"]
 title = "The Carpenters — The Singles 1969-1973 (1973)"
 youtube = "9fDYbvQgaIU"
 

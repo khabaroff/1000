@@ -4,7 +4,7 @@ googleplay = "Bz3wo53wf7piwtag557l6jkd4ni"
 image = "/img/b/jeff-buckley-grace-1994.jpg"
 rated = ["3"]
 slug = ""
-tags = ["Pop Rock", "Alternative Pop Rock", "Alternative", "Indie Rock", "Singer Songwriter", "Contemporary Singer"]
+tags = ["Alternative Pop Rock", "Alternative", "Indie Rock", "Singer Songwriter", "Contemporary Singer"]
 title = "Jeff Buckley — Grace (1994)"
 youtube = "mgtxj2x2pJs"
 

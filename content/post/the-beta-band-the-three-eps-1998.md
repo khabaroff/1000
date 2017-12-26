@@ -4,7 +4,7 @@ googleplay = "Bxp4ya26qkcfiwa3ns22vvxizem"
 image = "/img/b/the-beta-band-the-three-eps-1998.jpg"
 rated = ["5"]
 slug = "the-beta-band-the-three-eps-1998"
-tags = ["Pop Rock", "Electronic", "Alternative", "Indie Rock", "Trip Hop", "Alternative Pop Rock"]
+tags = ["Electronic", "Alternative", "Indie Rock", "Trip Hop", "Alternative Pop Rock"]
 title = "The Beta Band — The Three EPs (1998)"
 youtube = "ek_X_e8Byng"
 

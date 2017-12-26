@@ -4,7 +4,7 @@ googleplay = "Blnmxwp35q5ruwywmby7jvgesl4"
 image = "/img/b/broadcast-ha-ha-sound-2003.jpg"
 rated = ["3"]
 slug = "broadcast-ha-ha-sound-2003"
-tags = ["Electronic", "Pop Rock", "Alternative Pop Rock", "Alternative", "Indie Rock", "Ambient Pop", "Dream Pop", "Indie Electronic", "Post Rock", "Electronica"]
+tags = ["Electronic", "Alternative Pop Rock", "Alternative", "Indie Rock", "Ambient Pop", "Dream Pop", "Indie Electronic", "Post Rock", "Electronica"]
 title = "Broadcast — Ha Ha Sound (2003)"
 youtube = "kedohAMoMEQ"
 

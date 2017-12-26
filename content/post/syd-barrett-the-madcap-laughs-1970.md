@@ -4,7 +4,7 @@ googleplay = "B34ekunpduu5hfflyrzyjrfyjbi"
 image = "/img/b/syd-barrett-the-madcap-laughs-1970.jpg"
 rated = ["5"]
 slug = "syd-barrett-the-madcap-laughs-1970"
-tags = ["Pop Rock", "British Psychedelia", "Psychedelic Pop", "Psychedelic", "Garage Rock"]
+tags = ["British Psychedelia", "Psychedelic Pop", "Psychedelic", "Garage Rock"]
 title = "Syd Barrett — The Madcap Laughs (1970)"
 youtube = "4TZi_O9ZaCM"
 

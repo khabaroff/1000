@@ -4,7 +4,7 @@ googleplay = "Bvb4hpf3n2vmfy7lw6heo6cdvzm"
 image = "/img/b/bloc-party-a-weekend-in-the-city-2006.jpg"
 rated = ["4"]
 slug = "bloc-party-a-weekend-in-the-city-2006"
-tags = ["Pop Rock", "Alternative", "Indie Rock", "Alternative Pop Rock"]
+tags = ["Alternative", "Indie Rock", "Alternative Pop Rock"]
 title = "Bloc Party — A Weekend in the City (2006)"
 youtube = "d4xo7H0RBtY"
 

@@ -4,7 +4,7 @@ googleplay = "Bhmxwzuxrocbzlki42hkxble6se"
 image = "/img/b/bee-gees-odessa-1969.jpg"
 rated = ["2"]
 slug = "bee-gees-odessa-1969"
-tags = ["Pop Rock", "AM Pop", "Baroque Pop", "Psychedelic Pop", "Psychedelic", "Garage Rock", "Prog Rock"]
+tags = ["AM Pop", "Baroque Pop", "Psychedelic Pop", "Psychedelic", "Garage Rock", "Prog Rock"]
 title = "Bee Gees — Odessa (1969)"
 youtube = "34wjlmNNuMQ"
 

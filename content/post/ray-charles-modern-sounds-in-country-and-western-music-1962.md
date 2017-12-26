@@ -4,7 +4,7 @@ googleplay = "Bjo7xmaqgls2jyncll6kv6sqn34"
 image = "/img/c/ray-charles-modern-sounds-in-country-and-western-music-1962.jpg"
 rated = ["5"]
 slug = "ray-charles-modern-sounds-in-country-and-western-music-1962"
-tags = ["RnB", "Pop Rock", "Country Soul", "Early RnB", "Soul", "Pop Soul"]
+tags = ["RnB", "Country Soul", "Early RnB", "Soul", "Pop Soul"]
 title = "Ray Charles — Modern Sounds in Country and Western Music (1962)"
 youtube = "EsOmizjm0Xw"
 

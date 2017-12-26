@@ -4,7 +4,7 @@ googleplay = ""
 image = "/img/b/blue-ash-no-more-no-less-1973.jpg"
 rated = ["4"]
 slug = "blue-ash-no-more-no-less-1973"
-tags = ["Pop Rock", "Contemporary Pop Rock", "Power Pop"]
+tags = ["Contemporary Pop Rock", "Power Pop"]
 title = "Blue Ash — No More, No Less (1973)"
 youtube = "xWT1i4J5u9Y"
 

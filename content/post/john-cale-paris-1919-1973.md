@@ -4,7 +4,7 @@ googleplay = "Bmrj2rtnlxm3mzgrvr7exwd463a"
 image = "/img/c/john-cale-paris-1919-1973.jpg"
 rated = ["4"]
 slug = "john-cale-paris-1919-1973"
-tags = ["Pop Rock", "Contemporary Pop Rock", "Singer Songwriter", "Alternative", "Indie Rock", "Experimental Rock"]
+tags = ["Contemporary Pop Rock", "Singer Songwriter", "Alternative", "Indie Rock", "Experimental Rock"]
 title = "John Cale — Paris 1919 (1973)"
 youtube = "ges4THjP6iI"
 

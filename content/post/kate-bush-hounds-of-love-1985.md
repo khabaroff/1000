@@ -4,7 +4,7 @@ googleplay = "Bnwljs7lcldh5zcqyana6r66mc4"
 image = "/img/b/kate-bush-hounds-of-love-1985.jpg"
 rated = ["4"]
 slug = "kate-bush-hounds-of-love-1985"
-tags = ["Pop Rock", "Art Rock", "College Rock", "Alternative Pop Rock"]
+tags = ["Art Rock", "College Rock", "Alternative Pop Rock"]
 title = "Kate Bush — Hounds of Love (1985)"
 youtube = "wp43OdtAAkM"
 
