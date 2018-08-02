@@ -1,6 +1,5 @@
 +++
 date = "2014-07-11T08:54:24.000+00:00"
-draft = true
 googleplay = ""
 image = "/img/c/culture-two-sevens-clash-1977.jpg"
 rated = ["4"]
