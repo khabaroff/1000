@@ -6,7 +6,7 @@ rated = ["4"]
 slug = "black-uhuru-red-1981"
 tags = ["Reggae", "Roots Reggae", "Dub"]
 title = "Black Uhuru — Red (1981)"
-youtube = "lBIojh8CzlY"
+youtube = "EZVfi38pBtY"
 
 +++
 После гастролей с&nbsp;&laquo;Полис&raquo; и&nbsp;&laquo;Роллинг Стоунс&raquo; &laquo;Блэк Ухуру&raquo; стали главной регги-группой в&nbsp;мире, заполнив пустоту, оставленную Бобом Марли. 
