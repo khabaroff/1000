@@ -4,7 +4,7 @@ googleplay = "Bs7fwjdvv6gcpjbdyuhioq6rdqa"
 image = "/img/c/crazy-horse-crazy-horse-1971.jpg"
 rated = ["4"]
 slug = "crazy-horse-crazy-horse-1971"
-tags = ["Pop Rock", "Album Rock", "Country Rock", "Singer Songwriter"]
+tags = ["Album Rock", "Country Rock", "Singer Songwriter"]
 title = "Crazy Horse — Crazy Horse (1971)"
 youtube = "VXZLG4NmtxU"
 

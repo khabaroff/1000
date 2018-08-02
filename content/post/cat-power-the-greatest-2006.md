@@ -4,7 +4,7 @@ googleplay = "Bo42czwbi66y6lno2oaxye7n6ke"
 image = "/img/c/cat-power-the-greatest-2006.jpg"
 rated = ["4"]
 slug = "cat-power-the-greatest-2006"
-tags = ["Pop Rock", "Singer Songwriter", "Alternative"]
+tags = ["Singer Songwriter", "Alternative"]
 title = "Cat Power — The Greatest (2006)"
 youtube = "aFxSKK-Mw-Y"
 

@@ -4,7 +4,7 @@ googleplay = "Bmgfseslxpss3sffhxk6bosyo5m"
 image = "/img/b/bon-jovi-slippery-when-wet-1986.jpg"
 rated = ["2"]
 slug = "bon-jovi-slippery-when-wet-1986"
-tags = ["Pop Rock", "Album Rock", "Contemporary Pop Rock", "Hair Metal", "Hard Rock", "Heavy Metal", "Pop Metal", "Arena Rock"]
+tags = ["Album Rock", "Contemporary Pop Rock", "Hair Metal", "Hard Rock", "Heavy Metal", "Pop Metal", "Arena Rock"]
 title = "Bon Jovi — Slippery When Wet (1986)"
 youtube = "lDK9QqIzhwk"
 

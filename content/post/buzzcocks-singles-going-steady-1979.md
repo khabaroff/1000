@@ -4,7 +4,7 @@ googleplay = "Bgs7dtap5ppzv4wvmar6lkjnjoq"
 image = "/img/b/buzzcocks-singles-going-steady-1979.jpg"
 rated = ["4"]
 slug = "buzzcocks-singles-going-steady-1979"
-tags = ["Pop Rock", "British Punk", "Punk", "New Wave"]
+tags = ["British Punk", "Punk", "New Wave"]
 title = "Buzzcocks — Singles Going Steady (1979)"
 youtube = "-EEPvXlTUnU"
 

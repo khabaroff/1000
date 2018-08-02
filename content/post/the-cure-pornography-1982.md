@@ -4,7 +4,7 @@ googleplay = "Bldeegtudbxuktu3a5lt2p6kygi"
 image = "/img/c/the-cure-pornography-1982.jpg"
 rated = ["5"]
 slug = "the-cure-pornography-1982"
-tags = ["Pop Rock", "Alternative", "Indie Rock", "Goth Rock", "Post Punk", "Alternative Pop Rock"]
+tags = ["Alternative", "Indie Rock", "Goth Rock", "Post Punk", "Alternative Pop Rock"]
 title = "The Cure — Pornography (1982)"
 youtube = "LdpCl706LKI"
 

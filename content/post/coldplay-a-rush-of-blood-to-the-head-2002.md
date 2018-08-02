@@ -4,7 +4,7 @@ googleplay = "Bzrnh4npfxpo5mim6wvdavglo4e"
 image = "/img/c/coldplay-a-rush-of-blood-to-the-head-2002.jpg"
 rated = ["3"]
 slug = "coldplay-a-rush-of-blood-to-the-head-2002"
-tags = ["Pop Rock", "Alternative Pop Rock", "Alternative", "Indie Rock"]
+tags = ["Alternative Pop Rock", "Alternative", "Indie Rock"]
 title = "Coldplay — A Rush of Blood to the Head (2002)"
 youtube = "gnIZ7RMuLpU"
 

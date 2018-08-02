@@ -4,7 +4,7 @@ googleplay = "Bzdvscov5oicq2lybltkiklxl2y"
 image = "/img/b/the-broken-family-band-welcome-home-loser-2005.jpg"
 rated = ["2"]
 slug = "the-broken-family-band-welcome-home-loser-2005"
-tags = ["Pop Rock", "Alternative", "Indie Rock", "Country Rock"]
+tags = ["Alternative", "Indie Rock", "Country Rock"]
 title = "The Broken Family Band — Welcome Home, Loser (2005)"
 youtube = "G8wCyJ-GRqY"
 

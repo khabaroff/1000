@@ -4,7 +4,7 @@ googleplay = "Bqkxxkfhmhnhs65ool6vfyodoha"
 image = "/img/c/cocteau-twins-heaven-or-las-vegas-1990.jpg"
 rated = ["5"]
 slug = "cocteau-twins-heaven-or-las-vegas-1990"
-tags = ["Pop Rock", "Alternative Pop Rock", "Alternative", "Indie Rock", "Ambient Pop", "Dream Pop"]
+tags = ["Alternative Pop Rock", "Alternative", "Indie Rock", "Ambient Pop", "Dream Pop"]
 title = "Cocteau Twins — Heaven or Las Vegas (1990)"
 youtube = "566w9f5wrWs"
 

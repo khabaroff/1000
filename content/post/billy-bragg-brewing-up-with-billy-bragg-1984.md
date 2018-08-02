@@ -4,7 +4,7 @@ googleplay = ""
 image = "/img/b/billy-bragg-brewing-up-with-billy-bragg-1984.jpg"
 rated = ["2"]
 slug = "billy-bragg-brewing-up-with-billy-bragg-1984"
-tags = ["Pop Rock", "Folk", "Alternative Folk", "Alternative Pop Rock", "Alternative", "Indie Rock", "British Folk", "Urban Folk", "Anti Folk", "College Rock"]
+tags = ["Folk", "Alternative Folk", "Alternative Pop Rock", "Alternative", "Indie Rock", "British Folk", "Urban Folk", "Anti Folk", "College Rock"]
 title = "Billy Bragg — Brewing Up With Billy Bragg (1984)"
 youtube = "2CBWDp71UPM"
 

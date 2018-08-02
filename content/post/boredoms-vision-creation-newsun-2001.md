@@ -4,7 +4,7 @@ googleplay = "B3yh3mpvel6xdmknkf4d7hgcsgy"
 image = "/img/b/boredoms-vision-creation-newsun-2001.jpg"
 rated = ["4"]
 slug = "boredoms-vision-creation-newsun-2001"
-tags = ["Pop Rock", "Alternative", "Indie Rock", "Experimental Rock", "Noise Rock"]
+tags = ["Alternative", "Indie Rock", "Experimental Rock", "Noise Rock"]
 title = "Boredoms — Vision Creation Newsun (2001)"
 youtube = "QY7BYJmAQxY"
 

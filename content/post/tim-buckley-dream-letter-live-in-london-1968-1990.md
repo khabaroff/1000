@@ -4,7 +4,7 @@ googleplay = ""
 image = "/img/b/tim-buckley-dream-letter-live-in-london-1968-1990.jpg"
 rated = ["4"]
 slug = "tim-buckley-dream-letter-live-in-london-1968-1990"
-tags = ["Pop Rock", "Jazz", "Folk", "Folk Jazz", "Folk Rock", "Jazz Rock", "Psychedelic", "Garage Rock", "Singer Songwriter", "Traditional Folk", "Contemporary Folk"]
+tags = ["Jazz", "Folk", "Folk Jazz", "Folk Rock", "Jazz Rock", "Psychedelic", "Garage Rock", "Singer Songwriter", "Traditional Folk", "Contemporary Folk"]
 title = "Tim Buckley — Dream Letter: Live in London 1968 (1990)"
 youtube = "rfRlP2fhSCE"
 

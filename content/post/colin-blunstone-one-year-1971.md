@@ -4,7 +4,7 @@ googleplay = "Bgnqrciyspqgxhdt7x4vrgjnmpm"
 image = "/img/b/colin-blunstone-one-year-1971.jpg"
 rated = ["2"]
 slug = "colin-blunstone-one-year-1971"
-tags = ["Pop Rock", "Contemporary Pop Rock", "Rock", "Baroque Pop", "British Folk Rock"]
+tags = ["Contemporary Pop Rock", "Rock", "Baroque Pop", "British Folk Rock"]
 title = "Colin Blunstone — One Year (1971)"
 youtube = "LsdBXJyAo0E"
 

@@ -4,7 +4,7 @@ googleplay = "Bhe5zzcaiwq4inkdwcqtcongre4"
 image = "/img/b/beck-mellow-gold-1993.jpg"
 rated = ["5"]
 slug = "beck-mellow-gold-1993"
-tags = ["Pop Rock", "Alternative Pop Rock", "Alternative", "Indie Rock", "Lo Fi", "Experimental Rock"]
+tags = ["Alternative Pop Rock", "Alternative", "Indie Rock", "Lo Fi", "Experimental Rock"]
 title = "Beck — Mellow Gold (1993)"
 youtube = "YgSPaXgAdzE"
 

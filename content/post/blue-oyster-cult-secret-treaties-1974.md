@@ -4,7 +4,7 @@ googleplay = "B5zwapf6lm2gnt6hgv6s5ohnvzi"
 image = "/img/b/blue-oyster-cult-secret-treaties-1974.jpg"
 rated = ["2"]
 slug = "blue-oyster-cult-secret-treaties-1974"
-tags = ["Pop Rock", "Hard Rock", "Heavy Metal", "Album Rock", "Arena Rock"]
+tags = ["Hard Rock", "Heavy Metal", "Album Rock", "Arena Rock"]
 title = "Blue Öyster Cult — Secret Treaties (1974)"
 youtube = "NzRVm65lNdU"
 

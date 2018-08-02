@@ -4,7 +4,7 @@ googleplay = "Berqfqt7fhicuryain2zu2doomi"
 image = "/img/b/cilla-black-1963-1973-the-abbey-road-decade-1997.jpg"
 rated = ["3"]
 slug = "cilla-black-1963-1973-the-abbey-road-decade-1997"
-tags = ["Rock", "AM Pop", "British Invasion", "Girl Groups", "Soft Rock"]
+tags = ["AM Pop", "British Invasion", "Girl Groups", "Soft Rock"]
 title = "Cilla Black — 1963-1973: The Abbey Road Decade (1997)"
 youtube = "RNq8uciKAMc"
 

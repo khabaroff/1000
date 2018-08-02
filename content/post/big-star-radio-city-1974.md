@@ -4,7 +4,7 @@ googleplay = "Btgzat6dzcla64qowiywvvdqsmy"
 image = "/img/b/big-star-radio-city-1974.jpg"
 rated = ["1"]
 slug = "big-star-radio-city-1974"
-tags = ["Pop Rock", "Contemporary Pop Rock", "Power Pop"]
+tags = ["Contemporary Pop Rock", "Power Pop"]
 title = "Big Star — Radio City (1974)"
 youtube = "BNKSs1J38EA"
 
