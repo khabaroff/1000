@@ -1,6 +1,5 @@
 +++
 date = "2018-08-21T00:05:00+03:00"
-draft = true
 googleplay = ""
 image = "/img/c/david-crosby-if-i-could-only-remember-my-name-1971.jpg"
 rated = ["4"]
