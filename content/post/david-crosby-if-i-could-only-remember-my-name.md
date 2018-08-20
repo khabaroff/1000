@@ -1,13 +1,13 @@
 +++
 date = "2018-08-21T00:05:00+03:00"
 draft = true
-googleplay = "Vy1zMTFJvoM"
+googleplay = ""
 image = "/img/c/david-crosby-if-i-could-only-remember-my-name-1971.jpg"
 rated = ["4"]
 slug = "david-crosby-if-i-could-only-remember-my-name-1971"
 tags = ["Singer songwriter"]
 title = "David Crosby — If I Could Only Remember My Name"
-youtube = ""
+youtube = "Vy1zMTFJvoM"
 
 +++
 Дебютный сольный альбом Дэвида Кросби пропитан мечтательной и зловещей калифорнийской атмосферой.
