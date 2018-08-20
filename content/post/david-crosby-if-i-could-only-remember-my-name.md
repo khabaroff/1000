@@ -6,7 +6,7 @@ image = "/img/c/david-crosby-if-i-could-only-remember-my-name-1971.jpg"
 rated = ["4"]
 slug = "david-crosby-if-i-could-only-remember-my-name-1971"
 tags = ["Singer songwriter"]
-title = "David Crosby — If I Could Only Remember My Name"
+title = "David Crosby — If I Could Only Remember My Name (1971)"
 youtube = "Vy1zMTFJvoM"
 
 +++
