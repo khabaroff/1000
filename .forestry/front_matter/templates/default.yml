@@ -43,6 +43,7 @@ fields:
   label: youtube
   name: youtube
 pages:
+- content/post/alex-chilton-like-flies-on-sherbert-1979.md
 - content/post/david-crosby-if-i-could-only-remember-my-name.md
 - content/post/holger-czukay-movies-1980.md
 - content/post/clipse-hell-hath-no-fury-2006.md
