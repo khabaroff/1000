@@ -7,7 +7,7 @@ fields:
   label: Date
   type: datetime
   hidden: false
-  default: 2014-07-11 08:54:24 +0000
+  default: ''
 - name: title
   label: Title
   type: text
