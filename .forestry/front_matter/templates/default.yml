@@ -43,6 +43,7 @@ fields:
   label: youtube
   name: youtube
 pages:
+- content/post/big-brother-and-the-holding-company-cheap-thrills-1968.md
 - content/post/alex-chilton-like-flies-on-sherbert-1979.md
 - content/post/david-crosby-if-i-could-only-remember-my-name.md
 - content/post/holger-czukay-movies-1980.md
@@ -117,7 +118,6 @@ pages:
 - content/post/the-broken-family-band-welcome-home-loser-2005.md
 - content/post/erykah-badu-baduizm-1997.md
 - content/post/the-chemical-brothers-dig-your-own-hole-1997.md
-- content/post/big-brother-and-the-holding-company-cheap-thrills-1968.md
 - content/post/the-chi-lites-a-lonely-man-1972.md
 - content/post/burial-burial-2006.md
 - content/post/derek-bailey-ballads-2002.md
