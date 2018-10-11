@@ -13,7 +13,7 @@ youtube = "QXt723fN1ss"
 
 Плавные гармонические сочетания, психоделически заряженные импровизации, энергичный ска, расплывчатый эйсид-рок, деревенский брит-фолк, скифл Мерси и индивидуальный полёт фантазии в каждой песне — вот на чем строится альбом.
 
-Критики пытаются выявить все виды влияния на группу и сравнить их с «Дорз», Love, Beach Boys, Quicksilver Messenger Service, The Banana Splits, The Beta Band, Shack, Primal Scream, Сидом Барреттом эпохи Пинк Флойд и The Action.
+Критики пытаются выявить все виды влияния на группу и сравнить их с «Дорз», Love, [The Beach Boys](https://khabaroff.com/1000/post/the-beach-boys-the-beach-boys-today-1965/), Quicksilver Messenger Service, The Banana Splits, [The Beta Band](https://khabaroff.com/1000/post/the-beta-band-the-three-eps-1998/), Shack, Primal Scream, Сидом Барреттом эпохи Пинк Флойд и The Action.
 
 Альбом начинается двухминутной психоделической матросской песней Spanish Main, с игривым припевом в духе «Острова сокровищ» или «Пиратов Карибского моря».
 
