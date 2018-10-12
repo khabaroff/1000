@@ -18,7 +18,7 @@
 			<div class="post-list">
 				<div id="push">
 
-			{{ $paginator := .Paginate (where .Data.Pages "Type" "post") 15 }}
+			{{ $paginator := .Paginate (where .Data.Pages "Type" "post") 30 }}
 
 			{{ range $index, $page := $paginator.Pages }}
 			  {{ .Render "li" }}
