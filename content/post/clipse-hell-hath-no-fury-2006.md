@@ -1,6 +1,6 @@
 +++
 date = "2018-08-09T00:09:00+03:00"
-googleplay = ""
+googleplay = "Berarij2xrcnibr6jd2sd6hxpi4"
 image = "/img/c/clipse-hell-hath-no-fury-2006.jpg"
 rated = ["2"]
 slug = "clipse-hell-hath-no-fury-2006"
