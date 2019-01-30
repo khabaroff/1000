@@ -6,7 +6,7 @@ rated = ["3"]
 slug = "chic-risque-1979"
 tags = ["RnB", "Disco", "Soul", "Quiet Storm"]
 title = "Chic — Risque (1979)"
-youtube = "eKl6EZShaaw"
+youtube = "7j7rcSutYAQ"
 
 +++
 Альбом записан, когда «Шик» были в самом расцвете. Главные хиты «Ноги Продолжают Танцевать», «Мой Запретный Любовник» и конечно же «Хорошие Времена».
