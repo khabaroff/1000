@@ -21,6 +21,7 @@
     "load-grunt-tasks": "^4.0.0"
   },
   "dependencies": {
-    "grunt-cli": "^1.2.0"
+    "grunt-cli": "^1.2.0",
+    "lodash": "^4.17.11"
   }
 }
