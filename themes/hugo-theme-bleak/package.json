@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "grunt-cli": "^1.2.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.13",
     "npm": "^6.9.0"
   }
 }
