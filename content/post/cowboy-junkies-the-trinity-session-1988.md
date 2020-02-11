@@ -1,6 +1,5 @@
 +++
 date = 2018-04-04T13:26:29Z
-draft = true
 googleplay = ""
 image = "/img/c/cowboy-junkies-the-trinity-session-1988.jpg"
 rated = ["5"]
