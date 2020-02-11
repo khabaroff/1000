@@ -56,8 +56,8 @@ a {
   -webkit-transition: all ease-out 0.2s;
   transition: all ease-out 0.2s;
 
-  &:hover,
-  &:focus {
+  a:hover,
+  a:focus {
     color: $color-gray-15;
   }
 }
