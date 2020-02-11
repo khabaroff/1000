@@ -1,6 +1,5 @@
 +++
 date = 2017-07-31T20:43:59Z
-draft = true
 googleplay = ""
 image = "/img/b/the-dave-brubeck-quartet-time-out-1959.jpg"
 rated = ["5"]
