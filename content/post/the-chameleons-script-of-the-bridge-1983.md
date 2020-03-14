@@ -5,7 +5,7 @@ image = "/img/c/the-chameleons-script-of-the-bridge-1983.jpg"
 odesli = "cdwpshs5q0n3x"
 rated = []
 slug = "the-chameleons-script-of-the-bridge-1983"
-tags = ["Alternative Pop Rock", "Alternative", "Indie Rock", "Dream Pop"]
+tags = ["Alternative", "Indie Rock", "Dream Pop"]
 title = "The Chameleons — Script of the Bridge (1983)"
 youtube = "pDSnpc1W1Vc"
 
