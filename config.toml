@@ -1,4 +1,4 @@
-baseURL = "http://127.0.0.1/"
+baseURL = "https://khabaroff.com/1000/"
 buildDrafts = false
 canonifyURLs = true
 languageCode = "ru-ru"
