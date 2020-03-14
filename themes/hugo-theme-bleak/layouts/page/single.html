@@ -25,12 +25,9 @@
   				{{ .Content }}
   			</section>
 
-				<!--/page/tags/ /page/tags/ /page/tags/ /page/tags/ /page/tags/-->
+				<!--/page/tags/ -->
 				{{ if eq (relURL .Permalink) ("/page/tags/" | safeHTML) }}
 				<section>
-
-
-
 					{{ $sitetags := .Site.Taxonomies.tags }}
 					{{ $tagshalf := int (div (len $sitetags) 3) }}
 					{{ $tagshalf1 := add $tagshalf 1 }}
@@ -85,15 +82,11 @@
 
 
 				{{ end }}
-				<!--/page/tags/ /page/tags/ /page/tags/ /page/tags/ /page/tags/-->
+				<!--/page/tags/ -->
 
 				{{ if eq (relURL .Permalink) ("/page/rated/" | safeHTML) }}
 				<section>
-
-
-
 							{{ range $key, $taxonomy := .Site.Taxonomies.rated }}
-
 
 					{{ if ne $key "" }}
 							<h2><a href="/rated/{{ $key }}/">{{ $key }}</a></h2>
