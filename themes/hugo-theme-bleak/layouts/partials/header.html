@@ -16,26 +16,12 @@
             }
         </script>
 
-
-
         <meta charset="utf-8" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
         {{ partial "_og.html" . }}
         {{ partial "_schema.html" . }}
         {{ partial "_twitter_cards.html" . }}
-
-
-
-    <script type="text/javascript">
-    {{ $doc := . }}
-    {{ with .Site.Params.disqus }}
-      var disqus_shortname = '{{ . }}';
-      var disqus_identifier = '{{if isset $doc.Params "disqus_identifier" }}{{ index $doc.Params "disqus_identifier" }}{{ else }}{{ $doc.Permalink }}{{end}}';
-      var disqus_title = '{{if isset $doc.Params "disqus_title" }}{{ index $doc.Params "disqus_title" }}{{ else }}{{ $doc.Title }}{{end}}';
-      var disqus_url = '{{if isset $doc.Params "disqus_url" }}{{ index $doc.Params "disqus_url" | html  }}{{ else }}{{ $doc.Permalink }}{{end}}';
-    {{ end }}
-    </script>
 
     <script type="text/javascript">
       var config = {
