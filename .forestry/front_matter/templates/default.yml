@@ -41,6 +41,11 @@ fields:
 - type: text
   label: youtube
   name: youtube
+- name: odesli
+  type: text
+  config:
+    required: false
+  label: odesli
 pages:
 - content/post/alex-chilton-like-flies-on-sherbert-1979.md
 - content/post/anne-briggs-a-collection-1971.md
