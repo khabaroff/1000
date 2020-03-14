@@ -96,7 +96,7 @@ a {
   background-position: center left;
   color: #fff;
   text-align: left;
-  padding-left: 10px;
+  padding-left: 12px;
   padding-top: 5px;
   position: relative;
 }
@@ -383,11 +383,12 @@ img {
 }
 
 iframe {
-  margin: 2.5em auto;
+  margin: 0;
+  //margin: 2.5em auto;
 }
 
 .fluid-width-video-wrapper {
-  margin: 2.5em auto;
+  margin: 1em auto;
 
   iframe {
     margin: auto;

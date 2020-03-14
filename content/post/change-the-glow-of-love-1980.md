@@ -1,6 +1,6 @@
 +++
 date = "2019-01-31T01:00:00+03:00"
-googleplay = ""
+odesli = "jr5wm67xq8j7g"
 image = "/img/c/change-the-glow-of-love-1980.jpg"
 rated = ["4"]
 slug = "change-the-glow-of-love-1980"

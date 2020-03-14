@@ -1,5 +1,8 @@
+const sass = require('node-sass');
+
 module.exports = function(grunt) {
     'use strict';
+    require('load-grunt-tasks')(grunt);
     require('load-grunt-tasks')(grunt, {
         pattern: ['grunt-*']
     });
@@ -20,7 +23,7 @@ module.exports = function(grunt) {
                 //'bower_components/highlightjs/highlight.pack.min.js',
                 'bower_components/nprogress/nprogress.js',
                 // 'src/js/vendor/gist-embed.min.js',
-                'src/js/vendor/likely.js'
+                // 'src/js/vendor/likely.js'
             ],
             'cssDependencies': [
                 'bower_components/normalize.css/normalize.css',
@@ -53,6 +56,7 @@ module.exports = function(grunt) {
         sass: {
             dev: {
                 options: {
+                    implementation: sass,
                     sourceMaps: true
                 },
                 files: {
@@ -61,6 +65,7 @@ module.exports = function(grunt) {
             },
             dist: {
                 options: {
+                    implementation: sass,
                     outputStyle: 'compressed',
                     sourceMaps: false
                 },
@@ -101,10 +106,13 @@ module.exports = function(grunt) {
         },
         postcss: {
             options: {
-                map: false,
+                map: true,
                 processors: [
                     require('autoprefixer')({
-                        browsers: ['last 2 versions']
+                        overrideBrowserslist: [
+                            "last 2 version",
+                            "> 2%"
+                        ]
                     })
                 ]
             },

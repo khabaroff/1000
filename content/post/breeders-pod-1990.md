@@ -5,7 +5,7 @@ rated = ["5"]
 slug = "breeders-pod-1990"
 tags = ["Alternative Pop Rock", "Alternative", "Indie Rock"]
 title = "Breeders — Pod (1990)"
-youtube = "5tAaEPF3xhQ"
+youtube = "uXYjys3bI1k"
 odesli = "qwwnnwrnck42t"
 
 +++
