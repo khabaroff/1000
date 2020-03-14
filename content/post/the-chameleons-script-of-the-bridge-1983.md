@@ -1,5 +1,5 @@
 +++
-date = ""
+date = 2020-03-14T10:00:00Z
 googleplay = ""
 image = "/img/c/the-chameleons-script-of-the-bridge-1983.jpg"
 odesli = "cdwpshs5q0n3x"
