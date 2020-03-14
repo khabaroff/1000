@@ -1,4 +1,4 @@
-<title>{{ if ne .URL "/" }} {{if .Params.rated }} {{ range $index, $cat := .Params.rated }} {{ if eq $cat  "1" }}★ {{ end }} {{ if eq $cat "2" }}★ ★ {{ end }} {{ if eq $cat "3" }}★ ★ ★ {{ end }} {{ if eq $cat "4" }}★ ★ ★ ★ {{ end }} {{ if eq $cat "5" }}★ ★ ★ ★ ★ {{ end }} {{ end }} {{ end }} {{ .Title }} &middot; {{ end }} {{ .Site.Title }}</title>
+<title>{{ if ne .Permalink "/" }} {{if .Params.rated }} {{ range $index, $cat := .Params.rated }} {{ if eq $cat  "1" }}★ {{ end }} {{ if eq $cat "2" }}★ ★ {{ end }} {{ if eq $cat "3" }}★ ★ ★ {{ end }} {{ if eq $cat "4" }}★ ★ ★ ★ {{ end }} {{ if eq $cat "5" }}★ ★ ★ ★ ★ {{ end }} {{ end }} {{ end }} {{ .Title }} &middot; {{ end }} {{ .Site.Title }}</title>
 
 
 
@@ -16,12 +16,12 @@
 <meta name="MobileOptimized" content="320" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-{{ if ne .URL "/" }}
+{{ if ne .Permalink "/" }}
 <link href="{{ .Site.BaseURL }}index.xml" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
 {{ end }}
 
 {{if .IsNode}}
-<link href="{{.RSSLink}}" rel="alternate" type="application/rss+xml" title="{{ if ne .URL "/" }}{{ .Title }} &middot; {{ end }}{{ .Site.Title }}" />
+<link href="{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}" rel="alternate" type="application/rss+xml" title="{{ if ne .Permalink "/" }}{{ .Title }} &middot; {{ end }}{{ .Site.Title }}" />
 {{end}}
 <link rel="canonical" href="{{ .Permalink }}" />
 

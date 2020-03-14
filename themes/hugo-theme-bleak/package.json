@@ -26,7 +26,8 @@
     "https-proxy-agent": "^3.0.1",
     "lodash": "^4.17.15",
     "npm": ">=6.13.4",
-    "npm-update": "^2.1.0"
+    "npm-update": "^2.1.0",
+    "minimist": ">=1.2.2"
   },
   "resolutions": {
     "https-proxy-agent": "^3.0.0"

@@ -26,7 +26,7 @@
   			</section>
 
 				<!--/page/tags/ /page/tags/ /page/tags/ /page/tags/ /page/tags/-->
-				{{ if eq (relURL .URL) ("/page/tags/" | safeHTML) }}
+				{{ if eq (relURL .Permalink) ("/page/tags/" | safeHTML) }}
 				<section>
 
 
@@ -87,7 +87,7 @@
 				{{ end }}
 				<!--/page/tags/ /page/tags/ /page/tags/ /page/tags/ /page/tags/-->
 
-				{{ if eq (relURL .URL) ("/page/rated/" | safeHTML) }}
+				{{ if eq (relURL .Permalink) ("/page/rated/" | safeHTML) }}
 				<section>
 
 
@@ -115,7 +115,7 @@
 
 
 
-				{{ if eq (relURL .URL) ("/page/years/" | safeHTML) }}
+				{{ if eq (relURL .Permalink) ("/page/years/" | safeHTML) }}
 				<section>
 
 
