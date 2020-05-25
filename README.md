@@ -10,4 +10,4 @@
 
 Старт: февраль 2017
 
-Test Deploy 6
+Test Deploy 7
