@@ -20,16 +20,16 @@
     "grunt-postcss": "^0.9.0",
     "grunt-sass": "^3.1.0",
     "load-grunt-tasks": "^4.0.0",
-    "node-sass": "^4.13.1",
+    "node-sass": "^4.14.1",
     "npm-force-resolutions": "0.0.3"
   },
   "dependencies": {
     "grunt-cli": "^1.3.2",
     "https-proxy-agent": "^3.0.1",
     "lodash": "^4.17.15",
-    "npm": ">=6.13.4",
-    "npm-update": "^2.1.0",
-    "minimist": ">=1.2.2"
+    "minimist": ">=1.2.2",
+    "npm": "^6.14.5",
+    "npm-update": "^2.1.0"
   },
   "resolutions": {
     "https-proxy-agent": "^3.0.0"
