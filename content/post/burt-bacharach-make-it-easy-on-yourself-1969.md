@@ -1,7 +1,8 @@
 +++
-date = "2017-05-26T11:17:02Z"
-googleplay = "Brszoo3aizwcio2eweiyuy5fvmu"
+date = 2017-05-26T11:17:02Z
+googleplay = ""
 image = "/img/b/burt-bacharach-make-it-easy-on-yourself-1969.jpg"
+odesli = "fks4thzj7mb3r"
 rated = ["5"]
 slug = "burt-bacharach-make-it-easy-on-yourself-1969"
 tags = ["Easy Listening", "Pop", "Baroque Pop"]

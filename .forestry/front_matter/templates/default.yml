@@ -41,6 +41,11 @@ fields:
 - type: text
   label: youtube
   name: youtube
+- name: odesli
+  type: text
+  config:
+    required: false
+  label: odesli
 pages:
 - content/post/alex-chilton-like-flies-on-sherbert-1979.md
 - content/post/anne-briggs-a-collection-1971.md
@@ -127,6 +132,7 @@ pages:
 - content/post/the-birthday-party-prayers-on-fire-1981.md
 - content/post/the-broken-family-band-welcome-home-loser-2005.md
 - content/post/the-carpenters-the-singles-1969-1973-1973.md
+- content/post/the-chameleons-script-of-the-bridge-1983.md
 - content/post/the-charlatans-the-charlatans-1995.md
 - content/post/the-chemical-brothers-dig-your-own-hole-1997.md
 - content/post/the-chi-lites-a-lonely-man-1972.md
