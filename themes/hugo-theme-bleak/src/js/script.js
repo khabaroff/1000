@@ -173,10 +173,6 @@ jQuery(function($) {
 	   Initialize and load Gist
 	   ========================================================================== */
 
-    function gist() {
-        $('[data-gist-id]').gist();
-    }
-    gist();
 
     /* ==========================================================================
        Reload all scripts after AJAX load
@@ -185,10 +181,11 @@ jQuery(function($) {
     function reload() {
         grid();
         ajaxLinkClass();
+        //highlight();
         video();
-        comments();
-        gist();
+        comments(); 
         currentMenuFix();
+        likely.initiate();
     }
 
     /* ==========================================================================
