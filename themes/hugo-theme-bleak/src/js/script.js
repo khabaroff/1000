@@ -231,15 +231,15 @@ jQuery(function($) {
 
     $(document).ready( function() {
       // Async CSS loader for making PageSpeed happy !
-      // var stylesheet = document.createElement('link');
-      // stylesheet.href = config.baseUrl + 'css/main.css';
-      // stylesheet.rel = 'stylesheet';
-      // stylesheet.type = 'text/css';
+      var stylesheet = document.createElement('link');
+      stylesheet.href = config.baseUrl + 'css/main.css';
+      stylesheet.rel = 'stylesheet';
+      stylesheet.type = 'text/css';
       // temporarily set media to something inapplicable to ensure it'll fetch without blocking render
-      // stylesheet.media = 'bogus';
+      stylesheet.media = 'bogus';
       // set the media back when the stylesheet loads
-      // stylesheet.onload = function() {stylesheet.media = 'all'}
-      // document.getElementsByTagName('head')[0].appendChild(stylesheet);
+      stylesheet.onload = function() {stylesheet.media = 'all'}
+      document.getElementsByTagName('head')[0].appendChild(stylesheet);
 
       // Fade out
       $('#loader-wrapper').fadeOut(300);
