@@ -24,10 +24,6 @@ weight = 4
 name = "Главная"
 url = "/"
 weight = 1
-[[menu.main]]
-name = "О проекте"
-url = "/page/about/"
-weight = 2
 [params]
 cover = "img/share.jpg"
 description = "Я люблю свои пластинки больше, чем тебя"
