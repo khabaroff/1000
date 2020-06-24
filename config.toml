@@ -13,17 +13,13 @@ name = "По годам"
 url = "/page/years/"
 weight = 5
 [[menu.main]]
-name = "Теги"
+name = "По тегам"
 url = "/page/tags/"
 weight = 3
 [[menu.main]]
-name = "Оценки"
+name = "По оценкам"
 url = "/page/rated/"
 weight = 4
-[[menu.main]]
-name = "Главная"
-url = "/"
-weight = 1
 [params]
 cover = "img/share.jpg"
 description = "Я люблю свои пластинки больше, чем тебя"

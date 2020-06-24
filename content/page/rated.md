@@ -4,6 +4,6 @@ image = ""
 rated = ""
 slug = "rated"
 tags = ""
-title = "Оценки проекта"
+title = "По оценкам"
 
 +++
