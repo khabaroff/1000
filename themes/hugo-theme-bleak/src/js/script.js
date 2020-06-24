@@ -202,7 +202,7 @@ jQuery(function($) {
         $('a[href^="' + window.location.origin + '"], .post-image a, .post-title a, .post-more a, .post-meta a, .post-tags a, #pagination a').each(function() {
             var link = $(this);
 
-            if (!link.hasClass('rss') or !link.hasClass('nojsopener')) {
+            if (!link.hasClass('rss') and !link.hasClass('nojsopener')) {
                 link.addClass('js-ajax-link');
 
                 if (link.attr('href').indexOf('page') > -1) {
