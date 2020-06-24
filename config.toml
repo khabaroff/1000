@@ -9,7 +9,7 @@ title = "1000 и 1 альбом"
 homepage = "http://khabaroff.com"
 name = "Sergey Khabaroff"
 [[menu.main]]
-name = "Время"
+name = "По годам"
 url = "/page/years/"
 weight = 5
 [[menu.main]]
