@@ -6,7 +6,7 @@ publishdir = "public"
 theme = "hugo-theme-bleak"
 title = "1000 и 1 альбом"
 [author]
-homepage = "http://khabaroff.com"
+homepage = "https://khabaroff.com/"
 name = "Sergey Khabaroff"
 [[menu.main]]
 name = "По годам"

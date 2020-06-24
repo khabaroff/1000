@@ -181,11 +181,9 @@ jQuery(function($) {
     function reload() {
         grid();
         ajaxLinkClass();
-        //highlight();
         video();
         comments();
         currentMenuFix();
-        likely.initiate();
     }
 
     /* ==========================================================================
