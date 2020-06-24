@@ -185,11 +185,10 @@ jQuery(function($) {
     function reload() {
         grid();
         ajaxLinkClass();
-        //highlight();
         video();
         comments();
         gist();
-        currentMenuFix(); 
+        currentMenuFix();
     }
 
     /* ==========================================================================
@@ -201,7 +200,7 @@ jQuery(function($) {
         $('a[href^="' + window.location.origin + '"], .post-image a, .post-title a, .post-more a, .post-meta a, .post-tags a, #pagination a').each(function() {
             var link = $(this);
 
-            if (!link.hasClass('rss') and !link.hasClass('nojsopener')) {
+            if (!link.hasClass('rss')) {
                 link.addClass('js-ajax-link');
 
                 if (link.attr('href').indexOf('page') > -1) {
