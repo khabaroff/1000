@@ -189,8 +189,7 @@ jQuery(function($) {
         video();
         comments();
         gist();
-        currentMenuFix();
-        likely.initiate();
+        currentMenuFix(); 
     }
 
     /* ==========================================================================
