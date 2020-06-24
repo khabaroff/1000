@@ -125,7 +125,7 @@
 						{{ $curYear := $.Scratch.Get "curYear" }}
 						{{ if ne $year $curYear }}
 							{{ $.Scratch.Set "curYear" $year }}
-					</ul><h3>{{ $year }}</h3><ul>
+					<ul><h3>{{ $year }}</h3></ul>
 					{{ end }}
 
 					<li hugo-nav="{{ .RelPermalink}}"><a href="{{ .Permalink}}"> {{substr .LinkTitle 0 -7}} </a> </li>
@@ -134,7 +134,7 @@
 				</section>
 				{{ end }}
 
-
+{{ partial "tele.html" . }}
 
 
 				<!--<footer class="post-footer">-->
