@@ -16,7 +16,7 @@
         <div class="post-list">
             <div id="push">
 
-                {{ $paginator := .Paginator 24 }}
+                {{ $paginator := .Paginator 15 }}
 
                 {{ range $index, $page := .Paginator.Pages }}
                 {{ .Render "li" }}
