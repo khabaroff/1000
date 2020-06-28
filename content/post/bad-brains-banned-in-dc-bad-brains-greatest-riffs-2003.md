@@ -2,8 +2,8 @@
 date = "2017-05-23T01:10:26Z"
 googleplay = "Blljuprssukyxycyrugx7gzwvzq"
 image = "/img/b/bad-brains-banned-in-dc-bad-brains-greatest-riffs-2003.jpg"
-rated = ["4"]
-slug = "bad-brains-banned-in-dc-bad-brains-greatest-riffs-2003"
+rated = ["5"]
+slug = "bad-brains-banned-in-dc-bad-brains-greatesst-riffs-2003"
 tags = ["Alternative", "Punk", "New Wave", "Hardcore Punk", "Reggae", "Dub"]
 title = "Bad Brains — Banned in DC: Bad Brains' Greatest Riffs (2003)"
 youtube = "thnb3UlH2zE"
