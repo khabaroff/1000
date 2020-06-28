@@ -47,6 +47,7 @@ fields:
     required: false
   label: odesli
 pages:
+- content/post/air-moon-safari-1998.md
 - content/post/alex-chilton-like-flies-on-sherbert-1979.md
 - content/post/anne-briggs-a-collection-1971.md
 - content/post/art-blakey-quintet-a-night-at-birdland-vol-1-1954.md
