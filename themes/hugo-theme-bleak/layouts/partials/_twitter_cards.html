@@ -3,7 +3,7 @@
 <meta name="twitter:site" content="@{{ .Site.Params.author.twitter }}" />
 <meta name="twitter:creator" content="@{{ .Site.Params.author.twitter }}" />
 <meta name="twitter:title" content="{{ .Title }}" />
-<meta name="twitter:description" content="{{ .Description }}" />
+<meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}" />
 <meta name="twitter:url" content="{{ .Permalink }}" />
 {{if .Params.image }}
 <meta name="twitter:image" content="https://khabaroff.com/1000{{.Params.image}}"/>

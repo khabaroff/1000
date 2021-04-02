@@ -1,16 +1,24 @@
-<title>{{ if ne .Permalink "/" }} {{if .Params.rated }} {{ range $index, $cat := .Params.rated }} {{ if eq $cat  "1" }}★ {{ end }} {{ if eq $cat "2" }}★ ★ {{ end }} {{ if eq $cat "3" }}★ ★ ★ {{ end }} {{ if eq $cat "4" }}★ ★ ★ ★ {{ end }} {{ if eq $cat "5" }}★ ★ ★ ★ ★ {{ end }} {{ end }} {{ end }} {{ .Title }} &middot; {{ end }} {{ .Site.Title }}</title>
+<title>{{- if ne .Permalink "/" -}}
+          {{- if .Params.rated -}}
+              {{- range $index, $cat := .Params.rated -}}
+                {{- if eq $cat  "1" -}}★ {{- end -}}
+                {{- if eq $cat "2" -}}★ ★ {{- end -}}
+                {{- if eq $cat "3" -}}★ ★ ★ {{- end -}}
+                {{- if eq $cat "4" -}}★ ★ ★ ★ {{- end -}}
+                {{- if eq $cat "5" -}}★ ★ ★ ★ ★ {{ end -}}
+              {{- end -}}
+          &nbsp; {{- end -}}
+        {{ .Title }}
+        {{ end }}
+    </title>
 
 
 
 <link rel="preload" href="{{ .Site.BaseURL }}js/main.js" as="script" />
 <link rel="preload" href="{{ .Site.BaseURL }}css/main.css" as="style" />
 
+<meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}" />
 
-{{ if .Description }}
-<meta name="description" content="{{ .Description }}" />
-{{ else }}
-<meta name="description" content="{{ .Site.Params.description }}" />
-{{ end }}
 
 <meta name="HandheldFriendly" content="True" />
 <meta name="MobileOptimized" content="320" />
@@ -37,7 +45,7 @@
           "@id": "{{ .Permalink | safeJS }}"
         },
         "headline": "{{ .Title | safeJS}}",
-        "description": "{{ printf "%s" .Description }}",
+        "description": "{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}",
         "author": {
             "@type": "Person",
             "name": "{{ .Site.Params.author.firstName }} {{ .Site.Params.author.lastName }}",
