@@ -5,6 +5,12 @@ languageCode = "ru-ru"
 publishdir = "public"
 theme = "hugo-theme-bleak"
 title = "1000 и 1 альбом"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [author]
 homepage = "https://khabaroff.com/"
 name = "Sergey Khabaroff"

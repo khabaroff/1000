@@ -227,6 +227,10 @@ jQuery(function($) {
     var loading = false;
     var ajaxContainer = $('#ajax-container');
 
+    function parseAjaxResponse(result) {
+        return new window.DOMParser().parseFromString(result, 'text/html');
+    }
+
     $(document).ready( function() {
       // Async CSS loader for making PageSpeed happy !
       var stylesheet = document.createElement('link');
@@ -244,7 +248,7 @@ jQuery(function($) {
       $('#wrapper').fadeIn(800);
     });
 
-    if (!History.enabled) {
+    if (!History || !History.enabled) {
         return false;
     }
 
@@ -252,9 +256,15 @@ jQuery(function($) {
         html.addClass('loading');
         var State = History.getState();
         $.get(State.url, function(result) {
-            var $html = $(result);
-            var newContent = $('#ajax-container', $html).contents();
-            var title = result.match(/<title>(.*?)<\/title>/)[1];
+            var nextDocument = parseAjaxResponse(result);
+            var nextContainer = nextDocument.getElementById('ajax-container');
+            var nextBodyClass = nextDocument.body ? nextDocument.body.className : '';
+            var title = nextDocument.title || document.title;
+
+            if (!nextContainer) {
+                window.location = State.url;
+                return;
+            }
 
             ajaxContainer.fadeOut(500, function() {
                 if (html.hasClass('push-next')) {
@@ -266,9 +276,8 @@ jQuery(function($) {
                     html.addClass('pushed-prev');
                 }
                 document.title = $('<textarea/>').html(title).text();
-                ajaxContainer.html(newContent);
-                body.removeClass();
-                body.addClass($('#body-class').attr('class'));
+                ajaxContainer.html(nextContainer.innerHTML);
+                body.attr('class', nextBodyClass);
                 NProgress.done();
                 ajaxContainer.fadeIn(500);
                 $(document).scrollTop(0);
@@ -278,6 +287,8 @@ jQuery(function($) {
                 reload();
                 loading = false;
             });
+        }).fail(function() {
+            window.location = State.url;
         });
     });
 

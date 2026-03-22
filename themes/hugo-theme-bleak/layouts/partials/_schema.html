@@ -14,8 +14,12 @@
 
 
 
-<link rel="preload" href="{{ .Site.BaseURL }}js/main.js" as="script" />
+<link rel="preload" href="{{ .Site.BaseURL }}js/dependencies.js" as="script" />
+<link rel="preload" href="{{ .Site.BaseURL }}js/script.js" as="script" />
 <link rel="preload" href="{{ .Site.BaseURL }}css/main.css" as="style" />
+<link rel="icon" href="{{ .Site.BaseURL }}favicon.ico" sizes="any" />
+<link rel="icon" href="{{ .Site.BaseURL }}favicon.svg" type="image/svg+xml" />
+<link rel="apple-touch-icon" href="{{ .Site.BaseURL }}apple-touch-icon.png" />
 
 <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}" />
 

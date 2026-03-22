@@ -1,1 +1,336 @@
-jQuery(function(i){var o=i("html"),n=i("body");n.on("click",'[data-action="menu"], [data-action="toc"]',function(){i(this).data("action");a(i('[data-target="'+i(this).data("target")+'"]').not("[data-action]"))});var t=!1;function a(a){t=t?(a.removeClass("active"),o.removeClass("menu-active"),setTimeout(function(){a.removeClass("initial"),o.removeClass("menu-initial")},300),!1):(o.addClass("menu-initial"),a.addClass("initial"),setTimeout(function(){o.addClass("menu-active"),a.addClass("active")},1),!0)}function d(){i(".menu-list-item a").each(function(){var a=i(this);a.removeClass("current"),a.attr("href")==window.location.href&&a.addClass("current")})}function r(){i(".post-list .post .post-image img").each(function(){var a=i(this);a.load(function(){a.parents(".post-image").css({})})});var a=i(".post-list").masonry({itemSelector:".post",isAnimated:!0,gutter:0,columnWidth:3,transitionDuration:0}).imagesLoaded().always(function(){a.masonry("layout")})}function l(){i("#wrapper").fitVids()}function c(){if("localhost"!=window.location.hostname)if("undefined"!=typeof disqus_shortname&&document.getElementById("disqus_thread")){if(window.DISQUS){i(".post-comments").show();var a=location.href;return"/"!==a.slice(-1)&&(a+="/"),DISQUS.reset({reload:!0,config:function(){this.page.identifier=a,this.page.url=a}})}i.ajax({type:"GET",url:"//"+disqus_shortname+".disqus.com/embed.js",dataType:"script",cache:!0}).done(function(){c()})}else i(".post-comments").hide()}function u(){i('a[href^="'+window.location.origin+'"], .post-image a, .post-title a, .post-more a, .post-meta a, .post-tags a, #pagination a').each(function(){var a=i(this);a.hasClass("rss")||(a.addClass("js-ajax-link"),-1<a.attr("href").indexOf("page")&&a.addClass("js-archive-index"),a.attr("href")==window.location.origin&&a.addClass("js-show-index"),-1<a.attr("href").indexOf("tag")&&a.addClass("js-tag-index"),-1<a.attr("href").indexOf("author")&&a.addClass("js-author-index"))})}n.on("click","#menu a",function(){o.hasClass("menu-active")&&a(i('[data-target="menu"]').not("[data-action]"))}),n.on("click","#tocMenu a",function(){o.hasClass("menu-active")&&a(i('[data-target="toc"]').not("[data-action]"))}),n.on("click",".overlay",function(){o.hasClass("menu-active")&&a(i('[data-target="menu"].active,[data-target="toc"].active').not("[data-action]"))}),d(),r(),l(),c(),u();var h=window.History,m=!1,p=i("#ajax-container");if(i(document).ready(function(){var a=document.createElement("link");a.href=config.baseUrl+"css/main.css",a.rel="stylesheet",a.type="text/css",a.media="bogus",a.onload=function(){a.media="all"},document.getElementsByTagName("head")[0].appendChild(a),i("#loader-wrapper").fadeOut(300),i("#wrapper").fadeIn(800)}),!h.enabled)return!1;h.Adapter.bind(window,"statechange",function(){o.addClass("loading");var a=h.getState();i.get(a.url,function(a){var t=i(a),e=i("#ajax-container",t).contents(),s=a.match(/<title>(.*?)<\/title>/)[1];p.fadeOut(500,function(){o.hasClass("push-next")&&(o.removeClass("push-next"),o.addClass("pushed-next")),o.hasClass("push-prev")&&(o.removeClass("push-prev"),o.addClass("pushed-prev")),document.title=i("<textarea/>").html(s).text(),p.html(e),n.removeClass(),n.addClass(i("#body-class").attr("class")),NProgress.done(),p.fadeIn(500),i(document).scrollTop(0),setTimeout(function(){o.removeClass("loading")},200),r(),u(),l(),c(),d(),m=!1})})}),i("body").on("click",".js-ajax-link",function(a){a.preventDefault();var t,e,s,n=i(this);n.hasClass("post-nav-item")||n.hasClass("pagination-item")?((n.hasClass("post-nav-next")||n.hasClass("pagination-next"))&&(o.removeClass("pushed-prev"),o.addClass("push-next")),(n.hasClass("post-nav-prev")||n.hasClass("pagination-prev"))&&(o.removeClass("pushed-next"),o.addClass("push-prev"))):(o.removeClass("pushed-next"),o.removeClass("pushed-prev")),!1===m&&(t=h.getState(),e=i(this).prop("href"),s=i(this).attr("title")||null,e.replace(/\/$/,"")!==t.url.replace(/\/$/,"")&&(m=!0,o.addClass("loading"),NProgress.start(),h.pushState({},s,e)))}),i("body").on("click","#post-index .post .js-ajax-link",function(){var a=i(this).parents(".post");a.addClass("initial"),setTimeout(function(){a.addClass("active")},1)})});
+jQuery(function($) {
+
+    var html = $('html');
+    var body = $('body');
+
+    /* ==========================================================================
+       Menu Function
+       ========================================================================== */
+
+    body.on('click', '[data-action="menu"], [data-action="toc"]', function() {
+        var action = $(this).data('action');
+        var target = $('[data-target="' + $(this).data('target') + '"]').not('[data-action]');
+        menu(target)
+    });
+
+    var menuActive = false;
+
+    function menu(target) {
+        if (!menuActive) {
+            html.addClass('menu-initial');
+            target.addClass('initial');
+            setTimeout(function() {
+                html.addClass('menu-active');
+                target.addClass('active');
+            }, 1);
+            menuActive = true;
+        } else {
+            target.removeClass('active');
+            html.removeClass('menu-active');
+            setTimeout(function() {
+                target.removeClass('initial');
+                html.removeClass('menu-initial');
+            }, 300);
+            menuActive = false;
+        }
+    }
+
+    body.on('click', '#menu a', function() {
+        if (html.hasClass('menu-active')) {
+            var target = $('[data-target="menu"]').not('[data-action]');
+            menu(target);
+        }
+    });
+
+    body.on('click', '#tocMenu a', function() {
+        if (html.hasClass('menu-active')) {
+            var target = $('[data-target="toc"]').not('[data-action]');
+            menu(target);
+        }
+    });
+
+    body.on('click', '.overlay', function() {
+        if (html.hasClass('menu-active')) {
+            var target = $('[data-target="menu"].active,[data-target="toc"].active').not('[data-action]');
+            menu(target);
+        }
+    });
+
+    /* ==========================================================================
+       Current Menu Item
+       ========================================================================== */
+
+    /*
+    	Actually this should be handled by GHost itself, but the {{current}} handler doesn't
+    	work as aspected everytime so I add this little FUnction to fix this on the client side.
+    */
+
+    function currentMenuFix() {
+        $('.menu-list-item a').each(function() {
+            var link = $(this);
+            link.removeClass('current');
+            if (link.attr('href') == window.location.href) {
+                link.addClass('current');
+            }
+        });
+    }
+    currentMenuFix();
+
+    /* ==========================================================================
+       Masonry
+       ========================================================================== */
+
+    function grid() {
+        $('.post-list .post .post-image img').each(function() {
+            var img = $(this);
+            img.load(function() {
+                img.parents('.post-image').css({
+                    // 'height': '300',
+                    // 'padding-bottom': 100  + '%'
+                });
+            });
+        });
+        var postlist = $('.post-list').masonry({
+            itemSelector: '.post',
+            isAnimated: true,
+            gutter: 0,
+            columnWidth: 3,
+            transitionDuration: 0
+        }).imagesLoaded().always(function() {
+            postlist.masonry('layout');
+        });
+    }
+    grid();
+
+    /* ==========================================================================
+       Run Highlight
+       ========================================================================== */
+
+    function highlight() {
+        $('pre code').each(function(i, e) {
+            hljs.highlightBlock(e);
+            var code = $(this);
+            var lines = code.html().split(/\n/).length;
+            var numbers = [];
+            for (i = 1; i < lines; i++) {
+                numbers += '<span class="line">' + i + '</span>';
+            }
+            code.parent().addClass('codeblock').append('<div class="lines">' + numbers + '</div>');
+        });
+    }
+    //highlight();
+
+    /* ==========================================================================
+       Fitvids
+       ========================================================================== */
+
+    function video() {
+        $('#wrapper').fitVids();
+    }
+    video();
+
+    /* ==========================================================================
+       Initialize and load Disqus
+       ========================================================================== */
+
+    function comments() {
+        if (window.location.hostname == "localhost")
+          return;
+
+        if (typeof disqus_shortname === 'undefined' || !document.getElementById('disqus_thread')) {
+            $('.post-comments').hide();
+        } else {
+            if (window.DISQUS) {
+                $('.post-comments').show();
+
+								var url = location.href;
+								if(url.slice(-1) !== '/') {
+									url = url + '/';
+								}
+                return DISQUS.reset({
+                    reload: true,
+                    config: function() {
+                        this.page.identifier = url;
+                        this.page.url = url;
+                    }
+                });
+            } else {
+              // Lazy script loading
+              $.ajax({
+                  type: "GET",
+                  url: "//" + disqus_shortname + ".disqus.com/embed.js",
+                  dataType: "script",
+                  cache: true
+              }).done(function() {
+  							comments();
+  						});
+            }
+        }
+    }
+    comments();
+
+    /* ==========================================================================
+	   Initialize and load Gist
+	   ========================================================================== */
+
+
+    /* ==========================================================================
+       Reload all scripts after AJAX load
+       ========================================================================== */
+
+    function reload() {
+        grid();
+        ajaxLinkClass();
+        video();
+        comments();
+        currentMenuFix();
+    }
+
+    /* ==========================================================================
+       Add class for ajax loading
+       ========================================================================== */
+
+    function ajaxLinkClass() {
+
+        $('a[href^="' + window.location.origin + '"], .post-image a, .post-title a, .post-more a, .post-meta a, .post-tags a, #pagination a').each(function() {
+            var link = $(this);
+
+            if (!link.hasClass('rss')) {
+                link.addClass('js-ajax-link');
+
+                if (link.attr('href').indexOf('page') > -1) {
+                    link.addClass('js-archive-index');
+                }
+
+                if (link.attr('href') == window.location.origin) {
+                    link.addClass('js-show-index');
+                }
+
+                if (link.attr('href').indexOf('tag') > -1) {
+                    link.addClass('js-tag-index');
+                }
+
+                if (link.attr('href').indexOf('author') > -1) {
+                    link.addClass('js-author-index');
+                }
+            }
+        });
+    }
+    ajaxLinkClass();
+
+
+    /* ==========================================================================
+       Ajax Loading
+       ========================================================================== */
+
+    var History = window.History;
+    var loading = false;
+    var ajaxContainer = $('#ajax-container');
+
+    function parseAjaxResponse(result) {
+        return new window.DOMParser().parseFromString(result, 'text/html');
+    }
+
+    $(document).ready( function() {
+      // Async CSS loader for making PageSpeed happy !
+      var stylesheet = document.createElement('link');
+      stylesheet.href = config.baseUrl + 'css/main.css';
+      stylesheet.rel = 'stylesheet';
+      stylesheet.type = 'text/css';
+      // temporarily set media to something inapplicable to ensure it'll fetch without blocking render
+      stylesheet.media = 'bogus';
+      // set the media back when the stylesheet loads
+      stylesheet.onload = function() {stylesheet.media = 'all'}
+      document.getElementsByTagName('head')[0].appendChild(stylesheet);
+
+      // Fade out
+      $('#loader-wrapper').fadeOut(300);
+      $('#wrapper').fadeIn(800);
+    });
+
+    if (!History || !History.enabled) {
+        return false;
+    }
+
+    History.Adapter.bind(window, 'statechange', function() {
+        html.addClass('loading');
+        var State = History.getState();
+        $.get(State.url, function(result) {
+            var nextDocument = parseAjaxResponse(result);
+            var nextContainer = nextDocument.getElementById('ajax-container');
+            var nextBodyClass = nextDocument.body ? nextDocument.body.className : '';
+            var title = nextDocument.title || document.title;
+
+            if (!nextContainer) {
+                window.location = State.url;
+                return;
+            }
+
+            ajaxContainer.fadeOut(500, function() {
+                if (html.hasClass('push-next')) {
+                    html.removeClass('push-next');
+                    html.addClass('pushed-next');
+                }
+                if (html.hasClass('push-prev')) {
+                    html.removeClass('push-prev');
+                    html.addClass('pushed-prev');
+                }
+                document.title = $('<textarea/>').html(title).text();
+                ajaxContainer.html(nextContainer.innerHTML);
+                body.attr('class', nextBodyClass);
+                NProgress.done();
+                ajaxContainer.fadeIn(500);
+                $(document).scrollTop(0);
+                setTimeout(function() {
+                    html.removeClass('loading');
+                }, 200);
+                reload();
+                loading = false;
+            });
+        }).fail(function() {
+            window.location = State.url;
+        });
+    });
+
+    $('body').on('click', '.js-ajax-link', function(e) {
+        e.preventDefault();
+
+        var link = $(this);
+
+        if (link.hasClass('post-nav-item') || link.hasClass('pagination-item')) {
+            if (link.hasClass('post-nav-next') || link.hasClass('pagination-next')) {
+                html.removeClass('pushed-prev');
+                html.addClass('push-next');
+            }
+            if (link.hasClass('post-nav-prev') || link.hasClass('pagination-prev')) {
+                html.removeClass('pushed-next');
+                html.addClass('push-prev');
+            }
+        } else {
+            html.removeClass('pushed-next');
+            html.removeClass('pushed-prev');
+        }
+
+        if (loading === false) {
+            var currentState = History.getState();
+            var url = $(this).prop('href');
+            var title = $(this).attr('title') || null;
+
+            if (url.replace(/\/$/, "") !== currentState.url.replace(/\/$/, "")) {
+                loading = true;
+                html.addClass('loading');
+                NProgress.start();
+                History.pushState({}, title, url);
+            }
+        }
+    });
+
+    $('body').on('click', '#post-index .post .js-ajax-link', function() {
+        var post = $(this).parents('.post');
+        post.addClass('initial');
+        setTimeout(function() {
+            post.addClass('active');
+        }, 1);
+    });
+
+});

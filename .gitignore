@@ -1,5 +1,9 @@
 .idea
 public/
+public-dev/
+archive-static-export/
+docs/
+.hugo_build.lock
 hugodeploy.yaml
 
 
@@ -61,4 +65,3 @@ typings/
 
 # dotenv environment variables file
 .env
-
