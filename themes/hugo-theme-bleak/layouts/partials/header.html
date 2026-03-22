@@ -13,6 +13,10 @@
         {{ partial "_og.html" . }}
         {{ partial "_twitter_cards.html" . }}
 
+        {{ if and .Site.Params.umami.enabled .Site.Params.umami.scripturl .Site.Params.umami.websiteid }}
+        <script defer src="{{ .Site.Params.umami.scripturl }}" data-website-id="{{ .Site.Params.umami.websiteid }}"></script>
+        {{ end }}
+
     <script type="text/javascript">
       var config = {
         baseUrl: "{{ .Site.BaseURL }}"

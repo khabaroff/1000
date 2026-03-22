@@ -32,6 +32,10 @@ description = "Я люблю свои пластинки больше, чем т
 disqus = "khabaroff"
 site_description = "Я люблю свои пластинки больше, чем тебя"
 subtitle = "Я люблю свои пластинки больше, чем тебя"
+[params.umami]
+enabled = true
+scriptURL = "https://stats.khabaroff.studio/script.js"
+websiteID = "06fd6469-6577-4091-b4e6-181d25452057"
 [params.author]
 email = "khabaroff@gmail.com"
 facebook = "https://www.facebook.com/khabaroff"

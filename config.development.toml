@@ -1,2 +1,5 @@
 baseURL = "http://localhost:1313/"
 canonifyURLs = false
+
+[params.umami]
+enabled = false
